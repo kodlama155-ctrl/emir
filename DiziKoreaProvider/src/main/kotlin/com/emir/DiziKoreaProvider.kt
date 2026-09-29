@@ -166,6 +166,7 @@ class DiziKoreaProvider : MainAPI() {
                 val m3u8Url = apiResponse?.securedLink ?: apiResponse?.videoSource
                 if (!m3u8Url.isNullOrBlank()) {
                     M3u8Helper.generateM3u8(
+                        source = name,
                         name = name,
                         streamUrl = m3u8Url,
                         referer = "$origin/"
