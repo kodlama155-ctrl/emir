@@ -3,6 +3,6 @@
   "description": "Emir TV & DiziKorea Otomatik Akış Deposu",
   "manifestVersion": 1,
   "pluginLists": [
-    "https://raw.githubusercontent.com/kodlama155-ctrl/emir/main/plugins.json"
+    "https://raw.githubusercontent.com/kodlama155-ctrl/emir/builds/plugins.json"
   ]
 }

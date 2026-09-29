@@ -1,0 +1,56 @@
+name: Cloudstream Plugin Builder
+
+on:
+  push:
+    branches:
+      - main
+    paths-ignore:
+      - "*.md"
+      - "dizikorea.m3u"
+      - "dizikorea_catalog.json"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout Source Code
+        uses: actions/checkout@v4
+        with:
+          path: "src"
+
+      - name: Checkout Builds Branch
+        uses: actions/checkout@v4
+        with:
+          ref: "builds"
+          path: "builds"
+
+      - name: Clean Old Artifacts
+        run: rm -f $GITHUB_WORKSPACE/builds/*.cs3 || true
+
+      - name: Setup Java JDK
+        uses: actions/setup-java@v4
+        with:
+          distribution: "temurin"
+          java-version: "17"
+
+      - name: Setup Android SDK
+        uses: android-actions/setup-android@v3
+
+      - name: Build Cloudstream Plugins
+        run: |
+          cd $GITHUB_WORKSPACE/src
+          chmod +x gradlew
+          ./gradlew make makePluginsJson
+          cp **/build/*.cs3 $GITHUB_WORKSPACE/builds/ || true
+          cp build/plugins.json $GITHUB_WORKSPACE/builds/ || true
+
+      - name: Push Compiled Plugins to Builds Branch
+        run: |
+          cd $GITHUB_WORKSPACE/builds
+          git config --local user.email "actions@github.com"
+          git config --local user.name "GitHub Actions"
+          git add .
+          git diff --staged --quiet || (git commit -m "Auto Build CloudStream Plugins: $GITHUB_SHA" && git push origin builds)
