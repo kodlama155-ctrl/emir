@@ -1,0 +1,22 @@
+[
+    {
+        "fileHash": "sha256-6fecc1c73447c2297f676202240893657ddf545ee1469a7dc0531e1c7c804e0a",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/kodlama155-ctrl/emir",
+        "fileSize": 18821,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "Emir"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "version": -1,
+        "internalName": "DiziKoreaProvider",
+        "description": "DiziKorea (dizikorea3.com) Kore, Asya Dizileri ve Filmler",
+        "url": "https://raw.githubusercontent.com/kodlama155-ctrl/emir/builds/DiziKoreaProvider.cs3",
+        "name": "DiziKoreaProvider"
+    }
+]
