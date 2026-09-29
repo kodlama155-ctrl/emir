@@ -12,8 +12,11 @@ buildscript {
 
     dependencies {
         classpath("com.android.tools.build:gradle:8.7.3")
-        classpath("com.github.recloudstream.gradle:gradle:master-master-32895aedb6-1")
         classpath("org.jetbrains.kotlin:kotlin-gradle-plugin:2.1.0")
+        classpath(files("gradle/plugins/cloudstream-gradle.jar"))
+        classpath("org.ow2.asm:asm:9.7.1")
+        classpath("org.ow2.asm:asm-tree:9.7.1")
+        classpath("com.github.vidstige:jadb:v1.2.1")
     }
 }
 
