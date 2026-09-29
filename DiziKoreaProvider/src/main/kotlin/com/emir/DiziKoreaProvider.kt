@@ -115,7 +115,7 @@ class DiziKoreaProvider : MainAPI() {
         
         val iframes = mutableSetOf<String>()
         doc.select("iframe").forEach { iframe ->
-            val src = iframe.attr("src").ifBlank { iframe.attr("data-src") }
+            val src = iframe.attr("data-src").ifBlank { iframe.attr("src") }
             if (src.isNotBlank()) iframes.add(fixUrl(src))
         }
 
@@ -129,6 +129,11 @@ class DiziKoreaProvider : MainAPI() {
         return true
     }
 
+    data class VideoApiResponse(
+        val videoSource: String? = null,
+        val securedLink: String? = null
+    )
+
     private suspend fun extractFirePlayer(
         url: String,
         referer: String,
@@ -136,29 +141,42 @@ class DiziKoreaProvider : MainAPI() {
         callback: (ExtractorLink) -> Unit
     ) {
         try {
-            val response = app.get(url, referer = referer).text
-            
-            val m3u8Regex = Regex("""(?:file|url)\s*:\s*["'](https?://[^"']+\.m3u8[^"']*)["']""")
-            val mp4Regex = Regex("""(?:file|url)\s*:\s*["'](https?://[^"']+\.mp4[^"']*)["']""")
+            val videoId = url.substringAfter("/video/").substringBefore("?").substringBefore("/")
+            if (videoId.isNotBlank()) {
+                val origin = if (url.contains("://")) {
+                    val parts = url.split("/")
+                    "${parts[0]}//${parts[2]}"
+                } else "https://playerdkorea.xyz"
 
-            m3u8Regex.find(response)?.groupValues?.get(1)?.let { m3u8Url ->
-                M3u8Helper.generateM3u8(
-                    name,
-                    m3u8Url,
-                    url
-                ).forEach(callback)
-            }
-
-            mp4Regex.find(response)?.groupValues?.get(1)?.let { mp4Url ->
-                callback(
-                    newExtractorLink(
-                        name = name,
-                        source = name,
-                        url = mp4Url,
-                        type = ExtractorLinkType.VIDEO
+                val apiUrl = "$origin/player/index.php?data=$videoId&do=getVideo"
+                val apiResponse = app.post(
+                    apiUrl,
+                    headers = mapOf(
+                        "Referer" to url,
+                        "Origin" to origin,
+                        "X-Requested-With" to "XMLHttpRequest",
+                        "Content-Type" to "application/x-www-form-urlencoded; charset=UTF-8"
+                    ),
+                    data = mapOf(
+                        "hash" to videoId,
+                        "r" to referer
                     )
-                )
+                ).parsedSafe<VideoApiResponse>()
+
+                val m3u8Url = apiResponse?.securedLink ?: apiResponse?.videoSource
+                if (!m3u8Url.isNullOrBlank()) {
+                    M3u8Helper.generateM3u8(
+                        name = name,
+                        streamUrl = m3u8Url,
+                        referer = "$origin/"
+                    ).forEach(callback)
+                    return
+                }
             }
+        } catch (_: Exception) {}
+
+        try {
+            loadExtractor(url, referer, subtitleCallback, callback)
         } catch (_: Exception) {}
     }
 }
