@@ -1,0 +1,15 @@
+[
+  {
+    "name": "DiziKorea",
+    "internalName": "DiziKoreaProvider",
+    "authors": ["Emir"],
+    "description": "Kore, Çin, Japon Dizileri ve Filmler (dizikorea3.com)",
+    "version": 1,
+    "apiVersion": 1,
+    "status": 1,
+    "language": "tr",
+    "tvTypes": ["TvSeries", "Movie"],
+    "iconUrl": "https://raw.githubusercontent.com/kodlama155-ctrl/emir/main/icon.png",
+    "url": "https://raw.githubusercontent.com/kodlama155-ctrl/emir/main/DiziKorea.cs3"
+  }
+]
