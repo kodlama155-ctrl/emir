@@ -37,9 +37,6 @@ jobs:
           java-version: 17
           distribution: "temurin"
 
-      - name: Setup Android SDK
-        uses: android-actions/setup-android@v3
-
       - name: Build Cloudstream Plugins
         run: |
           cd $GITHUB_WORKSPACE/src
