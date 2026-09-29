@@ -1,19 +1,19 @@
-#EXTM3U name="DiziKorea Premium"
+#EXTM3U name="DiziKorea Full Archive"
 
 #EXTINF:-1 tvg-id="The World of Love" tvg-name="The World of Love" tvg-logo="https://dizikorea3.com/assets/uploads/movies/.thumbs/the-world-of-love-180w-q70.webp?v=1790672549" group-title="Filmler",The World of Love (2026) [★N/A]
-https://transit-up-1170-i.vmwesa.online/hls2/01/02961/8r4gosqvc9hy_o/master.m3u8?t=6Y1AD2l96y96nvNntqN-ozDGXTvngogbIAti6uj98U4=&s=1790703875&e=43200&v=&i=0.4&sp=0&asn=34296
+https://dizikorea3.com/film/the-world-of-love-izle
 
 #EXTINF:-1 tvg-id="Love Barista" tvg-name="Love Barista" tvg-logo="https://dizikorea3.com/assets/uploads/movies/.thumbs/love-barista-180w-q70.webp?v=1789570727" group-title="Filmler",Love Barista (2026) [★N/A]
-https://prx-vi-a-1.vmpx.online/hls2/04/02929/oajutomygv4n_n/master.m3u8?t=ZJV8_gKBvHqCGnssWI7w7j-2bCKLRuXN2VAgF6CaI-s=&s=1790703875&e=43200&v=&srv=box-1655-r&i=0.4&sp=0&asn=34296
+https://dizikorea3.com/film/love-barista-izle
 
 #EXTINF:-1 tvg-id="Damsel" tvg-name="Damsel" tvg-logo="https://dizikorea3.com/assets/uploads/movies/.thumbs/damsel-180w-q70.webp?v=1788732065" group-title="Filmler",Damsel (2026) [★N/A]
-https://player.vidmody.com/WkVoUmVFMTZVVEZOYWxFd1RtYzlQUT09
+https://dizikorea3.com/film/damsel-izle
 
 #EXTINF:-1 tvg-id="Dhamaal 4" tvg-name="Dhamaal 4" tvg-logo="https://dizikorea3.com/assets/uploads/movies/.thumbs/dhamaal-4-180w-q70.webp?v=1788730045" group-title="Filmler",Dhamaal 4 (2026) [★N/A]
-https://player.vidmody.com/WkVoUmVVNTZWVEJQUkZVeFRuYzlQUT09
+https://dizikorea3.com/film/dhamaal-4-izle
 
 #EXTINF:-1 tvg-id="Backrooms" tvg-name="Backrooms" tvg-logo="https://dizikorea3.com/assets/uploads/movies/.thumbs/backrooms-180w-q70.webp?v=1788729857" group-title="Filmler",Backrooms (2026) [★N/A]
-https://player.vidmody.com/WkVoUmVVNXFXVEZPZWtsNlRtYzlQUT09
+https://dizikorea3.com/film/backrooms-izle
 
 #EXTINF:-1 tvg-id="The Girl in the River" tvg-name="The Girl in the River" tvg-logo="https://dizikorea3.com/assets/uploads/movies/.thumbs/the-girl-in-the-river-180w-q70.webp?v=1788729256" group-title="Filmler",The Girl in the River (2026) [★N/A]
 https://dizikorea3.com/film/the-girl-in-the-river-izle
@@ -72,23 +72,383 @@ https://dizikorea3.com/film/the-informant-izle
 #EXTINF:-1 tvg-id="Once We Were Us" tvg-name="Once We Were Us" tvg-logo="https://dizikorea3.com/assets/uploads/movies/.thumbs/once-we-were-us-180w-q70.webp?v=1786118466" group-title="Filmler",Once We Were Us (2026) [★N/A]
 https://dizikorea3.com/film/once-we-were-us-izle
 
-#EXTINF:-1 tvg-id="Love on the Menu" tvg-name="Love on the Menu" tvg-logo="https://dizikorea3.com/assets/uploads/series/.thumbs/love-on-the-menu-180w-q70.webp?v=1786118465" group-title="Kore Dizileri",Love on the Menu (2026) [★N/A]
-https://dizikorea3.com/dizi/love-on-the-menu-izle
+#EXTINF:-1 tvg-id="Boy in the Pool" tvg-name="Boy in the Pool" tvg-logo="https://dizikorea3.com/assets/uploads/movies/.thumbs/boy-in-the-pool-180w-q70.webp?v=1786118513" group-title="Filmler",Boy in the Pool (2026) [★N/A]
+https://dizikorea3.com/film/boy-in-the-pool-izle
 
-#EXTINF:-1 tvg-id="Dive into You" tvg-name="Dive into You" tvg-logo="https://dizikorea3.com/assets/uploads/series/.thumbs/dive-into-you-180w-q70.webp?v=1787913024" group-title="Kore Dizileri",Dive into You (2026) [★N/A]
-https://dizikorea3.com/dizi/dive-into-you-izle
+#EXTINF:-1 tvg-id="Project Y" tvg-name="Project Y" tvg-logo="https://dizikorea3.com/assets/uploads/movies/.thumbs/project-y-180w-q70.webp?v=1786118466" group-title="Filmler",Project Y (2026) [★N/A]
+https://dizikorea3.com/film/project-y-izle
 
-#EXTINF:-1 tvg-id="OK! Let’s Get Divorced" tvg-name="OK! Let’s Get Divorced" tvg-logo="https://dizikorea3.com/assets/uploads/series/.thumbs/yes-lets-get-a-divorce-180w-q70.webp?v=1786118467" group-title="Kore Dizileri",OK! Let’s Get Divorced (2026) [★N/A]
-https://dizikorea3.com/dizi/ok-lets-get-a-divorce-izle
+#EXTINF:-1 tvg-id="Pavane" tvg-name="Pavane" tvg-logo="https://dizikorea3.com/assets/uploads/movies/.thumbs/pavane-180w-q70.webp?v=1786118514" group-title="Filmler",Pavane (2026) [★N/A]
+https://dizikorea3.com/film/pavane-izle
+
+#EXTINF:-1 tvg-id="Even If This Love Disappears Tonight" tvg-name="Even If This Love Disappears Tonight" tvg-logo="https://dizikorea3.com/assets/uploads/movies/.thumbs/even-if-this-love-disappears-tonight-180w-q70.webp?v=1786118514" group-title="Filmler",Even If This Love Disappears Tonight (2026) [★N/A]
+https://dizikorea3.com/film/even-if-this-love-disappears-tonight-izle
+
+#EXTINF:-1 tvg-id="The Unrighteous" tvg-name="The Unrighteous" tvg-logo="https://dizikorea3.com/assets/uploads/movies/.thumbs/the-unrighteous-180w-q70.webp?v=1786118466" group-title="Filmler",The Unrighteous (2026) [★N/A]
+https://dizikorea3.com/film/the-unrighteous-izle
+
+#EXTINF:-1 tvg-id="Streaming" tvg-name="Streaming" tvg-logo="https://dizikorea3.com/assets/uploads/movies/.thumbs/streaming-180w-q70.webp?v=1786118467" group-title="Filmler",Streaming (2026) [★N/A]
+https://dizikorea3.com/film/streaming-izle
+
+#EXTINF:-1 tvg-id="Big Deal" tvg-name="Big Deal" tvg-logo="https://dizikorea3.com/assets/uploads/movies/.thumbs/big-deal-180w-q70.webp?v=1786118514" group-title="Filmler",Big Deal (2026) [★N/A]
+https://dizikorea3.com/film/big-deal-izle
+
+#EXTINF:-1 tvg-id="Homeward Bound" tvg-name="Homeward Bound" tvg-logo="https://dizikorea3.com/assets/uploads/movies/.thumbs/homeward-bound-180w-q70.webp?v=1786118514" group-title="Filmler",Homeward Bound (2026) [★N/A]
+https://dizikorea3.com/film/homeward-bound-izle
+
+#EXTINF:-1 tvg-id="The Ugly" tvg-name="The Ugly" tvg-logo="https://dizikorea3.com/assets/uploads/movies/.thumbs/the-ugly-180w-q70.webp?v=1786118467" group-title="Filmler",The Ugly (2026) [★N/A]
+https://dizikorea3.com/film/the-ugly-izle
+
+#EXTINF:-1 tvg-id="Boss" tvg-name="Boss" tvg-logo="https://dizikorea3.com/assets/uploads/movies/.thumbs/boss-180w-q70.webp?v=1786118514" group-title="Filmler",Boss (2026) [★N/A]
+https://dizikorea3.com/film/boss-izle
+
+#EXTINF:-1 tvg-id="The Great Flood" tvg-name="The Great Flood" tvg-logo="https://dizikorea3.com/assets/uploads/movies/.thumbs/the-great-flood-180w-q70.webp?v=1786118514" group-title="Filmler",The Great Flood (2026) [★N/A]
+https://dizikorea3.com/film/the-great-flood-izle
+
+#EXTINF:-1 tvg-id="10DANCE" tvg-name="10DANCE" tvg-logo="https://dizikorea3.com/assets/uploads/movies/.thumbs/10dance-180w-q70.webp?v=1786118562" group-title="Filmler",10DANCE (2026) [★N/A]
+https://dizikorea3.com/film/10dance-izle
+
+#EXTINF:-1 tvg-id="Murderer Report" tvg-name="Murderer Report" tvg-logo="https://dizikorea3.com/assets/uploads/movies/.thumbs/murderer-report-180w-q70.webp?v=1786118467" group-title="Filmler",Murderer Report (2026) [★N/A]
+https://dizikorea3.com/film/murderer-report-izle
+
+#EXTINF:-1 tvg-id="Left-Handed Girl" tvg-name="Left-Handed Girl" tvg-logo="https://dizikorea3.com/assets/uploads/movies/.thumbs/left-handed-girl-180w-q70.webp?v=1786118562" group-title="Filmler",Left-Handed Girl (2026) [★N/A]
+https://dizikorea3.com/film/left-handed-girl-izle
+
+#EXTINF:-1 tvg-id="No Other Choice" tvg-name="No Other Choice" tvg-logo="https://dizikorea3.com/assets/uploads/movies/.thumbs/no-other-choice-180w-q70.webp?v=1786118467" group-title="Filmler",No Other Choice (2026) [★N/A]
+https://dizikorea3.com/film/no-other-choice-izle
+
+#EXTINF:-1 tvg-id="The Shadow&#039;s Edge" tvg-name="The Shadow&#039;s Edge" tvg-logo="https://dizikorea3.com/assets/uploads/movies/.thumbs/the-shadows-edge-180w-q70.webp?v=1786118467" group-title="Filmler",The Shadow&#039;s Edge (2026) [★N/A]
+https://dizikorea3.com/film/the-shadows-edge-izle-dq1
+
+#EXTINF:-1 tvg-id="The Old Woman with the Knife" tvg-name="The Old Woman with the Knife" tvg-logo="https://dizikorea3.com/assets/uploads/movies/.thumbs/the-old-woman-with-the-knife-180w-q70.webp?v=1786118563" group-title="Filmler",The Old Woman with the Knife (2026) [★N/A]
+https://dizikorea3.com/film/the-old-woman-with-the-knife-izle
+
+#EXTINF:-1 tvg-id="Midnight Sun" tvg-name="Midnight Sun" tvg-logo="https://dizikorea3.com/assets/uploads/movies/.thumbs/midnight-sun-180w-q70.webp?v=1786118563" group-title="Filmler",Midnight Sun (2026) [★N/A]
+https://dizikorea3.com/film/midnight-sun-izle
+
+#EXTINF:-1 tvg-id="The Paradise of Thorns" tvg-name="The Paradise of Thorns" tvg-logo="https://dizikorea3.com/assets/uploads/movies/.thumbs/the-paradise-of-thorns-180w-q70.webp?v=1786118467" group-title="Filmler",The Paradise of Thorns (2026) [★N/A]
+https://dizikorea3.com/film/the-paradise-of-thorns-izle
+
+#EXTINF:-1 tvg-id="Holy Night: Demon Hunters" tvg-name="Holy Night: Demon Hunters" tvg-logo="https://dizikorea3.com/assets/uploads/movies/.thumbs/holy-night-demon-hunters-180w-q70.webp?v=1786118467" group-title="Filmler",Holy Night: Demon Hunters (2026) [★N/A]
+https://dizikorea3.com/film/holy-night-demon-hunters-izle
+
+#EXTINF:-1 tvg-id="Virus" tvg-name="Virus" tvg-logo="https://dizikorea3.com/assets/uploads/movies/.thumbs/virus-180w-q70.webp?v=1786118563" group-title="Filmler",Virus (2026) [★N/A]
+https://dizikorea3.com/film/virus-izle
+
+#EXTINF:-1 tvg-id="Tastes of Horror" tvg-name="Tastes of Horror" tvg-logo="https://dizikorea3.com/assets/uploads/movies/.thumbs/tastes-of-horror-180w-q70.webp?v=1786118563" group-title="Filmler",Tastes of Horror (2026) [★N/A]
+https://dizikorea3.com/film/tastes-of-horror-izle
+
+#EXTINF:-1 tvg-id="Amazon Bullseye" tvg-name="Amazon Bullseye" tvg-logo="https://dizikorea3.com/assets/uploads/movies/.thumbs/amazon-bullseye-180w-q70.webp?v=1786118563" group-title="Filmler",Amazon Bullseye (2026) [★N/A]
+https://dizikorea3.com/film/amazon-bullseye-izle
+
+#EXTINF:-1 tvg-id="When I Sleep" tvg-name="When I Sleep" tvg-logo="https://dizikorea3.com/assets/uploads/movies/.thumbs/when-i-sleep-180w-q70.webp?v=1786118563" group-title="Filmler",When I Sleep (2026) [★N/A]
+https://dizikorea3.com/film/when-i-sleep-izle
+
+#EXTINF:-1 tvg-id="Noise: Lanetin Sesi" tvg-name="Noise: Lanetin Sesi" tvg-logo="https://dizikorea3.com/assets/uploads/movies/.thumbs/noise-lanetin-sesi-180w-q70.webp?v=1786118467" group-title="Filmler",Noise: Lanetin Sesi (2026) [★N/A]
+https://dizikorea3.com/film/noise-izle
+
+#EXTINF:-1 tvg-id="Hitman: Agent Jun" tvg-name="Hitman: Agent Jun" tvg-logo="https://dizikorea3.com/assets/uploads/movies/.thumbs/hitman-agent-jun-180w-q70.webp?v=1786118563" group-title="Filmler",Hitman: Agent Jun (2026) [★N/A]
+https://dizikorea3.com/film/hitman-agent-jun-izle
+
+#EXTINF:-1 tvg-id="Hitman 2" tvg-name="Hitman 2" tvg-logo="https://dizikorea3.com/assets/uploads/movies/.thumbs/hitman-2-180w-q70.webp?v=1786118563" group-title="Filmler",Hitman 2 (2026) [★N/A]
+https://dizikorea3.com/film/hitman-2-izle
+
+#EXTINF:-1 tvg-id="Love Untangled" tvg-name="Love Untangled" tvg-logo="https://dizikorea3.com/assets/uploads/movies/.thumbs/love-untangled-180w-q70.webp?v=1786118563" group-title="Filmler",Love Untangled (2026) [★N/A]
+https://dizikorea3.com/film/love-untangled-izle
+
+#EXTINF:-1 tvg-id="Good News" tvg-name="Good News" tvg-logo="https://dizikorea3.com/assets/uploads/movies/.thumbs/good-news-180w-q70.webp?v=1786118467" group-title="Filmler",Good News (2026) [★N/A]
+https://dizikorea3.com/film/good-news-izle
+
+#EXTINF:-1 tvg-id="My Daughter Is a Zombie" tvg-name="My Daughter Is a Zombie" tvg-logo="https://dizikorea3.com/assets/uploads/movies/.thumbs/my-daughter-is-a-zombie-180w-q70.webp?v=1786118564" group-title="Filmler",My Daughter Is a Zombie (2026) [★N/A]
+https://dizikorea3.com/film/my-daughter-is-a-zombie-izle
+
+#EXTINF:-1 tvg-id="Thunderstruck Cop" tvg-name="Thunderstruck Cop" tvg-logo="https://dizikorea3.com/assets/uploads/movies/.thumbs/thunderstruck-cop-180w-q70.webp?v=1786118564" group-title="Filmler",Thunderstruck Cop (2026) [★N/A]
+https://dizikorea3.com/film/thunderstruck-cop-izle
+
+#EXTINF:-1 tvg-id="Crypto Man" tvg-name="Crypto Man" tvg-logo="https://dizikorea3.com/assets/uploads/movies/.thumbs/crypto-man-180w-q70.webp?v=1786118564" group-title="Filmler",Crypto Man (2026) [★N/A]
+https://dizikorea3.com/film/crypto-man-izle
+
+#EXTINF:-1 tvg-id="Ghost Train" tvg-name="Ghost Train" tvg-logo="https://dizikorea3.com/assets/uploads/movies/.thumbs/ghost-train-180w-q70.webp?v=1786118467" group-title="Filmler",Ghost Train (2026) [★N/A]
+https://dizikorea3.com/film/ghost-train-izle
+
+#EXTINF:-1 tvg-id="Abroad" tvg-name="Abroad" tvg-logo="https://dizikorea3.com/assets/uploads/movies/.thumbs/abroad-180w-q70.webp?v=1786118467" group-title="Filmler",Abroad (2026) [★N/A]
+https://dizikorea3.com/film/abroad-izle
+
+#EXTINF:-1 tvg-id="Omniscient Reader: The Prophecy" tvg-name="Omniscient Reader: The Prophecy" tvg-logo="https://dizikorea3.com/assets/uploads/movies/.thumbs/omniscient-reader-the-prophecy-180w-q70.webp?v=1786118564" group-title="Filmler",Omniscient Reader: The Prophecy (2026) [★N/A]
+https://dizikorea3.com/film/omniscient-reader-the-prophecy-izle
+
+#EXTINF:-1 tvg-id="Mantis" tvg-name="Mantis" tvg-logo="https://dizikorea3.com/assets/uploads/movies/.thumbs/mantis-180w-q70.webp?v=1786118467" group-title="Filmler",Mantis (2026) [★N/A]
+https://dizikorea3.com/film/mantis-izle
+
+#EXTINF:-1 tvg-id="Pretty Crazy" tvg-name="Pretty Crazy" tvg-logo="https://dizikorea3.com/assets/uploads/movies/.thumbs/pretty-crazy-180w-q70.webp?v=1786118497" group-title="Filmler",Pretty Crazy (2026) [★N/A]
+https://dizikorea3.com/film/pretty-crazy-izle-d2
+
+#EXTINF:-1 tvg-id="The First Ride" tvg-name="The First Ride" tvg-logo="https://dizikorea3.com/assets/uploads/movies/.thumbs/the-first-ride-180w-q70.webp?v=1786118560" group-title="Filmler",The First Ride (2026) [★N/A]
+https://dizikorea3.com/film/the-first-ride-izle
+
+#EXTINF:-1 tvg-id="No Parking" tvg-name="No Parking" tvg-logo="https://dizikorea3.com/assets/uploads/movies/.thumbs/no-parking-180w-q70.webp?v=1786118467" group-title="Filmler",No Parking (2026) [★N/A]
+https://dizikorea3.com/film/no-parking-izle
+
+#EXTINF:-1 tvg-id="Home Behind Bars" tvg-name="Home Behind Bars" tvg-logo="https://dizikorea3.com/assets/uploads/movies/.thumbs/home-behind-bars-180w-q70.webp?v=1786118560" group-title="Filmler",Home Behind Bars (2026) [★N/A]
+https://dizikorea3.com/film/home-behind-bars-izle
+
+#EXTINF:-1 tvg-id="Only God Knows Everything" tvg-name="Only God Knows Everything" tvg-logo="https://dizikorea3.com/assets/uploads/movies/.thumbs/only-god-knows-everything-180w-q70.webp?v=1786118468" group-title="Filmler",Only God Knows Everything (2026) [★N/A]
+https://dizikorea3.com/film/only-god-knows-everything-izle
+
+#EXTINF:-1 tvg-id="Humint" tvg-name="Humint" tvg-logo="https://dizikorea3.com/assets/uploads/movies/.thumbs/humint-180w-q70.webp?v=1786118468" group-title="Filmler",Humint (2026) [★N/A]
+https://dizikorea3.com/film/humint-izle
+
+#EXTINF:-1 tvg-id="Two Seasons, Two Strangers" tvg-name="Two Seasons, Two Strangers" tvg-logo="https://dizikorea3.com/assets/uploads/movies/.thumbs/two-seasons-two-strangers-180w-q70.webp?v=1786118560" group-title="Filmler",Two Seasons, Two Strangers (2026) [★N/A]
+https://dizikorea3.com/film/two-seasons-two-strangers-izle
+
+#EXTINF:-1 tvg-id="The Favor" tvg-name="The Favor" tvg-logo="https://dizikorea3.com/assets/uploads/movies/.thumbs/the-favor-180w-q70.webp?v=1786118468" group-title="Filmler",The Favor (2026) [★N/A]
+https://dizikorea3.com/film/the-favor-izle
+
+#EXTINF:-1 tvg-id="My Dearest Assassin" tvg-name="My Dearest Assassin" tvg-logo="https://dizikorea3.com/assets/uploads/movies/.thumbs/my-dearest-assassin-180w-q70.webp?v=1786118560" group-title="Filmler",My Dearest Assassin (2026) [★N/A]
+https://dizikorea3.com/film/my-dearest-assassin-izle
+
+#EXTINF:-1 tvg-id="The Woman in the White Car" tvg-name="The Woman in the White Car" tvg-logo="https://dizikorea3.com/assets/uploads/movies/.thumbs/the-woman-in-the-white-car-180w-q70.webp?v=1786118468" group-title="Filmler",The Woman in the White Car (2026) [★N/A]
+https://dizikorea3.com/film/the-woman-in-the-white-car-izle
+
+#EXTINF:-1 tvg-id="Heartman: Rock and Love" tvg-name="Heartman: Rock and Love" tvg-logo="https://dizikorea3.com/assets/uploads/movies/.thumbs/heartman-rock-and-love-180w-q70.webp?v=1786118561" group-title="Filmler",Heartman: Rock and Love (2026) [★N/A]
+https://dizikorea3.com/film/heartman-rock-and-love-izle
+
+#EXTINF:-1 tvg-id="By Quantum Physics: A Nightlife Venture" tvg-name="By Quantum Physics: A Nightlife Venture" tvg-logo="https://dizikorea3.com/assets/uploads/movies/.thumbs/by-quantum-physics-a-nightlife-venture-180w-q70.webp?v=1786118561" group-title="Filmler",By Quantum Physics: A Nightlife Venture (2026) [★N/A]
+https://dizikorea3.com/film/by-quantum-physics-a-nightlife-venture-izle
+
+#EXTINF:-1 tvg-id="96 Minutes" tvg-name="96 Minutes" tvg-logo="https://dizikorea3.com/assets/uploads/movies/.thumbs/96-minutes-180w-q70.webp?v=1786118468" group-title="Filmler",96 Minutes (2026) [★N/A]
+https://dizikorea3.com/film/96-minutes-izle
+
+#EXTINF:-1 tvg-id="Double Happiness" tvg-name="Double Happiness" tvg-logo="https://dizikorea3.com/assets/uploads/movies/.thumbs/double-happiness-180w-q70.webp?v=1786118561" group-title="Filmler",Double Happiness (2026) [★N/A]
+https://dizikorea3.com/film/double-happiness-izle
+
+#EXTINF:-1 tvg-id="Husbands in Action" tvg-name="Husbands in Action" tvg-logo="https://dizikorea3.com/assets/uploads/movies/.thumbs/husbands-in-action-180w-q70.webp?v=1786118561" group-title="Filmler",Husbands in Action (2026) [★N/A]
+https://dizikorea3.com/film/husbands-in-action-izle
+
+#EXTINF:-1 tvg-id="Yadang: The Snitch" tvg-name="Yadang: The Snitch" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/movies/original/.thumbs/yadang-the-snitch-1251-180w-q70.webp?v=1786118561" group-title="Filmler",Yadang: The Snitch (2026) [★N/A]
+https://dizikorea3.com/film/yadang-the-snitch-izle
+
+#EXTINF:-1 tvg-id="It&#039;s Okay" tvg-name="It&#039;s Okay" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/movies/original/.thumbs/its-okay-7119-180w-q70.webp?v=1786118561" group-title="Filmler",It&#039;s Okay (2026) [★N/A]
+https://dizikorea3.com/film/its-okay-izle
+
+#EXTINF:-1 tvg-id="The Noisy Mansion" tvg-name="The Noisy Mansion" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/movies/original/.thumbs/the-noisy-mansion-4495-180w-q70.webp?v=1786118561" group-title="Filmler",The Noisy Mansion (2026) [★N/A]
+https://dizikorea3.com/film/the-noisy-mansion-izle
+
+#EXTINF:-1 tvg-id="Lost in Starlight" tvg-name="Lost in Starlight" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/movies/original/.thumbs/lost-in-starlight-8920-180w-q70.webp?v=1786118561" group-title="Filmler",Lost in Starlight (2026) [★N/A]
+https://dizikorea3.com/film/lost-in-starlight-izle
+
+#EXTINF:-1 tvg-id="Nocturnal" tvg-name="Nocturnal" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/movies/original/.thumbs/nocturnal-5166-180w-q70.webp?v=1786118562" group-title="Filmler",Nocturnal (2026) [★N/A]
+https://dizikorea3.com/film/nocturnal-izle
+
+#EXTINF:-1 tvg-id="You Are the Apple of My Eye" tvg-name="You Are the Apple of My Eye" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/movies/original/.thumbs/you-are-the-apple-of-my-eye-8479-180w-q70.webp?v=1786118562" group-title="Filmler",You Are the Apple of My Eye (2026) [★N/A]
+https://dizikorea3.com/film/you-are-the-apple-of-my-eye-izle
+
+#EXTINF:-1 tvg-id="The Match" tvg-name="The Match" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/movies/original/.thumbs/the-match-4779-180w-q70.webp?v=1786118562" group-title="Filmler",The Match (2026) [★N/A]
+https://dizikorea3.com/film/the-match-izle
+
+#EXTINF:-1 tvg-id="Collectors" tvg-name="Collectors" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/movies/original/.thumbs/collectors-1898-180w-q70.webp?v=1786118562" group-title="Filmler",Collectors (2026) [★N/A]
+https://dizikorea3.com/film/collectors-izle
+
+#EXTINF:-1 tvg-id="Forbidden Fairytale" tvg-name="Forbidden Fairytale" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/movies/original/.thumbs/forbidden-fairytale-3311-180w-q70.webp?v=1786118596" group-title="Filmler",Forbidden Fairytale (2026) [★N/A]
+https://dizikorea3.com/film/forbidden-fairytale-izle
+
+#EXTINF:-1 tvg-id="Secret: Untold Melody" tvg-name="Secret: Untold Melody" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/movies/original/.thumbs/secret-untold-melody-4691-180w-q70.webp?v=1786118596" group-title="Filmler",Secret: Untold Melody (2026) [★N/A]
+https://dizikorea3.com/film/secret-untold-melody-izle
+
+#EXTINF:-1 tvg-id="Harbin" tvg-name="Harbin" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/movies/original/.thumbs/harbin-8388-180w-q70.webp?v=1786118596" group-title="Filmler",Harbin (2026) [★N/A]
+https://dizikorea3.com/film/harbin-izle
+
+#EXTINF:-1 tvg-id="Dark Nuns" tvg-name="Dark Nuns" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/movies/original/.thumbs/dark-nuns-8532-180w-q70.webp?v=1786118597" group-title="Filmler",Dark Nuns (2026) [★N/A]
+https://dizikorea3.com/film/dark-nuns-izle
+
+#EXTINF:-1 tvg-id="Revelations" tvg-name="Revelations" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/movies/original/.thumbs/revelations-1647-180w-q70.webp?v=1786118597" group-title="Filmler",Revelations (2026) [★N/A]
+https://dizikorea3.com/film/revelations-izle
+
+#EXTINF:-1 tvg-id="Hear Me: Our Summer" tvg-name="Hear Me: Our Summer" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/movies/original/.thumbs/hear-me-our-summer-8346-180w-q70.webp?v=1786118597" group-title="Filmler",Hear Me: Our Summer (2026) [★N/A]
+https://dizikorea3.com/film/hear-me-our-summer-izle
+
+#EXTINF:-1 tvg-id="The Desperate Chase" tvg-name="The Desperate Chase" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/movies/original/.thumbs/the-desperate-chase-2260-180w-q70.webp?v=1786118597" group-title="Filmler",The Desperate Chase (2026) [★N/A]
+https://dizikorea3.com/film/the-desperate-chase-izle
+
+#EXTINF:-1 tvg-id="Devils Stay" tvg-name="Devils Stay" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/movies/original/.thumbs/devils-stay-2664-180w-q70.webp?v=1786118597" group-title="Filmler",Devils Stay (2026) [★N/A]
+https://dizikorea3.com/film/devils-stay-izle
+
+#EXTINF:-1 tvg-id="A Normal Family" tvg-name="A Normal Family" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/movies/original/.thumbs/a-normal-family-6726-180w-q70.webp?v=1786118597" group-title="Filmler",A Normal Family (2026) [★N/A]
+https://dizikorea3.com/film/a-normal-family-izle
+
+#EXTINF:-1 tvg-id="Beautiful Audrey" tvg-name="Beautiful Audrey" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/movies/original/.thumbs/beautiful-audrey-4370-180w-q70.webp?v=1786118597" group-title="Filmler",Beautiful Audrey (2026) [★N/A]
+https://dizikorea3.com/film/beautiful-audrey-izle
+
+#EXTINF:-1 tvg-id="Firefighters" tvg-name="Firefighters" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/movies/original/.thumbs/firefighters-9894-180w-q70.webp?v=1786118597" group-title="Filmler",Firefighters (2026) [★N/A]
+https://dizikorea3.com/film/firefighters-izle
+
+#EXTINF:-1 tvg-id="The Witcher: Sirens of the Deep" tvg-name="The Witcher: Sirens of the Deep" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/movies/original/.thumbs/the-witcher-sirens-of-the-deep-889-180w-q70.webp?v=1786118597" group-title="Filmler",The Witcher: Sirens of the Deep (2026) [★N/A]
+https://dizikorea3.com/film/the-witcher-sirens-of-the-deep-izle
+
+#EXTINF:-1 tvg-id="Handsome Guys" tvg-name="Handsome Guys" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/movies/original/.thumbs/handsome-guys-2348-180w-q70.webp?v=1786118597" group-title="Filmler",Handsome Guys (2026) [★N/A]
+https://dizikorea3.com/film/handsome-guys-izle
+
+#EXTINF:-1 tvg-id="One Win" tvg-name="One Win" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/movies/original/.thumbs/one-win-1137-180w-q70.webp?v=1786118598" group-title="Filmler",One Win (2026) [★N/A]
+https://dizikorea3.com/film/one-win-izle
+
+#EXTINF:-1 tvg-id="Bogota: City of the Lost" tvg-name="Bogota: City of the Lost" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/movies/original/.thumbs/bogota-city-of-the-lost-1423-180w-q70.webp?v=1786118598" group-title="Filmler",Bogota: City of the Lost (2026) [★N/A]
+https://dizikorea3.com/film/bogota-city-of-the-lost-izle
+
+#EXTINF:-1 tvg-id="Faceless" tvg-name="Faceless" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/movies/original/.thumbs/faceless-4731-180w-q70.webp?v=1786118598" group-title="Filmler",Faceless (2026) [★N/A]
+https://dizikorea3.com/film/faceless-izle
+
+#EXTINF:-1 tvg-id="Sizi De Aramızda Görmekten Mutluluk Duyarız" tvg-name="Sizi De Aramızda Görmekten Mutluluk Duyarız" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/movies/original/.thumbs/sizi-de-aramizda-gormekten-mutluluk-duyariz-1380-180w-q70.webp?v=1786118598" group-title="Filmler",Sizi De Aramızda Görmekten Mutluluk Duyarız (2026) [★N/A]
+https://dizikorea3.com/film/sizi-de-aramizda-gormekten-mutluluk-duyariz-izle
+
+#EXTINF:-1 tvg-id="You Will Die in 6 Hours" tvg-name="You Will Die in 6 Hours" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/movies/original/.thumbs/you-will-die-in-6-hours-9366-180w-q70.webp?v=1786118598" group-title="Filmler",You Will Die in 6 Hours (2026) [★N/A]
+https://dizikorea3.com/film/you-will-die-in-6-hours-izlex
+
+#EXTINF:-1 tvg-id="Love in the Big City" tvg-name="Love in the Big City" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/movies/original/.thumbs/love-in-the-big-city-1937-180w-q70.webp?v=1786118598" group-title="Filmler",Love in the Big City (2026) [★N/A]
+https://dizikorea3.com/film/love-in-the-big-city-izlex
+
+#EXTINF:-1 tvg-id="Dirty Money" tvg-name="Dirty Money" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/movies/original/.thumbs/dirty-money-2737-180w-q70.webp?v=1786118598" group-title="Filmler",Dirty Money (2026) [★N/A]
+https://dizikorea3.com/film/dirty-money-izlex
+
+#EXTINF:-1 tvg-id="I, the Executioner" tvg-name="I, the Executioner" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/movies/original/.thumbs/i-the-executioner-274-180w-q70.webp?v=1786118598" group-title="Filmler",I, the Executioner (2026) [★N/A]
+https://dizikorea3.com/film/i-the-executioner-izle
+
+#EXTINF:-1 tvg-id="Under Your Bed" tvg-name="Under Your Bed" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/movies/original/.thumbs/under-your-bed-1340-180w-q70.webp?v=1786118468" group-title="Filmler",Under Your Bed (2026) [★N/A]
+https://dizikorea3.com/film/under-your-bed-izle
+
+#EXTINF:-1 tvg-id="A Lonely Island in the Distant Sea" tvg-name="A Lonely Island in the Distant Sea" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/movies/original/.thumbs/a-lonely-island-in-the-distant-sea-8775-180w-q70.webp?v=1786118598" group-title="Filmler",A Lonely Island in the Distant Sea (2026) [★N/A]
+https://dizikorea3.com/film/a-lonely-island-in-the-distant-sea-izle
+
+#EXTINF:-1 tvg-id="Body Parts.zip" tvg-name="Body Parts.zip" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/movies/original/.thumbs/body-parts-zip-6089-180w-q70.webp?v=1786118468" group-title="Filmler",Body Parts.zip (2026) [★N/A]
+https://dizikorea3.com/film/body-parts-zip-izle
+
+#EXTINF:-1 tvg-id="How To Make Millions Before Grandma Dies" tvg-name="How To Make Millions Before Grandma Dies" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/movies/original/.thumbs/how-to-make-millions-before-grandma-dies-5283-180w-q70.webp?v=1786118617" group-title="Filmler",How To Make Millions Before Grandma Dies (2026) [★N/A]
+https://dizikorea3.com/film/how-to-make-millions-before-grandma-dies-izlex
+
+#EXTINF:-1 tvg-id="Wannabe" tvg-name="Wannabe" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/movies/original/.thumbs/wannabe-9210-180w-q70.webp?v=1786118617" group-title="Filmler",Wannabe (2026) [★N/A]
+https://dizikorea3.com/film/wannabe-izle
+
+#EXTINF:-1 tvg-id="Uprising" tvg-name="Uprising" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/movies/original/.thumbs/uprising-6683-180w-q70.webp?v=1786118617" group-title="Filmler",Uprising (2026) [★N/A]
+https://dizikorea3.com/film/uprising-izlex
+
+#EXTINF:-1 tvg-id="Pilot" tvg-name="Pilot" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/movies/original/.thumbs/pilot-3386-180w-q70.webp?v=1786118617" group-title="Filmler",Pilot (2026) [★N/A]
+https://dizikorea3.com/film/pilot-izle
+
+#EXTINF:-1 tvg-id="Victory" tvg-name="Victory" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/movies/original/.thumbs/victory-8676-180w-q70.webp?v=1786118617" group-title="Filmler",Victory (2026) [★N/A]
+https://dizikorea3.com/film/victory-izle
+
+#EXTINF:-1 tvg-id="The Hill of Secrets" tvg-name="The Hill of Secrets" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/movies/original/.thumbs/the-hill-of-secrets-308-180w-q70.webp?v=1786118617" group-title="Filmler",The Hill of Secrets (2026) [★N/A]
+https://dizikorea3.com/film/the-hill-of-secrets-izle
+
+#EXTINF:-1 tvg-id="Officer Black Belt" tvg-name="Officer Black Belt" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/movies/original/.thumbs/officer-black-belt-1587-180w-q70.webp?v=1786118617" group-title="Filmler",Officer Black Belt (2026) [★N/A]
+https://dizikorea3.com/film/officer-black-belt-izle
+
+#EXTINF:-1 tvg-id="Revolver" tvg-name="Revolver" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/movies/original/.thumbs/revolver-9549-180w-q70.webp?v=1786118617" group-title="Filmler",Revolver (2026) [★N/A]
+https://dizikorea3.com/film/revolver-izlex
+
+#EXTINF:-1 tvg-id="Escape" tvg-name="Escape" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/movies/original/.thumbs/escape-8264-180w-q70.webp?v=1786118617" group-title="Filmler",Escape (2026) [★N/A]
+https://dizikorea3.com/film/escape-izle
+
+#EXTINF:-1 tvg-id="The Boys" tvg-name="The Boys" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/movies/original/.thumbs/the-boys-8305-180w-q70.webp?v=1786118617" group-title="Filmler",The Boys (2026) [★N/A]
+https://dizikorea3.com/film/the-boys-izlex
+
+#EXTINF:-1 tvg-id="While You Were Sleeping" tvg-name="While You Were Sleeping" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/movies/original/.thumbs/while-you-were-sleeping-8315-180w-q70.webp?v=1786118618" group-title="Filmler",While You Were Sleeping (2026) [★N/A]
+https://dizikorea3.com/film/while-you-were-sleeping-izlex
+
+#EXTINF:-1 tvg-id="Again 1997" tvg-name="Again 1997" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/movies/original/.thumbs/again-1997-4874-180w-q70.webp?v=1786118618" group-title="Filmler",Again 1997 (2026) [★N/A]
+https://dizikorea3.com/film/again-1997-izlex
+
+#EXTINF:-1 tvg-id="Train to Busan 2: Peninsula" tvg-name="Train to Busan 2: Peninsula" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/movies/original/.thumbs/train-to-busan-2-peninsula-7538-180w-q70.webp?v=1786118618" group-title="Filmler",Train to Busan 2: Peninsula (2026) [★N/A]
+https://dizikorea3.com/film/train-to-busan-2-peninsula-izle
+
+#EXTINF:-1 tvg-id="Train to Busan" tvg-name="Train to Busan" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/movies/original/.thumbs/train-to-busan-1763-180w-q70.webp?v=1786118618" group-title="Filmler",Train to Busan (2026) [★N/A]
+https://dizikorea3.com/film/train-to-busan-izlex
+
+#EXTINF:-1 tvg-id="The Last 10 Years" tvg-name="The Last 10 Years" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/movies/original/.thumbs/the-last-10-years-9840-180w-q70.webp?v=1786118618" group-title="Filmler",The Last 10 Years (2026) [★N/A]
+https://dizikorea3.com/film/the-last-10-years-izle
+
+#EXTINF:-1 tvg-id="Thunderbird" tvg-name="Thunderbird" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/movies/original/.thumbs/thunderbird-3945-180w-q70.webp?v=1786118618" group-title="Filmler",Thunderbird (2026) [★N/A]
+https://dizikorea3.com/film/thunderbird-izlex
+
+#EXTINF:-1 tvg-id="Dog Days" tvg-name="Dog Days" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/movies/original/.thumbs/dog-days-749-180w-q70.webp?v=1786118618" group-title="Filmler",Dog Days (2026) [★N/A]
+https://dizikorea3.com/film/dog-days-izle
+
+#EXTINF:-1 tvg-id="Breaking and Re-Entering" tvg-name="Breaking and Re-Entering" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/movies/original/.thumbs/breaking-and-re-entering-45-180w-q70.webp?v=1786118618" group-title="Filmler",Breaking and Re-Entering (2026) [★N/A]
+https://dizikorea3.com/film/breaking-and-re-entering-izle
+
+#EXTINF:-1 tvg-id="The Victims" tvg-name="The Victims" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/movies/original/.thumbs/the-victims-888-180w-q70.webp?v=1786118618" group-title="Filmler",The Victims (2026) [★N/A]
+https://dizikorea3.com/film/the-victims-izlex
+
+#EXTINF:-1 tvg-id="Legend of Mermaid: Human Love" tvg-name="Legend of Mermaid: Human Love" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/movies/original/.thumbs/legend-of-mermaid-human-love-8042-180w-q70.webp?v=1786118618" group-title="Filmler",Legend of Mermaid: Human Love (2026) [★N/A]
+https://dizikorea3.com/film/legend-of-mermaid-human-love-izlex
+
+#EXTINF:-1 tvg-id="18×2 Beyond Youthful Days" tvg-name="18×2 Beyond Youthful Days" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/movies/original/.thumbs/18-2-beyond-youthful-days-992-180w-q70.webp?v=1786118619" group-title="Filmler",18×2 Beyond Youthful Days (2026) [★N/A]
+https://dizikorea3.com/film/18-2-beyond-youthful-days-izle
+
+#EXTINF:-1 tvg-id="I Miss You" tvg-name="I Miss You" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/movies/original/.thumbs/i-miss-you-3578-180w-q70.webp?v=1786118619" group-title="Filmler",I Miss You (2026) [★N/A]
+https://dizikorea3.com/film/i-miss-you-izle
+
+#EXTINF:-1 tvg-id="Drive" tvg-name="Drive" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/movies/original/.thumbs/drive-722-180w-q70.webp?v=1786118619" group-title="Filmler",Drive (2026) [★N/A]
+https://dizikorea3.com/film/drive-izle
+
+#EXTINF:-1 tvg-id="Mission Cross" tvg-name="Mission Cross" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/movies/original/.thumbs/mission-cross-8383-180w-q70.webp?v=1786118619" group-title="Filmler",Mission Cross (2026) [★N/A]
+https://dizikorea3.com/film/mission-cross-izle
+
+#EXTINF:-1 tvg-id="Project Silence" tvg-name="Project Silence" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/movies/original/.thumbs/project-silence-8571-180w-q70.webp?v=1786118701" group-title="Filmler",Project Silence (2026) [★N/A]
+https://dizikorea3.com/film/project-silence-izlex
+
+#EXTINF:-1 tvg-id="The Plot" tvg-name="The Plot" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/movies/original/.thumbs/the-plot-5704-180w-q70.webp?v=1786118701" group-title="Filmler",The Plot (2026) [★N/A]
+https://dizikorea3.com/film/the-plot-izle
+
+#EXTINF:-1 tvg-id="Unforgettable" tvg-name="Unforgettable" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/movies/original/.thumbs/unforgettable-1675-180w-q70.webp?v=1786118702" group-title="Filmler",Unforgettable (2026) [★N/A]
+https://dizikorea3.com/film/unforgettable-izlex
+
+#EXTINF:-1 tvg-id="A Letter from Kyoto" tvg-name="A Letter from Kyoto" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/movies/original/.thumbs/a-letter-from-kyoto-1482-180w-q70.webp?v=1786118702" group-title="Filmler",A Letter from Kyoto (2026) [★N/A]
+https://dizikorea3.com/film/a-letter-from-kyoto-izlex
+
+#EXTINF:-1 tvg-id="Hijack 1971" tvg-name="Hijack 1971" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/movies/original/.thumbs/hijack-1971-2256-180w-q70.webp?v=1786118702" group-title="Filmler",Hijack 1971 (2026) [★N/A]
+https://dizikorea3.com/film/hijack-1971-izle
+
+#EXTINF:-1 tvg-id="Collective Invention" tvg-name="Collective Invention" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/movies/original/.thumbs/collective-invention-1668-180w-q70.webp?v=1786118702" group-title="Filmler",Collective Invention (2026) [★N/A]
+https://dizikorea3.com/film/collective-invention-izlex
+
+#EXTINF:-1 tvg-id="Following" tvg-name="Following" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/movies/original/.thumbs/following-6934-180w-q70.webp?v=1786118702" group-title="Filmler",Following (2026) [★N/A]
+https://dizikorea3.com/film/following-izle
+
+#EXTINF:-1 tvg-id="Wonderland" tvg-name="Wonderland" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/movies/original/.thumbs/wonderland-7644-180w-q70.webp?v=1786118702" group-title="Filmler",Wonderland (2026) [★N/A]
+https://dizikorea3.com/film/wonderland-izlex
+
+#EXTINF:-1 tvg-id="Yumi&#039;s Cells: The Movie" tvg-name="Yumi&#039;s Cells: The Movie" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/movies/original/.thumbs/yumis-cells-the-movie-9925-180w-q70.webp?v=1786118702" group-title="Filmler",Yumi&#039;s Cells: The Movie (2026) [★N/A]
+https://dizikorea3.com/film/yumi-s-cells-the-movie-izle
+
+#EXTINF:-1 tvg-id="New Normal" tvg-name="New Normal" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/movies/original/.thumbs/new-normal-1491-180w-q70.webp?v=1786118702" group-title="Filmler",New Normal (2026) [★N/A]
+https://dizikorea3.com/film/new-normal-izlex
+
+#EXTINF:-1 tvg-id="I Am Home" tvg-name="I Am Home" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/movies/original/.thumbs/i-am-home-5240-180w-q70.webp?v=1786118702" group-title="Filmler",I Am Home (2026) [★N/A]
+https://dizikorea3.com/film/i-am-home-izle
+
+#EXTINF:-1 tvg-id="0.0MHz" tvg-name="0.0MHz" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/movies/original/.thumbs/0-0mhz-685-180w-q70.webp?v=1786118702" group-title="Filmler",0.0MHz (2026) [★N/A]
+https://dizikorea3.com/film/0-0mhz-izlex
+
+#EXTINF:-1 tvg-id="The Roundup: Punishment" tvg-name="The Roundup: Punishment" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/movies/original/.thumbs/the-roundup-punishment-7527-180w-q70.webp?v=1786118703" group-title="Filmler",The Roundup: Punishment (2026) [★N/A]
+https://dizikorea3.com/film/the-roundup-punishment-izlex
 
 #EXTINF:-1 tvg-id="A Love Other Than Yours" tvg-name="A Love Other Than Yours" tvg-logo="https://dizikorea3.com/assets/uploads/series/.thumbs/a-love-other-than-yours-180w-q70.webp?v=1786530570" group-title="Kore Dizileri",A Love Other Than Yours (2026) [★N/A]
 https://dizikorea3.com/dizi/a-love-other-than-yours-izle-dq
 
-#EXTINF:-1 tvg-id="Four Hands, Two Sonatas" tvg-name="Four Hands, Two Sonatas" tvg-logo="https://dizikorea3.com/assets/uploads/series/.thumbs/four-hands-two-sonatas-180w-q70.webp?v=1788011353" group-title="Kore Dizileri",Four Hands, Two Sonatas (2026) [★N/A]
-https://dizikorea3.com/dizi/four-hands-two-sonatas-izle
+#EXTINF:-1 tvg-id="Dive into You" tvg-name="Dive into You" tvg-logo="https://dizikorea3.com/assets/uploads/series/.thumbs/dive-into-you-180w-q70.webp?v=1787913024" group-title="Kore Dizileri",Dive into You (2026) [★N/A]
+https://dizikorea3.com/dizi/dive-into-you-izle
+
+#EXTINF:-1 tvg-id="Love on the Menu" tvg-name="Love on the Menu" tvg-logo="https://dizikorea3.com/assets/uploads/series/.thumbs/love-on-the-menu-180w-q70.webp?v=1786118465" group-title="Kore Dizileri",Love on the Menu (2026) [★N/A]
+https://dizikorea3.com/dizi/love-on-the-menu-izle
 
 #EXTINF:-1 tvg-id="The Ordinary Jackpot" tvg-name="The Ordinary Jackpot" tvg-logo="https://dizikorea3.com/assets/uploads/series/.thumbs/the-ordinary-jackpot-180w-q70.webp?v=1786530422" group-title="Kore Dizileri",The Ordinary Jackpot (2026) [★N/A]
 https://dizikorea3.com/dizi/the-ordinary-jackpot-izle
+
+#EXTINF:-1 tvg-id="Four Hands, Two Sonatas" tvg-name="Four Hands, Two Sonatas" tvg-logo="https://dizikorea3.com/assets/uploads/series/.thumbs/four-hands-two-sonatas-180w-q70.webp?v=1788011353" group-title="Kore Dizileri",Four Hands, Two Sonatas (2026) [★N/A]
+https://dizikorea3.com/dizi/four-hands-two-sonatas-izle
+
+#EXTINF:-1 tvg-id="OK! Let’s Get Divorced" tvg-name="OK! Let’s Get Divorced" tvg-logo="https://dizikorea3.com/assets/uploads/series/.thumbs/yes-lets-get-a-divorce-180w-q70.webp?v=1786118467" group-title="Kore Dizileri",OK! Let’s Get Divorced (2026) [★N/A]
+https://dizikorea3.com/dizi/ok-lets-get-a-divorce-izle
 
 #EXTINF:-1 tvg-id="Doctor X" tvg-name="Doctor X" tvg-logo="https://dizikorea3.com/assets/uploads/series/.thumbs/doctor-x-180w-q70.webp?v=1789292480" group-title="Kore Dizileri",Doctor X (2026) [★N/A]
 https://dizikorea3.com/dizi/doctor-x-izle
@@ -105,26 +465,11 @@ https://dizikorea3.com/dizi/the-scandal-izle
 #EXTINF:-1 tvg-id="100 Days of Deception" tvg-name="100 Days of Deception" tvg-logo="https://dizikorea3.com/assets/uploads/series/.thumbs/100-days-of-deception-180w-q70.webp?v=1788631082" group-title="Kore Dizileri",100 Days of Deception (2026) [★N/A]
 https://dizikorea3.com/dizi/100-days-of-deception-izle
 
-#EXTINF:-1 tvg-id="Four Hands, Two Sonatas" tvg-name="Four Hands, Two Sonatas" tvg-logo="https://dizikorea3.com/assets/uploads/series/.thumbs/four-hands-two-sonatas-180w-q70.webp?v=1788011353" group-title="Kore Dizileri",Four Hands, Two Sonatas (2026) [★N/A]
-https://dizikorea3.com/dizi/four-hands-two-sonatas-izle
-
-#EXTINF:-1 tvg-id="Dive into You" tvg-name="Dive into You" tvg-logo="https://dizikorea3.com/assets/uploads/series/.thumbs/dive-into-you-180w-q70.webp?v=1787913024" group-title="Kore Dizileri",Dive into You (2026) [★N/A]
-https://dizikorea3.com/dizi/dive-into-you-izle
-
-#EXTINF:-1 tvg-id="A Love Other Than Yours" tvg-name="A Love Other Than Yours" tvg-logo="https://dizikorea3.com/assets/uploads/series/.thumbs/a-love-other-than-yours-180w-q70.webp?v=1786530570" group-title="Kore Dizileri",A Love Other Than Yours (2026) [★N/A]
-https://dizikorea3.com/dizi/a-love-other-than-yours-izle-dq
-
-#EXTINF:-1 tvg-id="The Ordinary Jackpot" tvg-name="The Ordinary Jackpot" tvg-logo="https://dizikorea3.com/assets/uploads/series/.thumbs/the-ordinary-jackpot-180w-q70.webp?v=1786530422" group-title="Kore Dizileri",The Ordinary Jackpot (2026) [★N/A]
-https://dizikorea3.com/dizi/the-ordinary-jackpot-izle
-
 #EXTINF:-1 tvg-id="You&#039;ve Fallen for Me" tvg-name="You&#039;ve Fallen for Me" tvg-logo="https://dizikorea3.com/assets/uploads/series/.thumbs/youve-fallen-for-me-180w-q70.webp?v=1786118466" group-title="Kore Dizileri",You&#039;ve Fallen for Me (2026) [★N/A]
 https://dizikorea3.com/dizi/youve-fallen-for-me-izle
 
 #EXTINF:-1 tvg-id="Secret Agent Miss Oh" tvg-name="Secret Agent Miss Oh" tvg-logo="https://dizikorea3.com/assets/uploads/series/.thumbs/secret-agent-miss-oh-180w-q70.webp?v=1786118467" group-title="Kore Dizileri",Secret Agent Miss Oh (2026) [★N/A]
 https://dizikorea3.com/dizi/secret-agent-miss-oh-izle
-
-#EXTINF:-1 tvg-id="OK! Let’s Get Divorced" tvg-name="OK! Let’s Get Divorced" tvg-logo="https://dizikorea3.com/assets/uploads/series/.thumbs/yes-lets-get-a-divorce-180w-q70.webp?v=1786118467" group-title="Kore Dizileri",OK! Let’s Get Divorced (2026) [★N/A]
-https://dizikorea3.com/dizi/ok-lets-get-a-divorce-izle
 
 #EXTINF:-1 tvg-id="Mousetrap" tvg-name="Mousetrap" tvg-logo="https://dizikorea3.com/assets/uploads/series/.thumbs/mousetrap-180w-q70.webp?v=1786118467" group-title="Kore Dizileri",Mousetrap (2026) [★N/A]
 https://dizikorea3.com/dizi/mousetrap-izle
@@ -162,11 +507,11 @@ https://dizikorea3.com/dizi/second-20s-izle
 #EXTINF:-1 tvg-id="Weightlifting Fairy Kim Bok-joo" tvg-name="Weightlifting Fairy Kim Bok-joo" tvg-logo="https://dizikorea3.com/assets/uploads/series/.thumbs/weightlifting-fairy-kim-bok-joo-180w-q70.webp?v=1786118467" group-title="Kore Dizileri",Weightlifting Fairy Kim Bok-joo (2026) [★N/A]
 https://dizikorea3.com/dizi/weightlifting-fairy-kim-bok-joo-izle-dq
 
+#EXTINF:-1 tvg-id="Spring of the Blade" tvg-name="Spring of the Blade" tvg-logo="https://dizikorea3.com/assets/uploads/series/.thumbs/spring-of-the-blade-180w-q70.webp?v=1788942846" group-title="Cin Dizileri",Spring of the Blade (2026) [★N/A]
+https://dizikorea3.com/dizi/spring-of-the-blade-izle
+
 #EXTINF:-1 tvg-id="A Prophet" tvg-name="A Prophet" tvg-logo="https://dizikorea3.com/assets/uploads/series/.thumbs/a-prophet-180w-q70.webp?v=1790169420" group-title="Cin Dizileri",A Prophet (2026) [★N/A]
 https://dizikorea3.com/dizi/a-prophet-izle
-
-#EXTINF:-1 tvg-id="Live Forever" tvg-name="Live Forever" tvg-logo="https://dizikorea3.com/assets/uploads/series/.thumbs/live-forever-180w-q70.webp?v=1790367140" group-title="Cin Dizileri",Live Forever (2026) [★N/A]
-https://dizikorea3.com/dizi/live-forever-izle
 
 #EXTINF:-1 tvg-id="Irreplaceable" tvg-name="Irreplaceable" tvg-logo="https://dizikorea3.com/assets/uploads/series/.thumbs/irreplaceable-180w-q70.webp?v=1790593590" group-title="Cin Dizileri",Irreplaceable (2026) [★N/A]
 https://dizikorea3.com/dizi/irreplaceable-izle
@@ -174,17 +519,8 @@ https://dizikorea3.com/dizi/irreplaceable-izle
 #EXTINF:-1 tvg-id="Against the Current" tvg-name="Against the Current" tvg-logo="https://dizikorea3.com/assets/uploads/series/.thumbs/against-the-current-180w-q70.webp?v=1788630855" group-title="Cin Dizileri",Against the Current (2026) [★N/A]
 https://dizikorea3.com/dizi/against-the-current-izle
 
-#EXTINF:-1 tvg-id="Spring of the Blade" tvg-name="Spring of the Blade" tvg-logo="https://dizikorea3.com/assets/uploads/series/.thumbs/spring-of-the-blade-180w-q70.webp?v=1788942846" group-title="Cin Dizileri",Spring of the Blade (2026) [★N/A]
-https://dizikorea3.com/dizi/spring-of-the-blade-izle
-
-#EXTINF:-1 tvg-id="Irreplaceable" tvg-name="Irreplaceable" tvg-logo="https://dizikorea3.com/assets/uploads/series/.thumbs/irreplaceable-180w-q70.webp?v=1790593590" group-title="Cin Dizileri",Irreplaceable (2026) [★N/A]
-https://dizikorea3.com/dizi/irreplaceable-izle
-
 #EXTINF:-1 tvg-id="Live Forever" tvg-name="Live Forever" tvg-logo="https://dizikorea3.com/assets/uploads/series/.thumbs/live-forever-180w-q70.webp?v=1790367140" group-title="Cin Dizileri",Live Forever (2026) [★N/A]
 https://dizikorea3.com/dizi/live-forever-izle
-
-#EXTINF:-1 tvg-id="A Prophet" tvg-name="A Prophet" tvg-logo="https://dizikorea3.com/assets/uploads/series/.thumbs/a-prophet-180w-q70.webp?v=1790169420" group-title="Cin Dizileri",A Prophet (2026) [★N/A]
-https://dizikorea3.com/dizi/a-prophet-izle
 
 #EXTINF:-1 tvg-id="In My Prime" tvg-name="In My Prime" tvg-logo="https://dizikorea3.com/assets/uploads/series/.thumbs/in-my-prime-180w-q70.webp?v=1789294569" group-title="Cin Dizileri",In My Prime (2026) [★N/A]
 https://dizikorea3.com/dizi/in-my-prime-izle
@@ -195,14 +531,8 @@ https://dizikorea3.com/dizi/abyss-izle
 #EXTINF:-1 tvg-id="My Drama Missy" tvg-name="My Drama Missy" tvg-logo="https://dizikorea3.com/assets/uploads/series/.thumbs/my-drama-missy-180w-q70.webp?v=1788943011" group-title="Cin Dizileri",My Drama Missy (2026) [★N/A]
 https://dizikorea3.com/dizi/my-drama-missy-izle
 
-#EXTINF:-1 tvg-id="Spring of the Blade" tvg-name="Spring of the Blade" tvg-logo="https://dizikorea3.com/assets/uploads/series/.thumbs/spring-of-the-blade-180w-q70.webp?v=1788942846" group-title="Cin Dizileri",Spring of the Blade (2026) [★N/A]
-https://dizikorea3.com/dizi/spring-of-the-blade-izle
-
 #EXTINF:-1 tvg-id="No. 9 Hunter" tvg-name="No. 9 Hunter" tvg-logo="https://dizikorea3.com/assets/uploads/series/.thumbs/no-9-hunter-180w-q70.webp?v=1788790159" group-title="Cin Dizileri",No. 9 Hunter (2026) [★N/A]
 https://dizikorea3.com/dizi/no-9-hunter-izle
-
-#EXTINF:-1 tvg-id="Against the Current" tvg-name="Against the Current" tvg-logo="https://dizikorea3.com/assets/uploads/series/.thumbs/against-the-current-180w-q70.webp?v=1788630855" group-title="Cin Dizileri",Against the Current (2026) [★N/A]
-https://dizikorea3.com/dizi/against-the-current-izle
 
 #EXTINF:-1 tvg-id="Awaken" tvg-name="Awaken" tvg-logo="https://dizikorea3.com/assets/uploads/series/.thumbs/awaken-180w-q70.webp?v=1788193063" group-title="Cin Dizileri",Awaken (2026) [★N/A]
 https://dizikorea3.com/dizi/awaken-izle
@@ -248,6 +578,351 @@ https://dizikorea3.com/dizi/overdo-izle
 
 #EXTINF:-1 tvg-id="Love For You" tvg-name="Love For You" tvg-logo="https://dizikorea3.com/assets/uploads/series/.thumbs/love-for-you-180w-q70.webp?v=1786118461" group-title="Cin Dizileri",Love For You (2026) [★N/A]
 https://dizikorea3.com/dizi/love-for-you-izle-dq4
+
+#EXTINF:-1 tvg-id="Road to Success" tvg-name="Road to Success" tvg-logo="https://dizikorea3.com/assets/uploads/series/.thumbs/road-to-success-180w-q70.webp?v=1786118461" group-title="Cin Dizileri",Road to Success (2026) [★N/A]
+https://dizikorea3.com/dizi/road-to-success-izle-dq4
+
+#EXTINF:-1 tvg-id="Blossoms of Power" tvg-name="Blossoms of Power" tvg-logo="https://dizikorea3.com/assets/uploads/series/.thumbs/blossoms-of-power-180w-q70.webp?v=1786118461" group-title="Cin Dizileri",Blossoms of Power (2026) [★N/A]
+https://dizikorea3.com/dizi/blossoms-of-power-izle
+
+#EXTINF:-1 tvg-id="The Eternal Fragrance" tvg-name="The Eternal Fragrance" tvg-logo="https://dizikorea3.com/assets/uploads/series/.thumbs/the-eternal-fragrance-180w-q70.webp?v=1786118461" group-title="Cin Dizileri",The Eternal Fragrance (2026) [★N/A]
+https://dizikorea3.com/dizi/the-eternal-fragrance-izle
+
+#EXTINF:-1 tvg-id="The Legend of Rosy Clouds" tvg-name="The Legend of Rosy Clouds" tvg-logo="https://dizikorea3.com/assets/uploads/series/.thumbs/the-legend-of-rosy-clouds-180w-q70.webp?v=1786118461" group-title="Cin Dizileri",The Legend of Rosy Clouds (2026) [★N/A]
+https://dizikorea3.com/dizi/the-legend-of-rosy-clouds-izle
+
+#EXTINF:-1 tvg-id="Falling into Your Smile" tvg-name="Falling into Your Smile" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/falling-into-your-smile-8190-180w-q70.webp?v=1786118462" group-title="Cin Dizileri",Falling into Your Smile (2026) [★N/A]
+https://dizikorea3.com/dizi/falling-into-your-smile-izle-dq
+
+#EXTINF:-1 tvg-id="Marry Him in Her Place" tvg-name="Marry Him in Her Place" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/marry-him-in-her-place-4396-180w-q70.webp?v=1786118537" group-title="Cin Dizileri",Marry Him in Her Place (2026) [★N/A]
+https://dizikorea3.com/dizi/marry-him-in-her-place-izle-dq
+
+#EXTINF:-1 tvg-id="Never-Ending Summer" tvg-name="Never-Ending Summer" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/never-ending-summer-6796-180w-q70.webp?v=1786118461" group-title="Cin Dizileri",Never-Ending Summer (2026) [★N/A]
+https://dizikorea3.com/dizi/never-ending-summer-izle-dq
+
+#EXTINF:-1 tvg-id="Love Story in the 1970s" tvg-name="Love Story in the 1970s" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/love-story-in-the-1970s-9056-180w-q70.webp?v=1786118469" group-title="Cin Dizileri",Love Story in the 1970s (2026) [★N/A]
+https://dizikorea3.com/dizi/love-story-in-the-1970s-izle-dq
+
+#EXTINF:-1 tvg-id="Arsenal Military Academy" tvg-name="Arsenal Military Academy" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/arsenal-military-academy-5516-180w-q70.webp?v=1786118469" group-title="Cin Dizileri",Arsenal Military Academy (2026) [★N/A]
+https://dizikorea3.com/dizi/arsenal-military-academy-izle-dq
+
+#EXTINF:-1 tvg-id="Pursuit of Jade" tvg-name="Pursuit of Jade" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/pursuit-of-jade-9276-180w-q70.webp?v=1786118462" group-title="Cin Dizileri",Pursuit of Jade (2026) [★N/A]
+https://dizikorea3.com/dizi/pursuit-of-jade-izle-dq
+
+#EXTINF:-1 tvg-id="Eight Hundred" tvg-name="Eight Hundred" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/eight-hundred-5750-180w-q70.webp?v=1786118536" group-title="Cin Dizileri",Eight Hundred (2026) [★N/A]
+https://dizikorea3.com/dizi/eight-hundred-izle-dq
+
+#EXTINF:-1 tvg-id="Loves Ambition" tvg-name="Loves Ambition" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/love-s-ambition-2475-180w-q70.webp?v=1786118462" group-title="Cin Dizileri",Loves Ambition (2026) [★N/A]
+https://dizikorea3.com/dizi/loves-ambition-izle-dq
+
+#EXTINF:-1 tvg-id="Dear Secretary" tvg-name="Dear Secretary" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/dear-secretary-6285-180w-q70.webp?v=1786118462" group-title="Cin Dizileri",Dear Secretary (2026) [★N/A]
+https://dizikorea3.com/dizi/dear-secretary-izle-dq
+
+#EXTINF:-1 tvg-id="The Truth Within" tvg-name="The Truth Within" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/the-truth-within-7096-180w-q70.webp?v=1786118469" group-title="Cin Dizileri",The Truth Within (2026) [★N/A]
+https://dizikorea3.com/dizi/the-truth-within-izle-dq
+
+#EXTINF:-1 tvg-id="Our Dazzling Days" tvg-name="Our Dazzling Days" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/our-dazzling-days-1831-180w-q70.webp?v=1786118536" group-title="Cin Dizileri",Our Dazzling Days (2026) [★N/A]
+https://dizikorea3.com/dizi/our-dazzling-days-izle-dq2
+
+#EXTINF:-1 tvg-id="Shine on Me" tvg-name="Shine on Me" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/shine-on-me-2822-180w-q70.webp?v=1786118470" group-title="Cin Dizileri",Shine on Me (2026) [★N/A]
+https://dizikorea3.com/dizi/shine-on-me-izle-dq
+
+#EXTINF:-1 tvg-id="Manbo Destiny" tvg-name="Manbo Destiny" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/manbo-destiny-1645-180w-q70.webp?v=1786118470" group-title="Cin Dizileri",Manbo Destiny (2026) [★N/A]
+https://dizikorea3.com/dizi/manbo-destiny-izle-dq
+
+#EXTINF:-1 tvg-id="Thai Sweet" tvg-name="Thai Sweet" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/thai-sweet-7362-180w-q70.webp?v=1786118478" group-title="Cin Dizileri",Thai Sweet (2026) [★N/A]
+https://dizikorea3.com/dizi/thai-sweet-izle-dq
+
+#EXTINF:-1 tvg-id="Secret by My Name" tvg-name="Secret by My Name" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/secret-by-my-name-661-180w-q70.webp?v=1786118469" group-title="Cin Dizileri",Secret by My Name (2026) [★N/A]
+https://dizikorea3.com/dizi/secret-by-my-name-izle-dq
+
+#EXTINF:-1 tvg-id="Love Has Fireworks" tvg-name="Love Has Fireworks" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/love-has-fireworks-646-180w-q70.webp?v=1786118469" group-title="Cin Dizileri",Love Has Fireworks (2026) [★N/A]
+https://dizikorea3.com/dizi/love-has-fireworks-izle-dq
+
+#EXTINF:-1 tvg-id="The Wanted Detective" tvg-name="The Wanted Detective" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/the-wanted-detective-4705-180w-q70.webp?v=1786118469" group-title="Cin Dizileri",The Wanted Detective (2026) [★N/A]
+https://dizikorea3.com/dizi/the-wanted-detective-izle-dq
+
+#EXTINF:-1 tvg-id="No Doubt in Us" tvg-name="No Doubt in Us" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/no-doubt-in-us-1760-180w-q70.webp?v=1786118535" group-title="Cin Dizileri",No Doubt in Us (2026) [★N/A]
+https://dizikorea3.com/dizi/no-doubt-in-us-izle-dq
+
+#EXTINF:-1 tvg-id="The Sun in the Dark" tvg-name="The Sun in the Dark" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/the-sun-in-the-dark-528-180w-q70.webp?v=1786118535" group-title="Cin Dizileri",The Sun in the Dark (2026) [★N/A]
+https://dizikorea3.com/dizi/the-sun-in-the-dark-izle-dq
+
+#EXTINF:-1 tvg-id="The Palace Gambit" tvg-name="The Palace Gambit" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/the-palace-gambit-987-180w-q70.webp?v=1786118584" group-title="Cin Dizileri",The Palace Gambit (2026) [★N/A]
+https://dizikorea3.com/dizi/the-palace-gambit-izle-dq
+
+#EXTINF:-1 tvg-id="Fight for Love" tvg-name="Fight for Love" tvg-logo="https://dizikorea3.com/assets/uploads/series/.thumbs/fight-for-love-izle-dq-180w-q70.webp?v=1786118470" group-title="Cin Dizileri",Fight for Love (2026) [★N/A]
+https://dizikorea3.com/dizi/fight-for-love-izle-dq
+
+#EXTINF:-1 tvg-id="Ancient Bracelet" tvg-name="Ancient Bracelet" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/ancient-bracelet-6051-180w-q70.webp?v=1786118470" group-title="Cin Dizileri",Ancient Bracelet (2026) [★N/A]
+https://dizikorea3.com/dizi/ancient-bracelet-izle-dq
+
+#EXTINF:-1 tvg-id="Fated Hearts" tvg-name="Fated Hearts" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/fated-hearts-7560-180w-q70.webp?v=1786118469" group-title="Cin Dizileri",Fated Hearts (2026) [★N/A]
+https://dizikorea3.com/dizi/fated-hearts-izle-dq
+
+#EXTINF:-1 tvg-id="Destiny of the Generals Bride" tvg-name="Destiny of the Generals Bride" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/destiny-of-the-general-s-bride-7384-180w-q70.webp?v=1786118535" group-title="Cin Dizileri",Destiny of the Generals Bride (2026) [★N/A]
+https://dizikorea3.com/dizi/destiny-of-the-general-s-bride-izle-dq
+
+#EXTINF:-1 tvg-id="LuBan Mysteries" tvg-name="LuBan Mysteries" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/luban-mysteries-9431-180w-q70.webp?v=1786118585" group-title="Cin Dizileri",LuBan Mysteries (2026) [★N/A]
+https://dizikorea3.com/dizi/luban-mysteries-izle-dq
+
+#EXTINF:-1 tvg-id="Unveil: Jadewind" tvg-name="Unveil: Jadewind" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/unveil-jadewind-3438-180w-q70.webp?v=1786118574" group-title="Cin Dizileri",Unveil: Jadewind (2026) [★N/A]
+https://dizikorea3.com/dizi/unveil-jadewind-izle-dq
+
+#EXTINF:-1 tvg-id="Fate Chooses You" tvg-name="Fate Chooses You" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/fate-chooses-you-300-180w-q70.webp?v=1786118469" group-title="Cin Dizileri",Fate Chooses You (2026) [★N/A]
+https://dizikorea3.com/dizi/fate-chooses-you-izle-dq
+
+#EXTINF:-1 tvg-id="My Foxfoe Queen" tvg-name="My Foxfoe Queen" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/my-foxfoe-queen-7662-180w-q70.webp?v=1786118536" group-title="Cin Dizileri",My Foxfoe Queen (2026) [★N/A]
+https://dizikorea3.com/dizi/my-foxfoe-queen-izle-dq
+
+#EXTINF:-1 tvg-id="Fu Shi Xian Yi Bu Ran Chen" tvg-name="Fu Shi Xian Yi Bu Ran Chen" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/fu-shi-xian-yi-bu-ran-chen-4565-180w-q70.webp?v=1786118469" group-title="Cin Dizileri",Fu Shi Xian Yi Bu Ran Chen (2026) [★N/A]
+https://dizikorea3.com/dizi/fu-shi-xian-yi-bu-ran-chen-izle-dq
+
+#EXTINF:-1 tvg-id="Shadow Love" tvg-name="Shadow Love" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/shadow-love-6867-180w-q70.webp?v=1786118536" group-title="Cin Dizileri",Shadow Love (2026) [★N/A]
+https://dizikorea3.com/dizi/shadow-love-izle-dq
+
+#EXTINF:-1 tvg-id="A Splendid Match" tvg-name="A Splendid Match" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/a-splendid-match-1346-180w-q70.webp?v=1786118470" group-title="Cin Dizileri",A Splendid Match (2026) [★N/A]
+https://dizikorea3.com/dizi/a-splendid-match-izle-dq
+
+#EXTINF:-1 tvg-id="Fall in You" tvg-name="Fall in You" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/fall-in-you-8634-180w-q70.webp?v=1786118462" group-title="Cin Dizileri",Fall in You (2026) [★N/A]
+https://dizikorea3.com/dizi/fall-in-you-izle-dq
+
+#EXTINF:-1 tvg-id="Sharp Blade in the Snow" tvg-name="Sharp Blade in the Snow" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/sharp-blade-in-the-snow-5581-180w-q70.webp?v=1786118470" group-title="Cin Dizileri",Sharp Blade in the Snow (2026) [★N/A]
+https://dizikorea3.com/dizi/sharp-blade-in-the-snow-izle-dq
+
+#EXTINF:-1 tvg-id="Love and Crown" tvg-name="Love and Crown" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/love-and-crown-7450-180w-q70.webp?v=1786118585" group-title="Cin Dizileri",Love and Crown (2026) [★N/A]
+https://dizikorea3.com/dizi/love-and-crown-izle-dq
+
+#EXTINF:-1 tvg-id="Glory" tvg-name="Glory" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/glory-851-180w-q70.webp?v=1786118535" group-title="Cin Dizileri",Glory (2026) [★N/A]
+https://dizikorea3.com/dizi/glory-izle-dq
+
+#EXTINF:-1 tvg-id="Reincarnated Love" tvg-name="Reincarnated Love" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/reincarnated-love-2489-180w-q70.webp?v=1786118469" group-title="Cin Dizileri",Reincarnated Love (2026) [★N/A]
+https://dizikorea3.com/dizi/reincarnated-love-izle-dq
+
+#EXTINF:-1 tvg-id="Summit of Our Youth" tvg-name="Summit of Our Youth" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/summit-of-our-youth-901-180w-q70.webp?v=1786118470" group-title="Cin Dizileri",Summit of Our Youth (2026) [★N/A]
+https://dizikorea3.com/dizi/summit-of-our-youth-izle-dq
+
+#EXTINF:-1 tvg-id="Flower Sea" tvg-name="Flower Sea" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/flower-sea-9421-180w-q70.webp?v=1786118585" group-title="Cin Dizileri",Flower Sea (2026) [★N/A]
+https://dizikorea3.com/dizi/flower-sea-izle-dq
+
+#EXTINF:-1 tvg-id="The Epoch of Miyu" tvg-name="The Epoch of Miyu" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/the-epoch-of-miyu-8009-180w-q70.webp?v=1786118462" group-title="Cin Dizileri",The Epoch of Miyu (2026) [★N/A]
+https://dizikorea3.com/dizi/the-epoch-of-miyu-izle-dq
+
+#EXTINF:-1 tvg-id="Light to the Night" tvg-name="Light to the Night" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/light-to-the-night-7119-180w-q70.webp?v=1786118574" group-title="Cin Dizileri",Light to the Night (2026) [★N/A]
+https://dizikorea3.com/dizi/light-to-the-night-izle-dq
+
+#EXTINF:-1 tvg-id="Once More Love in 1995" tvg-name="Once More Love in 1995" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/once-more-love-in-1995-4830-180w-q70.webp?v=1786118537" group-title="Cin Dizileri",Once More Love in 1995 (2026) [★N/A]
+https://dizikorea3.com/dizi/once-more-love-in-1995-izle-dq
+
+#EXTINF:-1 tvg-id="Loving Strangers" tvg-name="Loving Strangers" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/loving-strangers-504-180w-q70.webp?v=1786118585" group-title="Cin Dizileri",Loving Strangers (2026) [★N/A]
+https://dizikorea3.com/dizi/loving-strangers-izle-dq
+
+#EXTINF:-1 tvg-id="Second Chance Romance" tvg-name="Second Chance Romance" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/second-chance-romance-7516-180w-q70.webp?v=1786118462" group-title="Cin Dizileri",Second Chance Romance (2026) [★N/A]
+https://dizikorea3.com/dizi/second-chance-romance-izle-dq
+
+#EXTINF:-1 tvg-id="Dream of Golden Years" tvg-name="Dream of Golden Years" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/dream-of-golden-years-4888-180w-q70.webp?v=1786118535" group-title="Cin Dizileri",Dream of Golden Years (2026) [★N/A]
+https://dizikorea3.com/dizi/dream-of-golden-years-izle-dq
+
+#EXTINF:-1 tvg-id="Eternal Love of the Fox" tvg-name="Eternal Love of the Fox" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/eternal-love-of-the-fox-4228-180w-q70.webp?v=1786118470" group-title="Cin Dizileri",Eternal Love of the Fox (2026) [★N/A]
+https://dizikorea3.com/dizi/eternal-love-of-the-fox-izle-dq
+
+#EXTINF:-1 tvg-id="The Queen of Attack" tvg-name="The Queen of Attack" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/the-queen-of-attack-8411-180w-q70.webp?v=1786118575" group-title="Cin Dizileri",The Queen of Attack (2026) [★N/A]
+https://dizikorea3.com/dizi/the-queen-of-attack-izle-dq
+
+#EXTINF:-1 tvg-id="Light beyond the Reed" tvg-name="Light beyond the Reed" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/light-beyond-the-reed-5249-180w-q70.webp?v=1786118574" group-title="Cin Dizileri",Light beyond the Reed (2026) [★N/A]
+https://dizikorea3.com/dizi/light-beyond-the-reed-izle-dq
+
+#EXTINF:-1 tvg-id="Generation to Generation" tvg-name="Generation to Generation" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/generation-to-generation-5486-180w-q70.webp?v=1786118470" group-title="Cin Dizileri",Generation to Generation (2026) [★N/A]
+https://dizikorea3.com/dizi/generation-to-generation-izle-dq
+
+#EXTINF:-1 tvg-id="Glaze of Love" tvg-name="Glaze of Love" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/glaze-of-love-546-180w-q70.webp?v=1786118462" group-title="Cin Dizileri",Glaze of Love (2026) [★N/A]
+https://dizikorea3.com/dizi/glaze-of-love-izle-dq
+
+#EXTINF:-1 tvg-id="The Tower of Whispers" tvg-name="The Tower of Whispers" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/the-tower-of-whispers-2862-180w-q70.webp?v=1786118574" group-title="Cin Dizileri",The Tower of Whispers (2026) [★N/A]
+https://dizikorea3.com/dizi/the-tower-of-whispers-izle-dq
+
+#EXTINF:-1 tvg-id="No Pain No Gain" tvg-name="No Pain No Gain" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/no-pain-no-gain-5300-180w-q70.webp?v=1786118537" group-title="Cin Dizileri",No Pain No Gain (2026) [★N/A]
+https://dizikorea3.com/dizi/no-pain-no-gain-izle-dq
+
+#EXTINF:-1 tvg-id="Love beyond the Grave" tvg-name="Love beyond the Grave" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/love-beyond-the-grave-7979-180w-q70.webp?v=1786118469" group-title="Cin Dizileri",Love beyond the Grave (2026) [★N/A]
+https://dizikorea3.com/dizi/love-beyond-the-grave-izle-dq
+
+#EXTINF:-1 tvg-id="Treasure at Dawn" tvg-name="Treasure at Dawn" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/treasure-at-dawn-2602-180w-q70.webp?v=1786118585" group-title="Cin Dizileri",Treasure at Dawn (2026) [★N/A]
+https://dizikorea3.com/dizi/treasure-at-dawn-izle-dq
+
+#EXTINF:-1 tvg-id="Rebirth" tvg-name="Rebirth" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/rebirth-9821-180w-q70.webp?v=1786118536" group-title="Cin Dizileri",Rebirth (2026) [★N/A]
+https://dizikorea3.com/dizi/rebirth-izle-dq
+
+#EXTINF:-1 tvg-id="The Cross-Dressed Union" tvg-name="The Cross-Dressed Union" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/the-cross-dressed-union-8088-180w-q70.webp?v=1786118574" group-title="Cin Dizileri",The Cross-Dressed Union (2026) [★N/A]
+https://dizikorea3.com/dizi/the-cross-dressed-union-izle-dq
+
+#EXTINF:-1 tvg-id="Swords into Plowshares" tvg-name="Swords into Plowshares" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/swords-into-plowshares-2003-180w-q70.webp?v=1786118585" group-title="Cin Dizileri",Swords into Plowshares (2026) [★N/A]
+https://dizikorea3.com/dizi/swords-into-plowshares-izle-dq
+
+#EXTINF:-1 tvg-id="Luminosity behind the Palace" tvg-name="Luminosity behind the Palace" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/luminosity-behind-the-palace-6766-180w-q70.webp?v=1786118535" group-title="Cin Dizileri",Luminosity behind the Palace (2026) [★N/A]
+https://dizikorea3.com/dizi/luminosity-behind-the-palace-izle-dq
+
+#EXTINF:-1 tvg-id="The Guilty" tvg-name="The Guilty" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/the-guilty-3926-180w-q70.webp?v=1786118462" group-title="Cin Dizileri",The Guilty (2026) [★N/A]
+https://dizikorea3.com/dizi/the-guilty-izle-dq
+
+#EXTINF:-1 tvg-id="Too Young To Love" tvg-name="Too Young To Love" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/too-young-to-love-4213-180w-q70.webp?v=1786118535" group-title="Cin Dizileri",Too Young To Love (2026) [★N/A]
+https://dizikorea3.com/dizi/too-young-to-love-izle-dq
+
+#EXTINF:-1 tvg-id="Just to Meet You" tvg-name="Just to Meet You" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/just-to-meet-you-2430-180w-q70.webp?v=1786118470" group-title="Cin Dizileri",Just to Meet You (2026) [★N/A]
+https://dizikorea3.com/dizi/just-to-meet-you-izle-dq
+
+#EXTINF:-1 tvg-id="Higher" tvg-name="Higher" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/higher-2631-180w-q70.webp?v=1786118536" group-title="Cin Dizileri",Higher (2026) [★N/A]
+https://dizikorea3.com/dizi/higher-izle-dq
+
+#EXTINF:-1 tvg-id="Those Days" tvg-name="Those Days" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/those-days-895-180w-q70.webp?v=1786118575" group-title="Cin Dizileri",Those Days (2026) [★N/A]
+https://dizikorea3.com/dizi/those-days-izle-dq
+
+#EXTINF:-1 tvg-id="Fireworks" tvg-name="Fireworks" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/fireworks-2047-180w-q70.webp?v=1786118470" group-title="Cin Dizileri",Fireworks (2026) [★N/A]
+https://dizikorea3.com/dizi/fireworks-izle-dq
+
+#EXTINF:-1 tvg-id="Love Formula" tvg-name="Love Formula" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/love-formula-2643-180w-q70.webp?v=1786118536" group-title="Cin Dizileri",Love Formula (2026) [★N/A]
+https://dizikorea3.com/dizi/love-formula-izle-dq
+
+#EXTINF:-1 tvg-id="Blemish Flaw" tvg-name="Blemish Flaw" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/blemish-flaw-5830-180w-q70.webp?v=1786118536" group-title="Cin Dizileri",Blemish Flaw (2026) [★N/A]
+https://dizikorea3.com/dizi/blemish-flaw-izle-dq
+
+#EXTINF:-1 tvg-id="We Almost Broke Up" tvg-name="We Almost Broke Up" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/we-almost-broke-up-8634-180w-q70.webp?v=1786118536" group-title="Cin Dizileri",We Almost Broke Up (2026) [★N/A]
+https://dizikorea3.com/dizi/we-almost-broke-up-izle-dq
+
+#EXTINF:-1 tvg-id="Forever Young" tvg-name="Forever Young" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/forever-young-6205-180w-q70.webp?v=1786118574" group-title="Cin Dizileri",Forever Young (2026) [★N/A]
+https://dizikorea3.com/dizi/forever-young-izle-dq
+
+#EXTINF:-1 tvg-id="Flying Up Without Disturb" tvg-name="Flying Up Without Disturb" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/flying-up-without-disturb-6143-180w-q70.webp?v=1786118574" group-title="Cin Dizileri",Flying Up Without Disturb (2026) [★N/A]
+https://dizikorea3.com/dizi/flying-up-without-disturb-izle-dq
+
+#EXTINF:-1 tvg-id="The Vendetta of An" tvg-name="The Vendetta of An" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/the-vendetta-of-an-5822-180w-q70.webp?v=1786118585" group-title="Cin Dizileri",The Vendetta of An (2026) [★N/A]
+https://dizikorea3.com/dizi/the-vendetta-of-an-izle-dq
+
+#EXTINF:-1 tvg-id="Returned Master" tvg-name="Returned Master" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/returned-master-5653-180w-q70.webp?v=1786118574" group-title="Cin Dizileri",Returned Master (2026) [★N/A]
+https://dizikorea3.com/dizi/returned-master-izle-dq
+
+#EXTINF:-1 tvg-id="The Unclouded Soul" tvg-name="The Unclouded Soul" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/the-unclouded-soul-7288-180w-q70.webp?v=1786118462" group-title="Cin Dizileri",The Unclouded Soul (2026) [★N/A]
+https://dizikorea3.com/dizi/the-unclouded-soul-izle-dq
+
+#EXTINF:-1 tvg-id="Bloom Life" tvg-name="Bloom Life" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/bloom-life-2102-180w-q70.webp?v=1786118535" group-title="Cin Dizileri",Bloom Life (2026) [★N/A]
+https://dizikorea3.com/dizi/bloom-life-izle-dq
+
+#EXTINF:-1 tvg-id="The Company" tvg-name="The Company" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/the-company-3956-180w-q70.webp?v=1786118584" group-title="Cin Dizileri",The Company (2026) [★N/A]
+https://dizikorea3.com/dizi/the-company-izle-dq
+
+#EXTINF:-1 tvg-id="Black White Forest" tvg-name="Black White Forest" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/black-white-forest-6977-180w-q70.webp?v=1786118584" group-title="Cin Dizileri",Black White Forest (2026) [★N/A]
+https://dizikorea3.com/dizi/black-white-forest-izle-dq
+
+#EXTINF:-1 tvg-id="My Page in 90s" tvg-name="My Page in 90s" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/my-page-in-90s-4156-180w-q70.webp?v=1786118462" group-title="Cin Dizileri",My Page in 90s (2026) [★N/A]
+https://dizikorea3.com/dizi/my-page-in-90s-izle-dq
+
+#EXTINF:-1 tvg-id="Persona" tvg-name="Persona" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/persona-4777-180w-q70.webp?v=1786118584" group-title="Cin Dizileri",Persona (2026) [★N/A]
+https://dizikorea3.com/dizi/persona-izle-dq
+
+#EXTINF:-1 tvg-id="Born with Luck" tvg-name="Born with Luck" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/born-with-luck-9446-180w-q70.webp?v=1786118536" group-title="Cin Dizileri",Born with Luck (2026) [★N/A]
+https://dizikorea3.com/dizi/born-with-luck-izle-dq
+
+#EXTINF:-1 tvg-id="Hold a Court Now" tvg-name="Hold a Court Now" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/hold-a-court-now-2316-180w-q70.webp?v=1786118469" group-title="Cin Dizileri",Hold a Court Now (2026) [★N/A]
+https://dizikorea3.com/dizi/hold-a-court-now-izle-dq
+
+#EXTINF:-1 tvg-id="Twelve Letters" tvg-name="Twelve Letters" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/twelve-letters-941-180w-q70.webp?v=1786118575" group-title="Cin Dizileri",Twelve Letters (2026) [★N/A]
+https://dizikorea3.com/dizi/twelve-letters-izle-dq
+
+#EXTINF:-1 tvg-id="The Sparrows Gambit" tvg-name="The Sparrows Gambit" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/the-sparrow-s-gambit-821-180w-q70.webp?v=1786118469" group-title="Cin Dizileri",The Sparrows Gambit (2026) [★N/A]
+https://dizikorea3.com/dizi/the-sparrow-s-gambit-izle-dq
+
+#EXTINF:-1 tvg-id="Love between Lines" tvg-name="Love between Lines" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/love-between-lines-5456-180w-q70.webp?v=1786118738" group-title="Cin Dizileri",Love between Lines (2026) [★N/A]
+https://dizikorea3.com/dizi/love-between-lines-izle-dq
+
+#EXTINF:-1 tvg-id="Speed and Love" tvg-name="Speed and Love" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/speed-and-love-9085-180w-q70.webp?v=1786118462" group-title="Cin Dizileri",Speed and Love (2026) [★N/A]
+https://dizikorea3.com/dizi/speed-and-love-izle-dq
+
+#EXTINF:-1 tvg-id="The Princess Royal" tvg-name="The Princess Royal" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/the-princess-royal-6178-180w-q70.webp?v=1786118997" group-title="Cin Dizileri",The Princess Royal (2026) [★N/A]
+https://dizikorea3.com/dizi/the-princess-royal-izle-dq
+
+#EXTINF:-1 tvg-id="Love on the Turquoise Land" tvg-name="Love on the Turquoise Land" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/love-on-the-turquoise-land-1207-180w-q70.webp?v=1786119529" group-title="Cin Dizileri",Love on the Turquoise Land (2026) [★N/A]
+https://dizikorea3.com/dizi/love-on-the-turquoise-land-izle-dq
+
+#EXTINF:-1 tvg-id="Love Game in Eastern Fantasy" tvg-name="Love Game in Eastern Fantasy" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/love-game-in-eastern-fantasy-1068-180w-q70.webp?v=1786118991" group-title="Cin Dizileri",Love Game in Eastern Fantasy (2026) [★N/A]
+https://dizikorea3.com/dizi/love-game-in-eastern-fantasy-izle-dq
+
+#EXTINF:-1 tvg-id="Crush" tvg-name="Crush" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/crush-3653-180w-q70.webp?v=1786119548" group-title="Cin Dizileri",Crush (2026) [★N/A]
+https://dizikorea3.com/dizi/crush-izle-dq
+
+#EXTINF:-1 tvg-id="Affinity" tvg-name="Affinity" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/affinity-1902-180w-q70.webp?v=1786118739" group-title="Cin Dizileri",Affinity (2026) [★N/A]
+https://dizikorea3.com/dizi/affinity-izle-dq
+
+#EXTINF:-1 tvg-id="Legend of the Magnate" tvg-name="Legend of the Magnate" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/legend-of-the-magnate-2286-180w-q70.webp?v=1786118725" group-title="Cin Dizileri",Legend of the Magnate (2026) [★N/A]
+https://dizikorea3.com/dizi/legend-of-the-magnate-izle-dq
+
+#EXTINF:-1 tvg-id="Their Wonderful Time" tvg-name="Their Wonderful Time" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/their-wonderful-time-5573-180w-q70.webp?v=1786118998" group-title="Cin Dizileri",Their Wonderful Time (2026) [★N/A]
+https://dizikorea3.com/dizi/their-wonderful-time-izle-dq
+
+#EXTINF:-1 tvg-id="Begin Again" tvg-name="Begin Again" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/begin-again-7841-180w-q70.webp?v=1786119548" group-title="Cin Dizileri",Begin Again (2026) [★N/A]
+https://dizikorea3.com/dizi/begin-again-izle-dq
+
+#EXTINF:-1 tvg-id="Love in Pavilion" tvg-name="Love in Pavilion" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/love-in-pavilion-4431-180w-q70.webp?v=1786120308" group-title="Cin Dizileri",Love in Pavilion (2026) [★N/A]
+https://dizikorea3.com/dizi/love-in-pavilion-izle-dq
+
+#EXTINF:-1 tvg-id="Blossom" tvg-name="Blossom" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/blossom-1308-180w-q70.webp?v=1786119967" group-title="Cin Dizileri",Blossom (2026) [★N/A]
+https://dizikorea3.com/dizi/blossom-izle-dq
+
+#EXTINF:-1 tvg-id="Hard Noble Lady" tvg-name="Hard Noble Lady" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/hard-noble-lady-9483-180w-q70.webp?v=1786120816" group-title="Cin Dizileri",Hard Noble Lady (2026) [★N/A]
+https://dizikorea3.com/dizi/hard-noble-lady-izle-dq
+
+#EXTINF:-1 tvg-id="Moonlight Mystique" tvg-name="Moonlight Mystique" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/moonlight-mystique-6570-180w-q70.webp?v=1786120837" group-title="Cin Dizileri",Moonlight Mystique (2026) [★N/A]
+https://dizikorea3.com/dizi/moonlight-mystique-izle-dq
+
+#EXTINF:-1 tvg-id="Chasing the Wind" tvg-name="Chasing the Wind" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/chasing-the-wind-8716-180w-q70.webp?v=1786119529" group-title="Cin Dizileri",Chasing the Wind (2026) [★N/A]
+https://dizikorea3.com/dizi/chasing-the-wind-izle-dq
+
+#EXTINF:-1 tvg-id="The First Frost" tvg-name="The First Frost" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/the-first-frost-9773-180w-q70.webp?v=1786118738" group-title="Cin Dizileri",The First Frost (2026) [★N/A]
+https://dizikorea3.com/dizi/the-first-frost-izle-dq
+
+#EXTINF:-1 tvg-id="Wanna Be" tvg-name="Wanna Be" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/wanna-be-1200-180w-q70.webp?v=1786118998" group-title="Cin Dizileri",Wanna Be (2026) [★N/A]
+https://dizikorea3.com/dizi/wanna-be-izle-dq
+
+#EXTINF:-1 tvg-id="The Best Thing" tvg-name="The Best Thing" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/the-best-thing-7022-180w-q70.webp?v=1786119967" group-title="Cin Dizileri",The Best Thing (2026) [★N/A]
+https://dizikorea3.com/dizi/the-best-thing-izle-dq
+
+#EXTINF:-1 tvg-id="Embrace in the Dark Night" tvg-name="Embrace in the Dark Night" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/embrace-in-the-dark-night-9007-180w-q70.webp?v=1786120526" group-title="Cin Dizileri",Embrace in the Dark Night (2026) [★N/A]
+https://dizikorea3.com/dizi/embrace-in-the-dark-night-izle-dq
+
+#EXTINF:-1 tvg-id="Mobius" tvg-name="Mobius" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/mobius-8937-180w-q70.webp?v=1786119548" group-title="Cin Dizileri",Mobius (2026) [★N/A]
+https://dizikorea3.com/dizi/mobius-izle-dq
+
+#EXTINF:-1 tvg-id="A Moment but Forever" tvg-name="A Moment but Forever" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/a-moment-but-forever-986-180w-q70.webp?v=1786119590" group-title="Cin Dizileri",A Moment but Forever (2026) [★N/A]
+https://dizikorea3.com/dizi/a-moment-but-forever-izle-dq
+
+#EXTINF:-1 tvg-id="Riverside Code at Qingming Festival" tvg-name="Riverside Code at Qingming Festival" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/riverside-code-at-qingming-festival-7220-180w-q70.webp?v=1786118998" group-title="Cin Dizileri",Riverside Code at Qingming Festival (2026) [★N/A]
+https://dizikorea3.com/dizi/riverside-code-at-qingming-festival-izle-dq
+
+#EXTINF:-1 tvg-id="As Beautiful As You" tvg-name="As Beautiful As You" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/as-beautiful-as-you-7315-180w-q70.webp?v=1786119529" group-title="Cin Dizileri",As Beautiful As You (2026) [★N/A]
+https://dizikorea3.com/dizi/as-beautiful-as-you-izle-dq
+
+#EXTINF:-1 tvg-id="Love of Nirvana" tvg-name="Love of Nirvana" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/love-of-nirvana-9429-180w-q70.webp?v=1786119529" group-title="Cin Dizileri",Love of Nirvana (2026) [★N/A]
+https://dizikorea3.com/dizi/love-of-nirvana-izle-dq
+
+#EXTINF:-1 tvg-id="The Rise of Ning" tvg-name="The Rise of Ning" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/the-rise-of-ning-852-180w-q70.webp?v=1786119530" group-title="Cin Dizileri",The Rise of Ning (2026) [★N/A]
+https://dizikorea3.com/dizi/the-rise-of-ning-izle-dq
+
+#EXTINF:-1 tvg-id="Flourished Peony" tvg-name="Flourished Peony" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/flourished-peony-7365-180w-q70.webp?v=1786119529" group-title="Cin Dizileri",Flourished Peony (2026) [★N/A]
+https://dizikorea3.com/dizi/flourished-peony-izle-dq
+
+#EXTINF:-1 tvg-id="Whispers of Fate" tvg-name="Whispers of Fate" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/whispers-of-fate-8790-180w-q70.webp?v=1786118739" group-title="Cin Dizileri",Whispers of Fate (2026) [★N/A]
+https://dizikorea3.com/dizi/whispers-of-fate-izle-dq
+
+#EXTINF:-1 tvg-id="Love Song in Winter" tvg-name="Love Song in Winter" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/love-song-in-winter-6233-180w-q70.webp?v=1786118725" group-title="Cin Dizileri",Love Song in Winter (2026) [★N/A]
+https://dizikorea3.com/dizi/love-song-in-winter-izle-dq
+
+#EXTINF:-1 tvg-id="Dashing Youth" tvg-name="Dashing Youth" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/dashing-youth-7825-180w-q70.webp?v=1786118642" group-title="Cin Dizileri",Dashing Youth (2026) [★N/A]
+https://dizikorea3.com/dizi/dashing-youth-izle-dq
+
+#EXTINF:-1 tvg-id="The Unexpected Marriage" tvg-name="The Unexpected Marriage" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/the-unexpected-marriage-5376-180w-q70.webp?v=1786119549" group-title="Cin Dizileri",The Unexpected Marriage (2026) [★N/A]
+https://dizikorea3.com/dizi/the-unexpected-marriage-izle-dq
+
+#EXTINF:-1 tvg-id="The Land of Warriors" tvg-name="The Land of Warriors" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/the-land-of-warriors-5033-180w-q70.webp?v=1786119031" group-title="Cin Dizileri",The Land of Warriors (2026) [★N/A]
+https://dizikorea3.com/dizi/the-land-of-warriors-izle-dq
 
 #EXTINF:-1 tvg-id="Plastic Beauty" tvg-name="Plastic Beauty" tvg-logo="https://dizikorea3.com/assets/uploads/series/.thumbs/plastic-beauty-180w-q70.webp?v=1789737985" group-title="Japon Dizileri",Plastic Beauty (2026) [★N/A]
 https://dizikorea3.com/dizi/plastic-beauty-izle
@@ -321,6 +996,129 @@ https://dizikorea3.com/dizi/oshi-no-ko-izle-dq
 #EXTINF:-1 tvg-id="Beyond Goodbye" tvg-name="Beyond Goodbye" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/beyond-goodbye-6946-180w-q70.webp?v=1786118607" group-title="Japon Dizileri",Beyond Goodbye (2026) [★N/A]
 https://dizikorea3.com/dizi/beyond-goodbye-izle-dq
 
+#EXTINF:-1 tvg-id="Umi no Hajimari" tvg-name="Umi no Hajimari" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/umi-no-hajimari-1043-180w-q70.webp?v=1786118579" group-title="Japon Dizileri",Umi no Hajimari (2026) [★N/A]
+https://dizikorea3.com/dizi/umi-no-hajimari-izle-dq
+
+#EXTINF:-1 tvg-id="Golden Kamuy: Hokkaido Shisei Shujin Sodatsuhen" tvg-name="Golden Kamuy: Hokkaido Shisei Shujin Sodatsuhen" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/golden-kamuy-hokkaido-shisei-shujin-sodatsuhen-7084-180w-q70.webp?v=1786118579" group-title="Japon Dizileri",Golden Kamuy: Hokkaido Shisei Shujin Sodatsuhen (2026) [★N/A]
+https://dizikorea3.com/dizi/golden-kamuy-hokkaido-shisei-shujin-sodatsuhen-izle-dq
+
+#EXTINF:-1 tvg-id="Learning to Love" tvg-name="Learning to Love" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/learning-to-love-1895-180w-q70.webp?v=1786118578" group-title="Japon Dizileri",Learning to Love (2026) [★N/A]
+https://dizikorea3.com/dizi/learning-to-love-izle-dq
+
+#EXTINF:-1 tvg-id="Wakatte Ite mo: The Shapes of Love" tvg-name="Wakatte Ite mo: The Shapes of Love" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/wakatte-ite-mo-the-shapes-of-love-5324-180w-q70.webp?v=1786118607" group-title="Japon Dizileri",Wakatte Ite mo: The Shapes of Love (2026) [★N/A]
+https://dizikorea3.com/dizi/wakatte-ite-mo-the-shapes-of-love-izle-dq
+
+#EXTINF:-1 tvg-id="The Reason We Fall in Love" tvg-name="The Reason We Fall in Love" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/the-reason-we-fall-in-love-5576-180w-q70.webp?v=1786118606" group-title="Japon Dizileri",The Reason We Fall in Love (2026) [★N/A]
+https://dizikorea3.com/dizi/the-reason-we-fall-in-love-izle-dq
+
+#EXTINF:-1 tvg-id="Light of My Lion" tvg-name="Light of My Lion" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/light-of-my-lion-2635-180w-q70.webp?v=1786118607" group-title="Japon Dizileri",Light of My Lion (2026) [★N/A]
+https://dizikorea3.com/dizi/light-of-my-lion-izle-dq
+
+#EXTINF:-1 tvg-id="Glass Heart" tvg-name="Glass Heart" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/glass-heart-8935-180w-q70.webp?v=1786118606" group-title="Japon Dizileri",Glass Heart (2026) [★N/A]
+https://dizikorea3.com/dizi/glass-heart-izle-dq
+
+#EXTINF:-1 tvg-id="Kiss or Die" tvg-name="Kiss or Die" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/kiss-or-die-8018-180w-q70.webp?v=1786118606" group-title="Japon Dizileri",Kiss or Die (2026) [★N/A]
+https://dizikorea3.com/dizi/kiss-or-die-izle-dq
+
+#EXTINF:-1 tvg-id="Final Draft" tvg-name="Final Draft" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/final-draft-6368-180w-q70.webp?v=1786118607" group-title="Japon Dizileri",Final Draft (2026) [★N/A]
+https://dizikorea3.com/dizi/final-draft-izle-dq
+
+#EXTINF:-1 tvg-id="Ryu ga Gotoku: Beyond the Game" tvg-name="Ryu ga Gotoku: Beyond the Game" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/ryu-ga-gotoku-beyond-the-game-3712-180w-q70.webp?v=1786118579" group-title="Japon Dizileri",Ryu ga Gotoku: Beyond the Game (2026) [★N/A]
+https://dizikorea3.com/dizi/ryu-ga-gotoku-beyond-the-game-izle-dq
+
+#EXTINF:-1 tvg-id="Hatsukoi DOGs" tvg-name="Hatsukoi DOGs" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/hatsukoi-dogs-8754-180w-q70.webp?v=1786118578" group-title="Japon Dizileri",Hatsukoi DOGs (2026) [★N/A]
+https://dizikorea3.com/dizi/hatsukoi-dogs-izle-dq
+
+#EXTINF:-1 tvg-id="Chastity High" tvg-name="Chastity High" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/chastity-high-7835-180w-q70.webp?v=1786118579" group-title="Japon Dizileri",Chastity High (2026) [★N/A]
+https://dizikorea3.com/dizi/chastity-high-izle-dq
+
+#EXTINF:-1 tvg-id="Ashura no Gotoku" tvg-name="Ashura no Gotoku" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/ashura-no-gotoku-173-180w-q70.webp?v=1786118579" group-title="Japon Dizileri",Ashura no Gotoku (2026) [★N/A]
+https://dizikorea3.com/dizi/ashura-no-gotoku-izle-dq
+
+#EXTINF:-1 tvg-id="Say You Love Me" tvg-name="Say You Love Me" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/say-you-love-me-1594-180w-q70.webp?v=1786118557" group-title="Japon Dizileri",Say You Love Me (2026) [★N/A]
+https://dizikorea3.com/dizi/say-you-love-me-izle-dq1
+
+#EXTINF:-1 tvg-id="Trillion Game" tvg-name="Trillion Game" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/trillion-game-9462-180w-q70.webp?v=1786118608" group-title="Japon Dizileri",Trillion Game (2026) [★N/A]
+https://dizikorea3.com/dizi/trillion-game-izle-dq
+
+#EXTINF:-1 tvg-id="Eye Love You" tvg-name="Eye Love You" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/eye-love-you-2606-180w-q70.webp?v=1786118608" group-title="Japon Dizileri",Eye Love You (2026) [★N/A]
+https://dizikorea3.com/dizi/eye-love-you-izle-dq
+
+#EXTINF:-1 tvg-id="Let&#039;s Get Divorced" tvg-name="Let&#039;s Get Divorced" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/let-s-get-divorced-7715-180w-q70.webp?v=1786118608" group-title="Japon Dizileri",Let&#039;s Get Divorced (2026) [★N/A]
+https://dizikorea3.com/dizi/lets-get-divorced-izle-dq
+
+#EXTINF:-1 tvg-id="Sumo Do, Sumo Don&#039;t" tvg-name="Sumo Do, Sumo Don&#039;t" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/sumo-do-sumo-don-t-6915-180w-q70.webp?v=1786120816" group-title="Japon Dizileri",Sumo Do, Sumo Don&#039;t (2026) [★N/A]
+https://dizikorea3.com/dizi/sumo-do-sumo-dont-izle-dq
+
+#EXTINF:-1 tvg-id="First Love: Hatsukoi" tvg-name="First Love: Hatsukoi" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/first-love-hatsukoi-5116-180w-q70.webp?v=1786120816" group-title="Japon Dizileri",First Love: Hatsukoi (2026) [★N/A]
+https://dizikorea3.com/dizi/first-love-hatsukoi-izle-dq
+
+#EXTINF:-1 tvg-id="Silent" tvg-name="Silent" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/silent-4655-180w-q70.webp?v=1786118607" group-title="Japon Dizileri",Silent (2026) [★N/A]
+https://dizikorea3.com/dizi/silent-izle-dq
+
+#EXTINF:-1 tvg-id="Shogun" tvg-name="Shogun" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/shogun-2896-180w-q70.webp?v=1786118608" group-title="Japon Dizileri",Shogun (2026) [★N/A]
+https://dizikorea3.com/dizi/shogun-izle-dq6
+
+#EXTINF:-1 tvg-id="Hyakuman Kai Ieba Yokatta" tvg-name="Hyakuman Kai Ieba Yokatta" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/hyakuman-kai-ieba-yokatta-8379-180w-q70.webp?v=1786118607" group-title="Japon Dizileri",Hyakuman Kai Ieba Yokatta (2026) [★N/A]
+https://dizikorea3.com/dizi/hyakuman-kai-ieba-yokatta-izle-dq
+
+#EXTINF:-1 tvg-id="Wonderhatch: Soratobu Ryu no Shima" tvg-name="Wonderhatch: Soratobu Ryu no Shima" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/wonderhatch-soratobu-ryu-no-shima-1718-180w-q70.webp?v=1786118607" group-title="Japon Dizileri",Wonderhatch: Soratobu Ryu no Shima (2026) [★N/A]
+https://dizikorea3.com/dizi/wonderhatch-soratobu-ryu-no-shima-izle-dq
+
+#EXTINF:-1 tvg-id="One Piece" tvg-name="One Piece" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/one-piece-6883-180w-q70.webp?v=1786120816" group-title="Japon Dizileri",One Piece (2026) [★N/A]
+https://dizikorea3.com/dizi/one-piece-izle-dq
+
+#EXTINF:-1 tvg-id="House of Ninjas" tvg-name="House of Ninjas" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/house-of-ninjas-6863-180w-q70.webp?v=1786118608" group-title="Japon Dizileri",House of Ninjas (2026) [★N/A]
+https://dizikorea3.com/dizi/house-of-ninjas-izle-dq
+
+#EXTINF:-1 tvg-id="Love Like a K-Drama" tvg-name="Love Like a K-Drama" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/love-like-a-k-drama-9741-180w-q70.webp?v=1786118608" group-title="Japon Dizileri",Love Like a K-Drama (2026) [★N/A]
+https://dizikorea3.com/dizi/love-like-a-k-drama-izle-dq
+
+#EXTINF:-1 tvg-id="Love Deadline" tvg-name="Love Deadline" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/love-deadline-6871-180w-q70.webp?v=1786118608" group-title="Japon Dizileri",Love Deadline (2026) [★N/A]
+https://dizikorea3.com/dizi/love-deadline-izle-dq
+
+#EXTINF:-1 tvg-id="House of the Owl" tvg-name="House of the Owl" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/house-of-the-owl-9795-180w-q70.webp?v=1786119169" group-title="Japon Dizileri",House of the Owl (2026) [★N/A]
+https://dizikorea3.com/dizi/house-on-wheels-izle-dq
+
+#EXTINF:-1 tvg-id="Kimi no Hana ni Naru" tvg-name="Kimi no Hana ni Naru" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/kimi-no-hana-ni-naru-4845-180w-q70.webp?v=1786118607" group-title="Japon Dizileri",Kimi no Hana ni Naru (2026) [★N/A]
+https://dizikorea3.com/dizi/kimi-no-hana-ni-naru-izle-dq
+
+#EXTINF:-1 tvg-id="Fermat no Ryori" tvg-name="Fermat no Ryori" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/fermat-no-ryori-4684-180w-q70.webp?v=1786118608" group-title="Japon Dizileri",Fermat no Ryori (2026) [★N/A]
+https://dizikorea3.com/dizi/fermat-no-ryori-izle-dq
+
+#EXTINF:-1 tvg-id="Mitaraike, Enjou Suru" tvg-name="Mitaraike, Enjou Suru" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/mitaraike-enjou-suru-1639-180w-q70.webp?v=1786118608" group-title="Japon Dizileri",Mitaraike, Enjou Suru (2026) [★N/A]
+https://dizikorea3.com/dizi/mitaraike-enjou-suru-izle-dq
+
+#EXTINF:-1 tvg-id="Yu Yu Hakusho" tvg-name="Yu Yu Hakusho" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/yu-yu-hakusho-5305-180w-q70.webp?v=1786118607" group-title="Japon Dizileri",Yu Yu Hakusho (2026) [★N/A]
+https://dizikorea3.com/dizi/yu-yu-hakusho-izle-dq
+
+#EXTINF:-1 tvg-id="Run for the Money" tvg-name="Run for the Money" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/run-for-the-money-6532-180w-q70.webp?v=1786120816" group-title="Japon Dizileri",Run for the Money (2026) [★N/A]
+https://dizikorea3.com/dizi/run-for-the-money-izle-dq
+
+#EXTINF:-1 tvg-id="Informa" tvg-name="Informa" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/informa-1511-180w-q70.webp?v=1786120816" group-title="Japon Dizileri",Informa (2026) [★N/A]
+https://dizikorea3.com/dizi/informa-izle-dq
+
+#EXTINF:-1 tvg-id="Alice in Borderland" tvg-name="Alice in Borderland" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/alice-in-borderland-7697-180w-q70.webp?v=1786118557" group-title="Japon Dizileri",Alice in Borderland (2026) [★N/A]
+https://dizikorea3.com/dizi/alice-in-borderland-izle-dq
+
+#EXTINF:-1 tvg-id="Chugakusei Nikki" tvg-name="Chugakusei Nikki" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/chugakusei-nikki-6211-180w-q70.webp?v=1786120816" group-title="Japon Dizileri",Chugakusei Nikki (2026) [★N/A]
+https://dizikorea3.com/dizi/chugakusei-nikki-izle-dq
+
+#EXTINF:-1 tvg-id="THE DAYS" tvg-name="THE DAYS" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/the-days-5422-180w-q70.webp?v=1786120816" group-title="Japon Dizileri",THE DAYS (2026) [★N/A]
+https://dizikorea3.com/dizi/the-days-izle-dq
+
+#EXTINF:-1 tvg-id="Hold My Hand at Twilight" tvg-name="Hold My Hand at Twilight" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/hold-my-hand-at-twilight-864-180w-q70.webp?v=1786120432" group-title="Japon Dizileri",Hold My Hand at Twilight (2026) [★N/A]
+https://dizikorea3.com/dizi/hold-my-hand-at-twilight-izle-dq
+
+#EXTINF:-1 tvg-id="Gannibal" tvg-name="Gannibal" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/gannibal-9866-180w-q70.webp?v=1786120460" group-title="Japon Dizileri",Gannibal (2026) [★N/A]
+https://dizikorea3.com/dizi/gannibal-izle-dq
+
+#EXTINF:-1 tvg-id="From Me to You" tvg-name="From Me to You" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/from-me-to-you-1462-180w-q70.webp?v=1786120816" group-title="Japon Dizileri",From Me to You (2026) [★N/A]
+https://dizikorea3.com/dizi/from-me-to-you-izle-dq
+
+#EXTINF:-1 tvg-id="Ariyoshi Assists" tvg-name="Ariyoshi Assists" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/ariyoshi-assists-9814-180w-q70.webp?v=1786120817" group-title="Japon Dizileri",Ariyoshi Assists (2026) [★N/A]
+https://dizikorea3.com/dizi/ariyoshi-assists-izle-dq
+
 #EXTINF:-1 tvg-id="My Tutor, My Love" tvg-name="My Tutor, My Love" tvg-logo="https://dizikorea3.com/assets/uploads/series/.thumbs/my-tutor-my-love-180w-q70.webp?v=1786894574" group-title="Tayland Dizileri",My Tutor, My Love (2026) [★N/A]
 https://dizikorea3.com/dizi/my-tutor-my-love-izle
 
@@ -335,9 +1133,6 @@ https://dizikorea3.com/dizi/girl-from-nowhere-the-reset-izle-dq1
 
 #EXTINF:-1 tvg-id="Zomvivor" tvg-name="Zomvivor" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/zomvivor-173-180w-q70.webp?v=1786118564" group-title="Tayland Dizileri",Zomvivor (2026) [★N/A]
 https://dizikorea3.com/dizi/zomvivor-izle-dq
-
-#EXTINF:-1 tvg-id="Thai Sweet" tvg-name="Thai Sweet" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/thai-sweet-7362-180w-q70.webp?v=1786118478" group-title="Tayland Dizileri",Thai Sweet (2026) [★N/A]
-https://dizikorea3.com/dizi/thai-sweet-izle-dq
 
 #EXTINF:-1 tvg-id="Beauty Reborn" tvg-name="Beauty Reborn" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/beauty-reborn-775-180w-q70.webp?v=1786118535" group-title="Tayland Dizileri",Beauty Reborn (2026) [★N/A]
 https://dizikorea3.com/dizi/beauty-reborn-izle-dq
@@ -392,6 +1187,54 @@ https://dizikorea3.com/dizi/dalah-death-and-the-flowers-izle-dq
 
 #EXTINF:-1 tvg-id="Leap Day" tvg-name="Leap Day" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/leap-day-5197-180w-q70.webp?v=1786118692" group-title="Tayland Dizileri",Leap Day (2026) [★N/A]
 https://dizikorea3.com/dizi/leap-day-izle-dq
+
+#EXTINF:-1 tvg-id="F4 Thailand: Boys Over Flowers" tvg-name="F4 Thailand: Boys Over Flowers" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/f4-thailand-boys-over-flowers-3169-180w-q70.webp?v=1786118692" group-title="Tayland Dizileri",F4 Thailand: Boys Over Flowers (2026) [★N/A]
+https://dizikorea3.com/dizi/f4-thailand-boys-over-flowers-izle-dq1
+
+#EXTINF:-1 tvg-id="Bad Romeo" tvg-name="Bad Romeo" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/bad-romeo-2454-180w-q70.webp?v=1786118762" group-title="Tayland Dizileri",Bad Romeo (2026) [★N/A]
+https://dizikorea3.com/dizi/bad-romeo-izle-dq
+
+#EXTINF:-1 tvg-id="Delete" tvg-name="Delete" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/delete-1617-180w-q70.webp?v=1786118762" group-title="Tayland Dizileri",Delete (2026) [★N/A]
+https://dizikorea3.com/dizi/delete-izle-dq
+
+#EXTINF:-1 tvg-id="Chuang Asia Thailand" tvg-name="Chuang Asia Thailand" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/chuang-asia-thailand-585-180w-q70.webp?v=1786118762" group-title="Tayland Dizileri",Chuang Asia Thailand (2026) [★N/A]
+https://dizikorea3.com/dizi/chuang-asia-thailand-izle-dq
+
+#EXTINF:-1 tvg-id="Devil Sister" tvg-name="Devil Sister" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/devil-sister-3600-180w-q70.webp?v=1786118761" group-title="Tayland Dizileri",Devil Sister (2026) [★N/A]
+https://dizikorea3.com/dizi/devil-sister-izle-dq
+
+#EXTINF:-1 tvg-id="Astrophile" tvg-name="Astrophile" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/astrophile-8514-180w-q70.webp?v=1786118761" group-title="Tayland Dizileri",Astrophile (2026) [★N/A]
+https://dizikorea3.com/dizi/astrophile-izle-dq
+
+#EXTINF:-1 tvg-id="Beauty Newbie" tvg-name="Beauty Newbie" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/beauty-newbie-9466-180w-q70.webp?v=1786118762" group-title="Tayland Dizileri",Beauty Newbie (2026) [★N/A]
+https://dizikorea3.com/dizi/beauty-newbie-izle-dq
+
+#EXTINF:-1 tvg-id="Ready, Set, Love" tvg-name="Ready, Set, Love" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/ready-set-love-7494-180w-q70.webp?v=1786118762" group-title="Tayland Dizileri",Ready, Set, Love (2026) [★N/A]
+https://dizikorea3.com/dizi/ready-set-love-izle-dq
+
+#EXTINF:-1 tvg-id="Home School" tvg-name="Home School" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/home-school-8067-180w-q70.webp?v=1786118762" group-title="Tayland Dizileri",Home School (2026) [★N/A]
+https://dizikorea3.com/dizi/home-school-izle-dq
+
+#EXTINF:-1 tvg-id="Chains of Heart" tvg-name="Chains of Heart" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/chains-of-heart-1005-180w-q70.webp?v=1786118762" group-title="Tayland Dizileri",Chains of Heart (2026) [★N/A]
+https://dizikorea3.com/dizi/chains-of-heart-izle-dq
+
+#EXTINF:-1 tvg-id="Eclipse of the Heart" tvg-name="Eclipse of the Heart" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/eclipse-of-the-heart-1483-180w-q70.webp?v=1786118762" group-title="Tayland Dizileri",Eclipse of the Heart (2026) [★N/A]
+https://dizikorea3.com/dizi/eclipse-of-the-heart-izle-dq
+
+#EXTINF:-1 tvg-id="Taiwan Crime Stories" tvg-name="Taiwan Crime Stories" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/taiwan-crime-stories-3999-180w-q70.webp?v=1786118762" group-title="Tayland Dizileri",Taiwan Crime Stories (2026) [★N/A]
+https://dizikorea3.com/dizi/taiwan-crime-stories-izle-dq
+
+#EXTINF:-1 tvg-id="Future" tvg-name="Future" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/future-1583-180w-q70.webp?v=1786118762" group-title="Tayland Dizileri",Future (2026) [★N/A]
+https://dizikorea3.com/dizi/future-izle-dq
+
+#EXTINF:-1 tvg-id="Midnight Museum" tvg-name="Midnight Museum" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/midnight-museum-1597-180w-q70.webp?v=1786118762" group-title="Tayland Dizileri",Midnight Museum (2026) [★N/A]
+https://dizikorea3.com/dizi/midnight-museum-izle-dq
+
+#EXTINF:-1 tvg-id="Moonlight Chicken" tvg-name="Moonlight Chicken" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/moonlight-chicken-4491-180w-q70.webp?v=1786118763" group-title="Tayland Dizileri",Moonlight Chicken (2026) [★N/A]
+https://dizikorea3.com/dizi/moonlight-chicken-izle-dq
+
+#EXTINF:-1 tvg-id="Thai Cave Rescue" tvg-name="Thai Cave Rescue" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/thai-cave-rescue-4497-180w-q70.webp?v=1786118763" group-title="Tayland Dizileri",Thai Cave Rescue (2026) [★N/A]
+https://dizikorea3.com/dizi/thai-cave-rescue-izle-dq
 
 #EXTINF:-1 tvg-id="The Fixers" tvg-name="The Fixers" tvg-logo="https://dizikorea3.com/assets/uploads/series/.thumbs/the-fixers-180w-q70.webp?v=1790316807" group-title="Tayvan Dizileri",The Fixers (2026) [★N/A]
 https://dizikorea3.com/dizi/the-fixers-izle
@@ -474,9 +1317,6 @@ https://dizikorea3.com/dizi/dear-x-izle-dq3
 #EXTINF:-1 tvg-id="Study Group" tvg-name="Study Group" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/study-group-6665-180w-q70.webp?v=1786118536" group-title="Efsane Diziler",Study Group (2026) [★N/A]
 https://dizikorea3.com/dizi/study-group-izle-dq2
 
-#EXTINF:-1 tvg-id="Speed and Love" tvg-name="Speed and Love" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/speed-and-love-9085-180w-q70.webp?v=1786118462" group-title="Efsane Diziler",Speed and Love (2026) [★N/A]
-https://dizikorea3.com/dizi/speed-and-love-izle-dq
-
 #EXTINF:-1 tvg-id="Friendly Rivalry" tvg-name="Friendly Rivalry" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/friendly-rivalry-146-180w-q70.webp?v=1786118538" group-title="Efsane Diziler",Friendly Rivalry (2026) [★N/A]
 https://dizikorea3.com/dizi/friendly-rivalry-izle-dq
 
@@ -510,9 +1350,6 @@ https://dizikorea3.com/dizi/dynamite-kiss-izle-dq2
 #EXTINF:-1 tvg-id="A Business Proposal" tvg-name="A Business Proposal" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/a-business-proposal-5629-180w-q70.webp?v=1786118775" group-title="Efsane Diziler",A Business Proposal (2026) [★N/A]
 https://dizikorea3.com/dizi/a-business-proposal-izle-dq1
 
-#EXTINF:-1 tvg-id="F4 Thailand: Boys Over Flowers" tvg-name="F4 Thailand: Boys Over Flowers" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/f4-thailand-boys-over-flowers-3169-180w-q70.webp?v=1786118692" group-title="Efsane Diziler",F4 Thailand: Boys Over Flowers (2026) [★N/A]
-https://dizikorea3.com/dizi/f4-thailand-boys-over-flowers-izle-dq1
-
 #EXTINF:-1 tvg-id="Goblin" tvg-name="Goblin" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/goblin-1033-180w-q70.webp?v=1786118703" group-title="Efsane Diziler",Goblin (2026) [★N/A]
 https://dizikorea3.com/dizi/goblin-izle-dq1
 
@@ -533,4 +1370,52 @@ https://dizikorea3.com/dizi/extraordinary-you-izle-dq
 
 #EXTINF:-1 tvg-id="Nevertheless," tvg-name="Nevertheless," tvg-logo="https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/nevertheless-54-180w-q70.webp?v=1786119703" group-title="Efsane Diziler",Nevertheless, (2026) [★N/A]
 https://dizikorea3.com/dizi/nevertheless-izle-dq
+
+#EXTINF:-1 tvg-id="Twinkling Watermelon" tvg-name="Twinkling Watermelon" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/twinkling-watermelon-9921-180w-q70.webp?v=1786119703" group-title="Efsane Diziler",Twinkling Watermelon (2026) [★N/A]
+https://dizikorea3.com/dizi/twinkling-watermelon-izle-dq
+
+#EXTINF:-1 tvg-id="All of Us Are Dead" tvg-name="All of Us Are Dead" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/all-of-us-are-dead-7778-180w-q70.webp?v=1786118759" group-title="Efsane Diziler",All of Us Are Dead (2026) [★N/A]
+https://dizikorea3.com/dizi/all-of-us-are-dead-izle2
+
+#EXTINF:-1 tvg-id="Snowdrop" tvg-name="Snowdrop" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/snowdrop-3577-180w-q70.webp?v=1786118697" group-title="Efsane Diziler",Snowdrop (2026) [★N/A]
+https://dizikorea3.com/dizi/snowdrop-izle-dq1
+
+#EXTINF:-1 tvg-id="Marry My Husband" tvg-name="Marry My Husband" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/marry-my-husband-8781-180w-q70.webp?v=1786118702" group-title="Efsane Diziler",Marry My Husband (2026) [★N/A]
+https://dizikorea3.com/dizi/marry-my-husband-izle-dq1
+
+#EXTINF:-1 tvg-id="Strong Woman Do Bong Soon" tvg-name="Strong Woman Do Bong Soon" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/strong-woman-do-bong-soon-4080-180w-q70.webp?v=1786118702" group-title="Efsane Diziler",Strong Woman Do Bong Soon (2026) [★N/A]
+https://dizikorea3.com/dizi/strong-woman-do-bong-soon-izle-dq1
+
+#EXTINF:-1 tvg-id="Perfect Marriage Revenge" tvg-name="Perfect Marriage Revenge" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/perfect-marriage-revenge-8520-180w-q70.webp?v=1786119413" group-title="Efsane Diziler",Perfect Marriage Revenge (2026) [★N/A]
+https://dizikorea3.com/dizi/perfect-marriage-revenge-izle-dq
+
+#EXTINF:-1 tvg-id="School 2017" tvg-name="School 2017" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/school-2017-4211-180w-q70.webp?v=1786118703" group-title="Efsane Diziler",School 2017 (2026) [★N/A]
+https://dizikorea3.com/dizi/school-2017-izle-dq
+
+#EXTINF:-1 tvg-id="Destined With You" tvg-name="Destined With You" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/destined-with-you-6540-180w-q70.webp?v=1786118775" group-title="Efsane Diziler",Destined With You (2026) [★N/A]
+https://dizikorea3.com/dizi/destined-with-you-izle-dq
+
+#EXTINF:-1 tvg-id="True Beauty" tvg-name="True Beauty" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/true-beauty-9404-180w-q70.webp?v=1786118637" group-title="Efsane Diziler",True Beauty (2026) [★N/A]
+https://dizikorea3.com/dizi/true-beauty-izle-dq5
+
+#EXTINF:-1 tvg-id="Love Alarm" tvg-name="Love Alarm" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/love-alarm-3100-180w-q70.webp?v=1786119682" group-title="Efsane Diziler",Love Alarm (2026) [★N/A]
+https://dizikorea3.com/dizi/love-alarm-izle-dq
+
+#EXTINF:-1 tvg-id="Night Has Come" tvg-name="Night Has Come" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/v-7323-180w-q70.webp?v=1786118703" group-title="Efsane Diziler",Night Has Come (2026) [★N/A]
+https://dizikorea3.com/dizi/night-has-come-izle-dq
+
+#EXTINF:-1 tvg-id="Squid Game" tvg-name="Squid Game" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/squid-game-4147-180w-q70.webp?v=1786120696" group-title="Efsane Diziler",Squid Game (2026) [★N/A]
+https://dizikorea3.com/dizi/squid-game-izle-dq1
+
+#EXTINF:-1 tvg-id="Vagabond" tvg-name="Vagabond" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/vagabond-1742-180w-q70.webp?v=1786119771" group-title="Efsane Diziler",Vagabond (2026) [★N/A]
+https://dizikorea3.com/dizi/vagabond-izle-dq1
+
+#EXTINF:-1 tvg-id="Bloodhounds" tvg-name="Bloodhounds" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/bloodhounds-6892-180w-q70.webp?v=1786119776" group-title="Efsane Diziler",Bloodhounds (2026) [★N/A]
+https://dizikorea3.com/dizi/bloodhounds-izle-dq1
+
+#EXTINF:-1 tvg-id="Taxi Driver" tvg-name="Taxi Driver" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/taxi-driver-1113-180w-q70.webp?v=1786119772" group-title="Efsane Diziler",Taxi Driver (2026) [★N/A]
+https://dizikorea3.com/dizi/taxi-driver-izle-dq2
+
+#EXTINF:-1 tvg-id="Weak Hero Class 1" tvg-name="Weak Hero Class 1" tvg-logo="https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/weak-hero-class-1-5458-180w-q70.webp?v=1786119418" group-title="Efsane Diziler",Weak Hero Class 1 (2026) [★N/A]
+https://dizikorea3.com/dizi/weak-hero-class-1-izle-dq
 
