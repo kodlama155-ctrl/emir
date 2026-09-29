@@ -30,8 +30,15 @@ class DiziKoreaProvider : MainAPI() {
 
     private fun toSearchResponse(element: Element): SearchResponse? {
         val href = fixUrlNull(element.attr("href")) ?: return null
-        val title = element.selectFirst("img")?.attr("alt")?.trim() ?: element.attr("title").trim()
-        val posterUrl = fixUrlNull(element.selectFirst("img")?.attr("src"))
+        val title = element.selectFirst(".poster-card-title, .title, img")?.let {
+            if (it.hasClass("poster-card-title") || it.hasClass("title")) it.text().trim() else it.attr("alt").trim()
+        } ?: element.attr("title").trim()
+
+        val posterUrl = fixUrlNull(
+            element.selectFirst("img")?.let {
+                it.attr("src").ifBlank { it.attr("data-src") }
+            }
+        )
         val isMovie = href.contains("/film/")
         val type = if (isMovie) TvType.Movie else TvType.TvSeries
 
@@ -54,37 +61,50 @@ class DiziKoreaProvider : MainAPI() {
 
     override suspend fun load(url: String): LoadResponse {
         val doc = app.get(url).document
-        val title = doc.selectFirst("h1.content-title, h1")?.text()?.trim() ?: "İçerik"
-        val poster = fixUrlNull(doc.selectFirst("div.poster img, img.poster")?.attr("src"))
-        val desc = doc.selectFirst("div.content-desc, div.story")?.text()?.trim()
+        val title = doc.selectFirst("h1.series-title, h1.content-title, h1")?.text()?.trim() ?: "İçerik"
+        val poster = fixUrlNull(
+            doc.selectFirst(".series-hero-poster img, .series-hero-card img, div.poster img, img.poster")?.let {
+                it.attr("src").ifBlank { it.attr("data-src") }
+            }
+        )
+        val desc = doc.select(".series-about-text, .series-about-p, div.content-desc, div.story")
+            .joinToString("\n\n") { it.text().trim() }
+            .ifBlank { doc.selectFirst(".series-about-body, .series-about")?.text()?.trim() }
+
+        val year = doc.selectFirst(".series-meta .meta-badge:matches(\\d{4})")?.text()?.trim()?.toIntOrNull()
+        val rating = doc.selectFirst(".meta-rating")?.text()?.replace("★", "")?.trim()?.toRatingInt()
+
         val isMovie = url.contains("/film/")
 
         if (isMovie) {
             return newMovieLoadResponse(title, url, TvType.Movie, url) {
                 this.posterUrl = poster
                 this.plot = desc
+                this.year = year
+                this.rating = rating
             }
         }
 
         val episodes = mutableListOf<Episode>()
-        doc.select("div.episodes-list a, a.episode-item, div.season-list a").forEachIndexed { idx, el ->
+        doc.select("a.episode-item, .episode-list a").forEachIndexed { idx, el ->
             val epHref = fixUrlNull(el.attr("href")) ?: return@forEachIndexed
-            val epName = el.text().trim().ifBlank { "${idx + 1}. Bölüm" }
+            val epNumStr = el.selectFirst(".ep-number")?.text()?.trim()
+            val epNum = epNumStr?.toIntOrNull() ?: (idx + 1)
+            val epName = el.selectFirst(".ep-title")?.text()?.trim() ?: "${epNum}. Bölüm"
+
             episodes.add(
                 newEpisode(epHref) {
                     this.name = epName
-                    this.episode = idx + 1
+                    this.episode = epNum
                 }
             )
-        }
-
-        if (episodes.isEmpty()) {
-            episodes.add(newEpisode(url) { this.name = "1. Bölüm"; this.episode = 1 })
         }
 
         return newTvSeriesLoadResponse(title, url, TvType.TvSeries, episodes) {
             this.posterUrl = poster
             this.plot = desc
+            this.year = year
+            this.rating = rating
         }
     }
 
@@ -95,12 +115,58 @@ class DiziKoreaProvider : MainAPI() {
         callback: (ExtractorLink) -> Unit
     ): Boolean {
         val doc = app.get(data).document
-        val iframes = doc.select("iframe").mapNotNull { it.attr("src") }
         
+        // 1. Doğrudan sayfadaki iframe ve data-src'ler (playerdkorea vs.)
+        val iframes = mutableSetOf<String>()
+        doc.select("iframe").forEach { iframe ->
+            val src = iframe.attr("src").ifBlank { iframe.attr("data-src") }
+            if (src.isNotBlank()) iframes.add(fixUrl(src))
+        }
+
+        // 2. Her bir iframe/player kaynağını çözümle
         for (ifr in iframes) {
-            val fullIfr = fixUrl(ifr)
-            loadExtractor(fullIfr, data, subtitleCallback, callback)
+            if (ifr.contains("playerdkorea") || ifr.contains("playerkorea") || ifr.contains("firevideoplayer")) {
+                extractFirePlayer(ifr, data, subtitleCallback, callback)
+            } else {
+                loadExtractor(ifr, data, subtitleCallback, callback)
+            }
         }
         return true
+    }
+
+    private suspend fun extractFirePlayer(
+        url: String,
+        referer: String,
+        subtitleCallback: (SubtitleFile) -> Unit,
+        callback: (ExtractorLink) -> Unit
+    ) {
+        try {
+            val response = app.get(url, referer = referer).text
+            
+            // JWPlayer / m3u8 veya direct mp4 linki tespiti
+            val m3u8Regex = Regex("""(?:file|url)\s*:\s*["'](https?://[^"']+\.m3u8[^"']*)["']""")
+            val mp4Regex = Regex("""(?:file|url)\s*:\s*["'](https?://[^"']+\.mp4[^"']*)["']""")
+
+            m3u8Regex.find(response)?.groupValues?.get(1)?.let { m3u8Url ->
+                M3u8Helper.generateM3u8(
+                    name,
+                    m3u8Url,
+                    url
+                ).forEach(callback)
+            }
+
+            mp4Regex.find(response)?.groupValues?.get(1)?.let { mp4Url ->
+                callback(
+                    ExtractorLink(
+                        source = name,
+                        name = name,
+                        url = mp4Url,
+                        referer = url,
+                        quality = Qualities.P1080.value,
+                        isM3u8 = false
+                    )
+                )
+            }
+        } catch (_: Exception) {}
     }
 }
