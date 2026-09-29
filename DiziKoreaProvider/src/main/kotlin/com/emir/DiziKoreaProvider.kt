@@ -84,18 +84,41 @@ class DiziKoreaProvider : MainAPI() {
         }
 
         val episodes = mutableListOf<Episode>()
-        doc.select("a.episode-item, .episode-list a").forEachIndexed { idx, el ->
-            val epHref = fixUrlNull(el.attr("href")) ?: return@forEachIndexed
-            val epNumStr = el.selectFirst(".ep-number")?.text()?.trim()
-            val epNum = epNumStr?.toIntOrNull() ?: (idx + 1)
-            val epName = el.selectFirst(".ep-title")?.text()?.trim() ?: "${epNum}. Bölüm"
+        
+        // Çoklu sezon kontrolü: Sitede her sezon ayrı bir div.episode-list[data-season] içinde tutulur
+        val seasonContainers = doc.select("div.episode-list[data-season]")
+        if (seasonContainers.isNotEmpty()) {
+            for (container in seasonContainers) {
+                val seasonNum = container.attr("data-season").toIntOrNull() ?: 1
+                container.select("a.episode-item").forEachIndexed { idx, el ->
+                    val epHref = fixUrlNull(el.attr("href")) ?: return@forEachIndexed
+                    val epNum = el.selectFirst(".ep-number")?.text()?.trim()?.toIntOrNull() ?: (idx + 1)
+                    val epName = el.selectFirst(".ep-title")?.text()?.trim() ?: "${epNum}. Bölüm"
 
-            episodes.add(
-                newEpisode(epHref) {
-                    this.name = epName
-                    this.episode = epNum
+                    episodes.add(
+                        newEpisode(epHref) {
+                            this.name = epName
+                            this.season = seasonNum
+                            this.episode = epNum
+                        }
+                    )
                 }
-            )
+            }
+        } else {
+            // Tek sezonlu veya standart listeleme
+            doc.select("a.episode-item, .episode-list a").forEachIndexed { idx, el ->
+                val epHref = fixUrlNull(el.attr("href")) ?: return@forEachIndexed
+                val epNum = el.selectFirst(".ep-number")?.text()?.trim()?.toIntOrNull() ?: (idx + 1)
+                val epName = el.selectFirst(".ep-title")?.text()?.trim() ?: "${epNum}. Bölüm"
+
+                episodes.add(
+                    newEpisode(epHref) {
+                        this.name = epName
+                        this.season = 1
+                        this.episode = epNum
+                    }
+                )
+            }
         }
 
         return newTvSeriesLoadResponse(title, url, TvType.TvSeries, episodes) {
