@@ -84,8 +84,6 @@ class DiziKoreaProvider : MainAPI() {
         }
 
         val episodes = mutableListOf<Episode>()
-        
-        // Çoklu sezon kontrolü: Sitede her sezon ayrı bir div.episode-list[data-season] içinde tutulur
         val seasonContainers = doc.select("div.episode-list[data-season]")
         if (seasonContainers.isNotEmpty()) {
             for (container in seasonContainers) {
@@ -105,7 +103,6 @@ class DiziKoreaProvider : MainAPI() {
                 }
             }
         } else {
-            // Tek sezonlu veya standart listeleme
             doc.select("a.episode-item, .episode-list a").forEachIndexed { idx, el ->
                 val epHref = fixUrlNull(el.attr("href")) ?: return@forEachIndexed
                 val epNum = el.selectFirst(".ep-number")?.text()?.trim()?.toIntOrNull() ?: (idx + 1)
@@ -164,7 +161,12 @@ class DiziKoreaProvider : MainAPI() {
         callback: (ExtractorLink) -> Unit
     ) {
         try {
-            val videoId = url.substringAfter("/video/").substringBefore("?").substringBefore("/")
+            val videoId = if (url.contains("/video/")) {
+                url.substringAfter("/video/").substringBefore("?").substringBefore("/")
+            } else if (url.contains("data=")) {
+                url.substringAfter("data=").substringBefore("&").substringBefore("#")
+            } else ""
+
             if (videoId.isNotBlank()) {
                 val origin = if (url.contains("://")) {
                     val parts = url.split("/")
