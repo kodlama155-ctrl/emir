@@ -4,17 +4,18 @@ on:
   push:
     branches:
       - main
-    paths-ignore:
-      - "*.md"
-      - "dizikorea.m3u"
-      - "dizikorea_catalog.json"
   workflow_dispatch:
+
+concurrency:
+  group: "build"
+  cancel-in-progress: true
+
+permissions:
+  contents: write
 
 jobs:
   build:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
     steps:
       - name: Checkout Source Code
         uses: actions/checkout@v4
@@ -27,27 +28,31 @@ jobs:
           ref: "builds"
           path: "builds"
 
-      - name: Clean Old Artifacts
-        run: rm -f $GITHUB_WORKSPACE/builds/*.cs3 || true
+      - name: Clean old builds
+        run: rm -f $GITHUB_WORKSPACE/builds/*.cs3
 
       - name: Setup Java JDK
         uses: actions/setup-java@v4
         with:
+          java-version: 17
           distribution: "temurin"
-          java-version: "17"
+
+      - name: Setup Android SDK
+        uses: android-actions/setup-android@v3
 
       - name: Build Cloudstream Plugins
         run: |
           cd $GITHUB_WORKSPACE/src
           chmod +x gradlew
-          ./gradlew make makePluginsJson --stacktrace
+          ./gradlew make makePluginsJson
           cp -v **/build/*.cs3 $GITHUB_WORKSPACE/builds/ || true
           cp -v build/plugins.json $GITHUB_WORKSPACE/builds/ || true
 
-      - name: Push Compiled Plugins to Builds Branch
+      - name: Deploy to builds branch
         run: |
           cd $GITHUB_WORKSPACE/builds
-          git config --local user.email "actions@github.com"
-          git config --local user.name "GitHub Actions"
-          git add .
-          git diff --staged --quiet || (git commit -m "Auto Build CloudStream Plugins: $GITHUB_SHA" && git push origin builds)
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git commit --amend -m "Auto-build Cloudstream plugins: $(date +'%Y-%m-%d %H:%M:%S')" || exit 0
+          git push --force origin builds
