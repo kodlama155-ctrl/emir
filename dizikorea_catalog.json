@@ -1,28 +1,38 @@
 {
   "provider": "DiziKorea",
   "base_url": "https://dizikorea3.com",
-  "total_movies": 15,
-  "total_series": 15,
-  "movies": [
+  "total_items": 178,
+  "categories": [
+    "Filmler",
+    "Kore Dizileri",
+    "Cin Dizileri",
+    "Japon Dizileri",
+    "Tayland Dizileri",
+    "Tayvan Dizileri",
+    "Filipin Dizileri",
+    "Efsane Diziler"
+  ],
+  "items": [
     {
       "title": "The World of Love",
       "url": "https://dizikorea3.com/film/the-world-of-love-izle",
       "poster": "https://dizikorea3.com/assets/uploads/movies/.thumbs/the-world-of-love-180w-q70.webp?v=1790672549",
-      "rating": "7.8",
-      "year": "2025",
+      "rating": "N/A",
+      "year": "2026",
+      "category": "Filmler",
       "type": "movie",
       "streams": [
         {
-          "source": "Player",
+          "source": "PlayerDKorea",
           "embed": "https://playerdkorea.xyz/video/63537aa78867273a6b7dac4b391a9eef"
         },
         {
           "source": "VidMoly",
-          "m3u8": "https://transit-up-1170-i.vmwesa.online/hls2/01/02961/8r4gosqvc9hy_o/master.m3u8?t=C1_WnPU1HP5nBJH8G5FIik8flWGPhl3nCh9lC8dRO_g=&s=1790703593&e=43200&v=&i=0.4&sp=0&asn=34296",
+          "m3u8": "https://transit-up-1170-i.vmwesa.online/hls2/01/02961/8r4gosqvc9hy_o/master.m3u8?t=VFM0qazSganOnEaD2aGTejHG66LqJlII2K23nlPMMWw=&s=1790703857&e=43200&v=&i=0.4&sp=0&asn=34296",
           "embed": "https://vidmoly.org/embed-8r4gosqvc9hy.html"
         },
         {
-          "source": "Player",
+          "source": "EmbedPlayer",
           "embed": "https://bysedikamoum.com/e/gl3fi3h9asyy"
         }
       ]
@@ -31,21 +41,22 @@
       "title": "Love Barista",
       "url": "https://dizikorea3.com/film/love-barista-izle",
       "poster": "https://dizikorea3.com/assets/uploads/movies/.thumbs/love-barista-180w-q70.webp?v=1789570727",
-      "rating": "5.5",
-      "year": "2025",
+      "rating": "N/A",
+      "year": "2026",
+      "category": "Filmler",
       "type": "movie",
       "streams": [
         {
-          "source": "Player",
+          "source": "PlayerDKorea",
           "embed": "https://playerdkorea.xyz/video/65b9d1b6673cfd8602f9f9765265bc78"
         },
         {
           "source": "VidMoly",
-          "m3u8": "https://prx-vi-a-1.vmpx.online/hls2/04/02929/oajutomygv4n_n/master.m3u8?t=pjYURObcxGUX6vMkfDzOTwWc6Td-t2pTko_oZyUKwiM=&s=1790703594&e=43200&v=&srv=box-1655-r&i=0.4&sp=0&asn=34296",
+          "m3u8": "https://prx-vi-a-1.vmpx.online/hls2/04/02929/oajutomygv4n_n/master.m3u8?t=jEdslyP_iJL7EysMU4zWbO4nutGBFK9FK3N4KGEvg9w=&s=1790703857&e=43200&v=&srv=box-1655-r&i=0.4&sp=0&asn=34296",
           "embed": "https://vidmoly.org/embed-oajutomygv4n.html"
         },
         {
-          "source": "Player",
+          "source": "EmbedPlayer",
           "embed": "https://bysedikamoum.com/e/9odv9zbtupjt"
         }
       ]
@@ -54,12 +65,13 @@
       "title": "Damsel",
       "url": "https://dizikorea3.com/film/damsel-izle",
       "poster": "https://dizikorea3.com/assets/uploads/movies/.thumbs/damsel-180w-q70.webp?v=1788732065",
-      "rating": "7.0",
-      "year": "2024",
+      "rating": "N/A",
+      "year": "2026",
+      "category": "Filmler",
       "type": "movie",
       "streams": [
         {
-          "source": "Player",
+          "source": "EmbedPlayer",
           "embed": "https://player.vidmody.com/WkVoUmVFMTZVVEZOYWxFd1RtYzlQUT09"
         }
       ]
@@ -68,218 +80,1587 @@
       "title": "Dhamaal 4",
       "url": "https://dizikorea3.com/film/dhamaal-4-izle",
       "poster": "https://dizikorea3.com/assets/uploads/movies/.thumbs/dhamaal-4-180w-q70.webp?v=1788730045",
-      "rating": "2.6",
+      "rating": "N/A",
       "year": "2026",
-      "type": "movie"
+      "category": "Filmler",
+      "type": "movie",
+      "streams": [
+        {
+          "source": "EmbedPlayer",
+          "embed": "https://player.vidmody.com/WkVoUmVVNTZWVEJQUkZVeFRuYzlQUT09"
+        }
+      ]
     },
     {
       "title": "Backrooms",
       "url": "https://dizikorea3.com/film/backrooms-izle",
       "poster": "https://dizikorea3.com/assets/uploads/movies/.thumbs/backrooms-180w-q70.webp?v=1788729857",
-      "rating": "7.1",
+      "rating": "N/A",
       "year": "2026",
-      "type": "movie"
+      "category": "Filmler",
+      "type": "movie",
+      "streams": [
+        {
+          "source": "EmbedPlayer",
+          "embed": "https://player.vidmody.com/WkVoUmVVNXFXVEZPZWtsNlRtYzlQUT09"
+        }
+      ]
     },
     {
       "title": "The Girl in the River",
       "url": "https://dizikorea3.com/film/the-girl-in-the-river-izle",
       "poster": "https://dizikorea3.com/assets/uploads/movies/.thumbs/the-girl-in-the-river-180w-q70.webp?v=1788729256",
-      "rating": "7.8",
+      "rating": "N/A",
       "year": "2026",
+      "category": "Filmler",
       "type": "movie"
     },
     {
       "title": "Koşucu",
       "url": "https://dizikorea3.com/film/kosucu-izle",
       "poster": "https://dizikorea3.com/assets/uploads/movies/.thumbs/kosucu-180w-q70.webp?v=1788726032",
-      "rating": "6.6",
+      "rating": "N/A",
       "year": "2026",
+      "category": "Filmler",
       "type": "movie"
     },
     {
       "title": "Mayday",
       "url": "https://dizikorea3.com/film/mayday-izle",
       "poster": "https://dizikorea3.com/assets/uploads/movies/.thumbs/mayday-180w-q70.webp?v=1788725824",
-      "rating": "7.7",
+      "rating": "N/A",
       "year": "2026",
+      "category": "Filmler",
       "type": "movie"
     },
     {
       "title": "The Convenience Store",
       "url": "https://dizikorea3.com/film/the-convenience-store-izle",
       "poster": "https://dizikorea3.com/assets/uploads/movies/.thumbs/the-convenience-store-180w-q70.webp?v=1787526430",
-      "rating": "5.1",
+      "rating": "N/A",
       "year": "2026",
+      "category": "Filmler",
       "type": "movie"
     },
     {
       "title": "Lost",
       "url": "https://dizikorea3.com/film/lost-izle",
       "poster": "https://dizikorea3.com/assets/uploads/movies/.thumbs/lost-180w-q70.webp?v=1786689922",
-      "rating": "6.2",
-      "year": "2025",
+      "rating": "N/A",
+      "year": "2026",
+      "category": "Filmler",
       "type": "movie"
     },
     {
       "title": "Salmokji: Whispering Water",
       "url": "https://dizikorea3.com/film/salmokji-whispering-water-izle",
       "poster": "https://dizikorea3.com/assets/uploads/movies/.thumbs/salmokji-whispering-water-180w-q70.webp?v=1786689739",
-      "rating": "6.1",
+      "rating": "N/A",
       "year": "2026",
+      "category": "Filmler",
       "type": "movie"
     },
     {
       "title": "Senden Önce Ben",
       "url": "https://dizikorea3.com/film/senden-once-ben-izle-dq",
       "poster": "https://dizikorea3.com/assets/uploads/movies/.thumbs/senden-once-ben-180w-q70.webp?v=1786118479",
-      "rating": "7.9",
-      "year": "2016",
+      "rating": "N/A",
+      "year": "2026",
+      "category": "Filmler",
       "type": "movie"
     },
     {
       "title": "Your Heart Will Be Broken",
       "url": "https://dizikorea3.com/film/your-heart-will-be-broken-izle-dq1",
       "poster": "https://dizikorea3.com/assets/uploads/movies/.thumbs/your-heart-will-be-broken-180w-q70.webp?v=1786118479",
-      "rating": "7.0",
+      "rating": "N/A",
       "year": "2026",
+      "category": "Filmler",
       "type": "movie"
     },
     {
       "title": "Wild Sing",
       "url": "https://dizikorea3.com/film/wild-sing-izle",
       "poster": "https://dizikorea3.com/assets/uploads/movies/.thumbs/wild-sing-180w-q70.webp?v=1786118479",
-      "rating": "6.0",
+      "rating": "N/A",
       "year": "2026",
+      "category": "Filmler",
       "type": "movie"
     },
     {
       "title": "Second Sister",
       "url": "https://dizikorea3.com/film/second-sister-izle",
       "poster": "https://dizikorea3.com/assets/uploads/movies/.thumbs/second-sister-180w-q70.webp?v=1786118466",
-      "rating": "6.0",
-      "year": "2025",
+      "rating": "N/A",
+      "year": "2026",
+      "category": "Filmler",
       "type": "movie"
-    }
-  ],
-  "series": [
+    },
+    {
+      "title": "Supergirl",
+      "url": "https://dizikorea3.com/film/supergirl-izle",
+      "poster": "https://dizikorea3.com/assets/uploads/movies/.thumbs/supergirl-180w-q70.webp?v=1786118479",
+      "rating": "N/A",
+      "year": "2026",
+      "category": "Filmler",
+      "type": "movie"
+    },
+    {
+      "title": "Colony",
+      "url": "https://dizikorea3.com/film/colony-izle-dq2",
+      "poster": "https://dizikorea3.com/assets/uploads/movies/.thumbs/colony-180w-q70.webp?v=1786118466",
+      "rating": "N/A",
+      "year": "2026",
+      "category": "Filmler",
+      "type": "movie"
+    },
+    {
+      "title": "The King&#039;s Warden",
+      "url": "https://dizikorea3.com/film/the-kings-warden-izle",
+      "poster": "https://dizikorea3.com/assets/uploads/movies/.thumbs/the-kings-warden-180w-q70.webp?v=1786118466",
+      "rating": "N/A",
+      "year": "2026",
+      "category": "Filmler",
+      "type": "movie"
+    },
+    {
+      "title": "Culpa Tuya",
+      "url": "https://dizikorea3.com/film/culpa-tuya-izle-dq1",
+      "poster": "https://dizikorea3.com/assets/uploads/movies/.thumbs/culpa-tuya-180w-q70.webp?v=1786118479",
+      "rating": "N/A",
+      "year": "2026",
+      "category": "Filmler",
+      "type": "movie"
+    },
+    {
+      "title": "Wretches",
+      "url": "https://dizikorea3.com/film/wretches-izle",
+      "poster": "https://dizikorea3.com/assets/uploads/movies/.thumbs/wretches-180w-q70.webp?v=1786118479",
+      "rating": "N/A",
+      "year": "2026",
+      "category": "Filmler",
+      "type": "movie"
+    },
+    {
+      "title": "Resim Havuzu",
+      "url": "https://dizikorea3.com/film/Resim-Havuzu-izle",
+      "poster": "https://dizikorea3.com/assets/uploads/movies/.thumbs/resim-havuzu-180w-q70.webp?v=1786118479",
+      "rating": "N/A",
+      "year": "2026",
+      "category": "Filmler",
+      "type": "movie"
+    },
+    {
+      "title": "The Ghost Game",
+      "url": "https://dizikorea3.com/film/the-ghost-game-izle",
+      "poster": "https://dizikorea3.com/assets/uploads/movies/.thumbs/the-ghost-game-180w-q70.webp?v=1786118466",
+      "rating": "N/A",
+      "year": "2026",
+      "category": "Filmler",
+      "type": "movie"
+    },
+    {
+      "title": "The Informant",
+      "url": "https://dizikorea3.com/film/the-informant-izle",
+      "poster": "https://dizikorea3.com/assets/uploads/movies/.thumbs/the-informant-180w-q70.webp?v=1786118513",
+      "rating": "N/A",
+      "year": "2026",
+      "category": "Filmler",
+      "type": "movie"
+    },
+    {
+      "title": "Once We Were Us",
+      "url": "https://dizikorea3.com/film/once-we-were-us-izle",
+      "poster": "https://dizikorea3.com/assets/uploads/movies/.thumbs/once-we-were-us-180w-q70.webp?v=1786118466",
+      "rating": "N/A",
+      "year": "2026",
+      "category": "Filmler",
+      "type": "movie"
+    },
     {
       "title": "Love on the Menu",
       "url": "https://dizikorea3.com/dizi/love-on-the-menu-izle",
       "poster": "https://dizikorea3.com/assets/uploads/series/.thumbs/love-on-the-menu-180w-q70.webp?v=1786118465",
-      "rating": "7.9",
+      "rating": "N/A",
       "year": "2026",
+      "category": "Kore Dizileri",
       "type": "series"
     },
     {
       "title": "Dive into You",
       "url": "https://dizikorea3.com/dizi/dive-into-you-izle",
       "poster": "https://dizikorea3.com/assets/uploads/series/.thumbs/dive-into-you-180w-q70.webp?v=1787913024",
-      "rating": "8.5",
+      "rating": "N/A",
       "year": "2026",
+      "category": "Kore Dizileri",
       "type": "series"
     },
     {
       "title": "OK! Let’s Get Divorced",
       "url": "https://dizikorea3.com/dizi/ok-lets-get-a-divorce-izle",
       "poster": "https://dizikorea3.com/assets/uploads/series/.thumbs/yes-lets-get-a-divorce-180w-q70.webp?v=1786118467",
-      "rating": "8.6",
+      "rating": "N/A",
       "year": "2026",
+      "category": "Kore Dizileri",
       "type": "series"
     },
     {
       "title": "A Love Other Than Yours",
       "url": "https://dizikorea3.com/dizi/a-love-other-than-yours-izle-dq",
       "poster": "https://dizikorea3.com/assets/uploads/series/.thumbs/a-love-other-than-yours-180w-q70.webp?v=1786530570",
-      "rating": "8.9",
+      "rating": "N/A",
       "year": "2026",
+      "category": "Kore Dizileri",
       "type": "series"
     },
     {
       "title": "Four Hands, Two Sonatas",
       "url": "https://dizikorea3.com/dizi/four-hands-two-sonatas-izle",
       "poster": "https://dizikorea3.com/assets/uploads/series/.thumbs/four-hands-two-sonatas-180w-q70.webp?v=1788011353",
-      "rating": "8.9",
+      "rating": "N/A",
       "year": "2026",
+      "category": "Kore Dizileri",
       "type": "series"
     },
     {
       "title": "The Ordinary Jackpot",
       "url": "https://dizikorea3.com/dizi/the-ordinary-jackpot-izle",
       "poster": "https://dizikorea3.com/assets/uploads/series/.thumbs/the-ordinary-jackpot-180w-q70.webp?v=1786530422",
-      "rating": "8.7",
+      "rating": "N/A",
       "year": "2026",
+      "category": "Kore Dizileri",
       "type": "series"
     },
     {
       "title": "Doctor X",
       "url": "https://dizikorea3.com/dizi/doctor-x-izle",
       "poster": "https://dizikorea3.com/assets/uploads/series/.thumbs/doctor-x-180w-q70.webp?v=1789292480",
-      "rating": "8.5",
+      "rating": "N/A",
       "year": "2026",
+      "category": "Kore Dizileri",
       "type": "series"
     },
     {
       "title": "Take Charge of My Heart",
       "url": "https://dizikorea3.com/dizi/take-charge-of-my-heart-izle",
       "poster": "https://dizikorea3.com/assets/uploads/series/.thumbs/take-charge-of-my-heart-180w-q70.webp?v=1789292271",
-      "rating": "8.9",
+      "rating": "N/A",
       "year": "2026",
+      "category": "Kore Dizileri",
       "type": "series"
     },
     {
       "title": "Between Steps",
       "url": "https://dizikorea3.com/dizi/between-steps-izle",
       "poster": "https://dizikorea3.com/assets/uploads/series/.thumbs/between-steps-180w-q70.webp?v=1788943910",
-      "rating": "8.7",
+      "rating": "N/A",
       "year": "2026",
+      "category": "Kore Dizileri",
       "type": "series"
     },
     {
       "title": "The Scandal",
       "url": "https://dizikorea3.com/dizi/the-scandal-izle",
       "poster": "https://dizikorea3.com/assets/uploads/series/.thumbs/the-scandal-180w-q70.webp?v=1788933830",
-      "rating": "8.6",
+      "rating": "N/A",
       "year": "2026",
+      "category": "Kore Dizileri",
       "type": "series"
     },
     {
       "title": "100 Days of Deception",
       "url": "https://dizikorea3.com/dizi/100-days-of-deception-izle",
       "poster": "https://dizikorea3.com/assets/uploads/series/.thumbs/100-days-of-deception-180w-q70.webp?v=1788631082",
-      "rating": "8.9",
+      "rating": "N/A",
       "year": "2026",
+      "category": "Kore Dizileri",
       "type": "series"
     },
     {
       "title": "Four Hands, Two Sonatas",
       "url": "https://dizikorea3.com/dizi/four-hands-two-sonatas-izle",
       "poster": "https://dizikorea3.com/assets/uploads/series/.thumbs/four-hands-two-sonatas-180w-q70.webp?v=1788011353",
-      "rating": "8.9",
+      "rating": "N/A",
       "year": "2026",
+      "category": "Kore Dizileri",
       "type": "series"
     },
     {
       "title": "Dive into You",
       "url": "https://dizikorea3.com/dizi/dive-into-you-izle",
       "poster": "https://dizikorea3.com/assets/uploads/series/.thumbs/dive-into-you-180w-q70.webp?v=1787913024",
-      "rating": "8.5",
+      "rating": "N/A",
       "year": "2026",
+      "category": "Kore Dizileri",
       "type": "series"
     },
     {
       "title": "A Love Other Than Yours",
       "url": "https://dizikorea3.com/dizi/a-love-other-than-yours-izle-dq",
       "poster": "https://dizikorea3.com/assets/uploads/series/.thumbs/a-love-other-than-yours-180w-q70.webp?v=1786530570",
-      "rating": "8.9",
+      "rating": "N/A",
       "year": "2026",
+      "category": "Kore Dizileri",
       "type": "series"
     },
     {
       "title": "The Ordinary Jackpot",
       "url": "https://dizikorea3.com/dizi/the-ordinary-jackpot-izle",
       "poster": "https://dizikorea3.com/assets/uploads/series/.thumbs/the-ordinary-jackpot-180w-q70.webp?v=1786530422",
-      "rating": "8.7",
+      "rating": "N/A",
       "year": "2026",
+      "category": "Kore Dizileri",
+      "type": "series"
+    },
+    {
+      "title": "You&#039;ve Fallen for Me",
+      "url": "https://dizikorea3.com/dizi/youve-fallen-for-me-izle",
+      "poster": "https://dizikorea3.com/assets/uploads/series/.thumbs/youve-fallen-for-me-180w-q70.webp?v=1786118466",
+      "rating": "N/A",
+      "year": "2026",
+      "category": "Kore Dizileri",
+      "type": "series"
+    },
+    {
+      "title": "Secret Agent Miss Oh",
+      "url": "https://dizikorea3.com/dizi/secret-agent-miss-oh-izle",
+      "poster": "https://dizikorea3.com/assets/uploads/series/.thumbs/secret-agent-miss-oh-180w-q70.webp?v=1786118467",
+      "rating": "N/A",
+      "year": "2026",
+      "category": "Kore Dizileri",
+      "type": "series"
+    },
+    {
+      "title": "OK! Let’s Get Divorced",
+      "url": "https://dizikorea3.com/dizi/ok-lets-get-a-divorce-izle",
+      "poster": "https://dizikorea3.com/assets/uploads/series/.thumbs/yes-lets-get-a-divorce-180w-q70.webp?v=1786118467",
+      "rating": "N/A",
+      "year": "2026",
+      "category": "Kore Dizileri",
+      "type": "series"
+    },
+    {
+      "title": "Mousetrap",
+      "url": "https://dizikorea3.com/dizi/mousetrap-izle",
+      "poster": "https://dizikorea3.com/assets/uploads/series/.thumbs/mousetrap-180w-q70.webp?v=1786118467",
+      "rating": "N/A",
+      "year": "2026",
+      "category": "Kore Dizileri",
+      "type": "series"
+    },
+    {
+      "title": "Part-Time Idol",
+      "url": "https://dizikorea3.com/dizi/part-time-idol-izle",
+      "poster": "https://dizikorea3.com/assets/uploads/series/.thumbs/part-time-idol-180w-q70.webp?v=1786118467",
+      "rating": "N/A",
+      "year": "2026",
+      "category": "Kore Dizileri",
+      "type": "series"
+    },
+    {
+      "title": "Radiant Office",
+      "url": "https://dizikorea3.com/dizi/radiant-office-izle-dq2",
+      "poster": "https://dizikorea3.com/assets/uploads/series/.thumbs/radiant-office-180w-q70.webp?v=1786118467",
+      "rating": "N/A",
+      "year": "2026",
+      "category": "Kore Dizileri",
+      "type": "series"
+    },
+    {
+      "title": "The Slingshot",
+      "url": "https://dizikorea3.com/dizi/the-slingshot-izle",
+      "poster": "https://dizikorea3.com/assets/uploads/series/.thumbs/the-slingshot-180w-q70.webp?v=1786118467",
+      "rating": "N/A",
+      "year": "2026",
+      "category": "Kore Dizileri",
+      "type": "series"
+    },
+    {
+      "title": "Bad Love",
+      "url": "https://dizikorea3.com/dizi/bad-love-izle",
+      "poster": "https://dizikorea3.com/assets/uploads/series/.thumbs/bad-love-180w-q70.webp?v=1786118467",
+      "rating": "N/A",
+      "year": "2026",
+      "category": "Kore Dizileri",
+      "type": "series"
+    },
+    {
+      "title": "Personal Taste",
+      "url": "https://dizikorea3.com/dizi/personal-taste-izle",
+      "poster": "https://dizikorea3.com/assets/uploads/series/.thumbs/personal-taste-180w-q70.webp?v=1786118467",
+      "rating": "N/A",
+      "year": "2026",
+      "category": "Kore Dizileri",
+      "type": "series"
+    },
+    {
+      "title": "Memorist",
+      "url": "https://dizikorea3.com/dizi/memorist-izle",
+      "poster": "https://dizikorea3.com/assets/uploads/series/.thumbs/memorist-180w-q70.webp?v=1786118467",
+      "rating": "N/A",
+      "year": "2026",
+      "category": "Kore Dizileri",
+      "type": "series"
+    },
+    {
+      "title": "Matrimonial Chaos",
+      "url": "https://dizikorea3.com/dizi/matrimonial-chaos-izle",
+      "poster": "https://dizikorea3.com/assets/uploads/series/.thumbs/matrimonial-chaos-180w-q70.webp?v=1786118467",
+      "rating": "N/A",
+      "year": "2026",
+      "category": "Kore Dizileri",
+      "type": "series"
+    },
+    {
+      "title": "Avengers Social Club",
+      "url": "https://dizikorea3.com/dizi/avengers-social-club-izle",
+      "poster": "https://dizikorea3.com/assets/uploads/series/.thumbs/avengers-social-club-180w-q70.webp?v=1786118467",
+      "rating": "N/A",
+      "year": "2026",
+      "category": "Kore Dizileri",
+      "type": "series"
+    },
+    {
+      "title": "Noble, My Love",
+      "url": "https://dizikorea3.com/dizi/noble-my-love-izle",
+      "poster": "https://dizikorea3.com/assets/uploads/series/.thumbs/noble-my-love-180w-q70.webp?v=1786118467",
+      "rating": "N/A",
+      "year": "2026",
+      "category": "Kore Dizileri",
+      "type": "series"
+    },
+    {
+      "title": "Second 20s",
+      "url": "https://dizikorea3.com/dizi/second-20s-izle",
+      "poster": "https://dizikorea3.com/assets/uploads/series/.thumbs/second-20s-180w-q70.webp?v=1786118467",
+      "rating": "N/A",
+      "year": "2026",
+      "category": "Kore Dizileri",
+      "type": "series"
+    },
+    {
+      "title": "Weightlifting Fairy Kim Bok-joo",
+      "url": "https://dizikorea3.com/dizi/weightlifting-fairy-kim-bok-joo-izle-dq",
+      "poster": "https://dizikorea3.com/assets/uploads/series/.thumbs/weightlifting-fairy-kim-bok-joo-180w-q70.webp?v=1786118467",
+      "rating": "N/A",
+      "year": "2026",
+      "category": "Kore Dizileri",
+      "type": "series"
+    },
+    {
+      "title": "A Prophet",
+      "url": "https://dizikorea3.com/dizi/a-prophet-izle",
+      "poster": "https://dizikorea3.com/assets/uploads/series/.thumbs/a-prophet-180w-q70.webp?v=1790169420",
+      "rating": "N/A",
+      "year": "2026",
+      "category": "Cin Dizileri",
+      "type": "series"
+    },
+    {
+      "title": "Live Forever",
+      "url": "https://dizikorea3.com/dizi/live-forever-izle",
+      "poster": "https://dizikorea3.com/assets/uploads/series/.thumbs/live-forever-180w-q70.webp?v=1790367140",
+      "rating": "N/A",
+      "year": "2026",
+      "category": "Cin Dizileri",
+      "type": "series"
+    },
+    {
+      "title": "Irreplaceable",
+      "url": "https://dizikorea3.com/dizi/irreplaceable-izle",
+      "poster": "https://dizikorea3.com/assets/uploads/series/.thumbs/irreplaceable-180w-q70.webp?v=1790593590",
+      "rating": "N/A",
+      "year": "2026",
+      "category": "Cin Dizileri",
+      "type": "series"
+    },
+    {
+      "title": "Against the Current",
+      "url": "https://dizikorea3.com/dizi/against-the-current-izle",
+      "poster": "https://dizikorea3.com/assets/uploads/series/.thumbs/against-the-current-180w-q70.webp?v=1788630855",
+      "rating": "N/A",
+      "year": "2026",
+      "category": "Cin Dizileri",
+      "type": "series"
+    },
+    {
+      "title": "Spring of the Blade",
+      "url": "https://dizikorea3.com/dizi/spring-of-the-blade-izle",
+      "poster": "https://dizikorea3.com/assets/uploads/series/.thumbs/spring-of-the-blade-180w-q70.webp?v=1788942846",
+      "rating": "N/A",
+      "year": "2026",
+      "category": "Cin Dizileri",
+      "type": "series"
+    },
+    {
+      "title": "Irreplaceable",
+      "url": "https://dizikorea3.com/dizi/irreplaceable-izle",
+      "poster": "https://dizikorea3.com/assets/uploads/series/.thumbs/irreplaceable-180w-q70.webp?v=1790593590",
+      "rating": "N/A",
+      "year": "2026",
+      "category": "Cin Dizileri",
+      "type": "series"
+    },
+    {
+      "title": "Live Forever",
+      "url": "https://dizikorea3.com/dizi/live-forever-izle",
+      "poster": "https://dizikorea3.com/assets/uploads/series/.thumbs/live-forever-180w-q70.webp?v=1790367140",
+      "rating": "N/A",
+      "year": "2026",
+      "category": "Cin Dizileri",
+      "type": "series"
+    },
+    {
+      "title": "A Prophet",
+      "url": "https://dizikorea3.com/dizi/a-prophet-izle",
+      "poster": "https://dizikorea3.com/assets/uploads/series/.thumbs/a-prophet-180w-q70.webp?v=1790169420",
+      "rating": "N/A",
+      "year": "2026",
+      "category": "Cin Dizileri",
+      "type": "series"
+    },
+    {
+      "title": "In My Prime",
+      "url": "https://dizikorea3.com/dizi/in-my-prime-izle",
+      "poster": "https://dizikorea3.com/assets/uploads/series/.thumbs/in-my-prime-180w-q70.webp?v=1789294569",
+      "rating": "N/A",
+      "year": "2026",
+      "category": "Cin Dizileri",
+      "type": "series"
+    },
+    {
+      "title": "Abyss",
+      "url": "https://dizikorea3.com/dizi/abyss-izle",
+      "poster": "https://dizikorea3.com/assets/uploads/series/.thumbs/abyss-180w-q70.webp?v=1789214550",
+      "rating": "N/A",
+      "year": "2026",
+      "category": "Cin Dizileri",
+      "type": "series"
+    },
+    {
+      "title": "My Drama Missy",
+      "url": "https://dizikorea3.com/dizi/my-drama-missy-izle",
+      "poster": "https://dizikorea3.com/assets/uploads/series/.thumbs/my-drama-missy-180w-q70.webp?v=1788943011",
+      "rating": "N/A",
+      "year": "2026",
+      "category": "Cin Dizileri",
+      "type": "series"
+    },
+    {
+      "title": "Spring of the Blade",
+      "url": "https://dizikorea3.com/dizi/spring-of-the-blade-izle",
+      "poster": "https://dizikorea3.com/assets/uploads/series/.thumbs/spring-of-the-blade-180w-q70.webp?v=1788942846",
+      "rating": "N/A",
+      "year": "2026",
+      "category": "Cin Dizileri",
+      "type": "series"
+    },
+    {
+      "title": "No. 9 Hunter",
+      "url": "https://dizikorea3.com/dizi/no-9-hunter-izle",
+      "poster": "https://dizikorea3.com/assets/uploads/series/.thumbs/no-9-hunter-180w-q70.webp?v=1788790159",
+      "rating": "N/A",
+      "year": "2026",
+      "category": "Cin Dizileri",
+      "type": "series"
+    },
+    {
+      "title": "Against the Current",
+      "url": "https://dizikorea3.com/dizi/against-the-current-izle",
+      "poster": "https://dizikorea3.com/assets/uploads/series/.thumbs/against-the-current-180w-q70.webp?v=1788630855",
+      "rating": "N/A",
+      "year": "2026",
+      "category": "Cin Dizileri",
+      "type": "series"
+    },
+    {
+      "title": "Awaken",
+      "url": "https://dizikorea3.com/dizi/awaken-izle",
+      "poster": "https://dizikorea3.com/assets/uploads/series/.thumbs/awaken-180w-q70.webp?v=1788193063",
+      "rating": "N/A",
+      "year": "2026",
+      "category": "Cin Dizileri",
+      "type": "series"
+    },
+    {
+      "title": "See You Later…Maybe",
+      "url": "https://dizikorea3.com/dizi/see-you-later-maybe-izle",
+      "poster": "https://dizikorea3.com/assets/uploads/series/.thumbs/icerik-180w-q70.webp?v=1788157004",
+      "rating": "N/A",
+      "year": "2026",
+      "category": "Cin Dizileri",
+      "type": "series"
+    },
+    {
+      "title": "Remnants of Gold",
+      "url": "https://dizikorea3.com/dizi/remnants-of-gold-izle",
+      "poster": "https://dizikorea3.com/assets/uploads/series/.thumbs/remnants-of-gold-180w-q70.webp?v=1787987474",
+      "rating": "N/A",
+      "year": "2026",
+      "category": "Cin Dizileri",
+      "type": "series"
+    },
+    {
+      "title": "Blossom Through the Cloud",
+      "url": "https://dizikorea3.com/dizi/blossom-through-the-cloud-izle-dq",
+      "poster": "https://dizikorea3.com/assets/uploads/series/.thumbs/blossom-through-the-cloud-180w-q70.webp?v=1787912853",
+      "rating": "N/A",
+      "year": "2026",
+      "category": "Cin Dizileri",
+      "type": "series"
+    },
+    {
+      "title": "The Early Spring",
+      "url": "https://dizikorea3.com/dizi/the-early-spring-izle",
+      "poster": "https://dizikorea3.com/assets/uploads/series/.thumbs/the-early-spring-180w-q70.webp?v=1787318792",
+      "rating": "N/A",
+      "year": "2026",
+      "category": "Cin Dizileri",
+      "type": "series"
+    },
+    {
+      "title": "Pull Strings",
+      "url": "https://dizikorea3.com/dizi/pull-strings-izle",
+      "poster": "https://dizikorea3.com/assets/uploads/series/.thumbs/pull-strings-180w-q70.webp?v=1786982130",
+      "rating": "N/A",
+      "year": "2026",
+      "category": "Cin Dizileri",
+      "type": "series"
+    },
+    {
+      "title": "Dearest",
+      "url": "https://dizikorea3.com/dizi/dearest-izle",
+      "poster": "https://dizikorea3.com/assets/uploads/series/.thumbs/dearest-180w-q70.webp?v=1786882406",
+      "rating": "N/A",
+      "year": "2026",
+      "category": "Cin Dizileri",
+      "type": "series"
+    },
+    {
+      "title": "The Road to Splendor",
+      "url": "https://dizikorea3.com/dizi/the-road-to-splendor-izle",
+      "poster": "https://dizikorea3.com/assets/uploads/series/.thumbs/the-road-to-splendor-180w-q70.webp?v=1786358627",
+      "rating": "N/A",
+      "year": "2026",
+      "category": "Cin Dizileri",
+      "type": "series"
+    },
+    {
+      "title": "Genius Girlfriend",
+      "url": "https://dizikorea3.com/dizi/genius-girlfriend-izle",
+      "poster": "https://dizikorea3.com/assets/uploads/series/.thumbs/genius-girlfriend-180w-q70.webp?v=1786118461",
+      "rating": "N/A",
+      "year": "2026",
+      "category": "Cin Dizileri",
+      "type": "series"
+    },
+    {
+      "title": "Royal Betrothal",
+      "url": "https://dizikorea3.com/dizi/royal-betrothal-izle",
+      "poster": "https://dizikorea3.com/assets/uploads/series/.thumbs/royal-betrothal-180w-q70.webp?v=1786118461",
+      "rating": "N/A",
+      "year": "2026",
+      "category": "Cin Dizileri",
+      "type": "series"
+    },
+    {
+      "title": "The Shadow Sovereign",
+      "url": "https://dizikorea3.com/dizi/the-shadow-sovereign-izle",
+      "poster": "https://dizikorea3.com/assets/uploads/series/.thumbs/the-shadow-sovereign-180w-q70.webp?v=1786118460",
+      "rating": "N/A",
+      "year": "2026",
+      "category": "Cin Dizileri",
+      "type": "series"
+    },
+    {
+      "title": "About Love",
+      "url": "https://dizikorea3.com/dizi/about-love-izle",
+      "poster": "https://dizikorea3.com/assets/uploads/series/.thumbs/about-love-180w-q70.webp?v=1786118461",
+      "rating": "N/A",
+      "year": "2026",
+      "category": "Cin Dizileri",
+      "type": "series"
+    },
+    {
+      "title": "Key to the Phoenix Heart",
+      "url": "https://dizikorea3.com/dizi/key-to-the-phoenix-heart-izle",
+      "poster": "https://dizikorea3.com/assets/uploads/series/.thumbs/key-to-the-phoenix-heart-180w-q70.webp?v=1786118461",
+      "rating": "N/A",
+      "year": "2026",
+      "category": "Cin Dizileri",
+      "type": "series"
+    },
+    {
+      "title": "Overdo",
+      "url": "https://dizikorea3.com/dizi/overdo-izle",
+      "poster": "https://dizikorea3.com/assets/uploads/series/.thumbs/overdo-180w-q70.webp?v=1786118461",
+      "rating": "N/A",
+      "year": "2026",
+      "category": "Cin Dizileri",
+      "type": "series"
+    },
+    {
+      "title": "Love For You",
+      "url": "https://dizikorea3.com/dizi/love-for-you-izle-dq4",
+      "poster": "https://dizikorea3.com/assets/uploads/series/.thumbs/love-for-you-180w-q70.webp?v=1786118461",
+      "rating": "N/A",
+      "year": "2026",
+      "category": "Cin Dizileri",
+      "type": "series"
+    },
+    {
+      "title": "Plastic Beauty",
+      "url": "https://dizikorea3.com/dizi/plastic-beauty-izle",
+      "poster": "https://dizikorea3.com/assets/uploads/series/.thumbs/plastic-beauty-180w-q70.webp?v=1789737985",
+      "rating": "N/A",
+      "year": "2026",
+      "category": "Japon Dizileri",
+      "type": "series"
+    },
+    {
+      "title": "Labyrinth of Hortensia and the Minotaur",
+      "url": "https://dizikorea3.com/dizi/labyrinth-of-hortensia-and-the-minotaur-izle",
+      "poster": "https://dizikorea3.com/assets/uploads/series/.thumbs/labyrinth-of-hortensia-and-the-minotaur-180w-q70.webp?v=1788192561",
+      "rating": "N/A",
+      "year": "2026",
+      "category": "Japon Dizileri",
+      "type": "series"
+    },
+    {
+      "title": "Until the T-Shirt Dries",
+      "url": "https://dizikorea3.com/dizi/until-the-t-shirt-dries-izle",
+      "poster": "https://dizikorea3.com/assets/uploads/series/.thumbs/until-the-t-shirt-dries-180w-q70.webp?v=1787125996",
+      "rating": "N/A",
+      "year": "2026",
+      "category": "Japon Dizileri",
+      "type": "series"
+    },
+    {
+      "title": "The Vacation Principle",
+      "url": "https://dizikorea3.com/dizi/the-vacation-principle-izle",
+      "poster": "https://dizikorea3.com/assets/uploads/series/.thumbs/the-vacation-principle-180w-q70.webp?v=1786911319",
+      "rating": "N/A",
+      "year": "2026",
+      "category": "Japon Dizileri",
+      "type": "series"
+    },
+    {
+      "title": "25 Years of You",
+      "url": "https://dizikorea3.com/dizi/25-years-of-you-izle",
+      "poster": "https://dizikorea3.com/assets/uploads/series/.thumbs/25-years-of-you-180w-q70.webp?v=1786118478",
+      "rating": "N/A",
+      "year": "2026",
+      "category": "Japon Dizileri",
+      "type": "series"
+    },
+    {
+      "title": "GTO",
+      "url": "https://dizikorea3.com/dizi/gto-izle-dq",
+      "poster": "https://dizikorea3.com/assets/uploads/series/.thumbs/gto-180w-q70.webp?v=1786118478",
+      "rating": "N/A",
+      "year": "2026",
+      "category": "Japon Dizileri",
+      "type": "series"
+    },
+    {
+      "title": "LOVED ONE",
+      "url": "https://dizikorea3.com/dizi/loved-one-izle",
+      "poster": "https://dizikorea3.com/assets/uploads/series/.thumbs/loved-one-180w-q70.webp?v=1786118472",
+      "rating": "N/A",
+      "year": "2026",
+      "category": "Japon Dizileri",
+      "type": "series"
+    },
+    {
+      "title": "Let&#039;s End Our Friendship Now",
+      "url": "https://dizikorea3.com/dizi/lets-end-our-friendship-now-izle",
+      "poster": "https://dizikorea3.com/assets/uploads/series/.thumbs/lets-end-our-friendship-now-180w-q70.webp?v=1786118472",
+      "rating": "N/A",
+      "year": "2026",
+      "category": "Japon Dizileri",
+      "type": "series"
+    },
+    {
+      "title": "Gimbap and Onigiri",
+      "url": "https://dizikorea3.com/dizi/gimbap-and-onigiri-izle-dq",
+      "poster": "https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/gimbap-and-onigiri-8270-180w-q70.webp?v=1786118503",
+      "rating": "N/A",
+      "year": "2026",
+      "category": "Japon Dizileri",
+      "type": "series"
+    },
+    {
+      "title": "The Night I Got Pregnant by the CEO",
+      "url": "https://dizikorea3.com/dizi/the-night-i-got-pregnant-by-the-ceo-izle-dq",
+      "poster": "https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/the-night-i-got-pregnant-by-the-ceo-6625-180w-q70.webp?v=1786118502",
+      "rating": "N/A",
+      "year": "2026",
+      "category": "Japon Dizileri",
+      "type": "series"
+    },
+    {
+      "title": "Marry My Husband: Japon",
+      "url": "https://dizikorea3.com/dizi/marry-my-husband-japon-izle-dq",
+      "poster": "https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/marry-my-husband-japon-9588-180w-q70.webp?v=1786118491",
+      "rating": "N/A",
+      "year": "2026",
+      "category": "Japon Dizileri",
+      "type": "series"
+    },
+    {
+      "title": "Tagusari Bros",
+      "url": "https://dizikorea3.com/dizi/tagusari-bros-izle-dq",
+      "poster": "https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/tagusari-bros-6542-180w-q70.webp?v=1786118535",
+      "rating": "N/A",
+      "year": "2026",
+      "category": "Japon Dizileri",
+      "type": "series"
+    },
+    {
+      "title": "Miss King",
+      "url": "https://dizikorea3.com/dizi/miss-king-izle-dq",
+      "poster": "https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/miss-king-3002-180w-q70.webp?v=1786118574",
+      "rating": "N/A",
+      "year": "2026",
+      "category": "Japon Dizileri",
+      "type": "series"
+    },
+    {
+      "title": "Scandal Eve",
+      "url": "https://dizikorea3.com/dizi/scandal-eve-izle-dq",
+      "poster": "https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/scandal-eve-5104-180w-q70.webp?v=1786118502",
+      "rating": "N/A",
+      "year": "2026",
+      "category": "Japon Dizileri",
+      "type": "series"
+    },
+    {
+      "title": "Silent Truth",
+      "url": "https://dizikorea3.com/dizi/silent-truth-izle-dq",
+      "poster": "https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/silent-truth-6604-180w-q70.webp?v=1786118564",
+      "rating": "N/A",
+      "year": "2026",
+      "category": "Japon Dizileri",
+      "type": "series"
+    },
+    {
+      "title": "Strobe Edge",
+      "url": "https://dizikorea3.com/dizi/strobe-edge-izle-dq",
+      "poster": "https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/strobe-edge-8112-180w-q70.webp?v=1786118502",
+      "rating": "N/A",
+      "year": "2026",
+      "category": "Japon Dizileri",
+      "type": "series"
+    },
+    {
+      "title": "Synanthrope",
+      "url": "https://dizikorea3.com/dizi/synanthrope-izle-dq",
+      "poster": "https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/synanthrope-5957-180w-q70.webp?v=1786118502",
+      "rating": "N/A",
+      "year": "2026",
+      "category": "Japon Dizileri",
+      "type": "series"
+    },
+    {
+      "title": "Queen of Mars",
+      "url": "https://dizikorea3.com/dizi/queen-of-mars-izle-dq",
+      "poster": "https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/queen-of-mars-8420-180w-q70.webp?v=1786118478",
+      "rating": "N/A",
+      "year": "2026",
+      "category": "Japon Dizileri",
+      "type": "series"
+    },
+    {
+      "title": "Cinderella Closet",
+      "url": "https://dizikorea3.com/dizi/cinderella-closet-izle-dq",
+      "poster": "https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/cinderella-closet-5424-180w-q70.webp?v=1786118503",
+      "rating": "N/A",
+      "year": "2026",
+      "category": "Japon Dizileri",
+      "type": "series"
+    },
+    {
+      "title": "Romantics Anonymous",
+      "url": "https://dizikorea3.com/dizi/romantics-anonymous-izle-dq",
+      "poster": "https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/romantics-anonymous-6192-180w-q70.webp?v=1786118573",
+      "rating": "N/A",
+      "year": "2026",
+      "category": "Japon Dizileri",
+      "type": "series"
+    },
+    {
+      "title": "Salvation, Swallowed by the Nest",
+      "url": "https://dizikorea3.com/dizi/salvation-swallowed-by-the-nest-izle-dq",
+      "poster": "https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/salvation-swallowed-by-the-nest-6327-180w-q70.webp?v=1786118607",
+      "rating": "N/A",
+      "year": "2026",
+      "category": "Japon Dizileri",
+      "type": "series"
+    },
+    {
+      "title": "Tsuiraku JK to Haijin Kyoshi",
+      "url": "https://dizikorea3.com/dizi/tsuiraku-jk-to-haijin-kyoshi-izle-dq",
+      "poster": "https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/tsuiraku-jk-to-haijin-kyoshi-6477-180w-q70.webp?v=1786118606",
+      "rating": "N/A",
+      "year": "2026",
+      "category": "Japon Dizileri",
+      "type": "series"
+    },
+    {
+      "title": "Oshi No Ko",
+      "url": "https://dizikorea3.com/dizi/oshi-no-ko-izle-dq",
+      "poster": "https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/oshi-no-ko-6520-180w-q70.webp?v=1786118579",
+      "rating": "N/A",
+      "year": "2026",
+      "category": "Japon Dizileri",
+      "type": "series"
+    },
+    {
+      "title": "Beyond Goodbye",
+      "url": "https://dizikorea3.com/dizi/beyond-goodbye-izle-dq",
+      "poster": "https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/beyond-goodbye-6946-180w-q70.webp?v=1786118607",
+      "rating": "N/A",
+      "year": "2026",
+      "category": "Japon Dizileri",
+      "type": "series"
+    },
+    {
+      "title": "My Tutor, My Love",
+      "url": "https://dizikorea3.com/dizi/my-tutor-my-love-izle",
+      "poster": "https://dizikorea3.com/assets/uploads/series/.thumbs/my-tutor-my-love-180w-q70.webp?v=1786894574",
+      "rating": "N/A",
+      "year": "2026",
+      "category": "Tayland Dizileri",
+      "type": "series"
+    },
+    {
+      "title": "The Hidden Shadow",
+      "url": "https://dizikorea3.com/dizi/the-hidden-shadow-izle",
+      "poster": "https://dizikorea3.com/assets/uploads/series/.thumbs/the-hidden-shadow-180w-q70.webp?v=1786118478",
+      "rating": "N/A",
+      "year": "2026",
+      "category": "Tayland Dizileri",
+      "type": "series"
+    },
+    {
+      "title": "The Fridge",
+      "url": "https://dizikorea3.com/dizi/the-fridge-izle-dq",
+      "poster": "https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/the-fridge-7224-180w-q70.webp?v=1786118478",
+      "rating": "N/A",
+      "year": "2026",
+      "category": "Tayland Dizileri",
+      "type": "series"
+    },
+    {
+      "title": "Girl from Nowhere the Reset",
+      "url": "https://dizikorea3.com/dizi/girl-from-nowhere-the-reset-izle-dq1",
+      "poster": "https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/girl-from-nowhere-the-reset-8132-180w-q70.webp?v=1786118478",
+      "rating": "N/A",
+      "year": "2026",
+      "category": "Tayland Dizileri",
+      "type": "series"
+    },
+    {
+      "title": "Zomvivor",
+      "url": "https://dizikorea3.com/dizi/zomvivor-izle-dq",
+      "poster": "https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/zomvivor-173-180w-q70.webp?v=1786118564",
+      "rating": "N/A",
+      "year": "2026",
+      "category": "Tayland Dizileri",
+      "type": "series"
+    },
+    {
+      "title": "Thai Sweet",
+      "url": "https://dizikorea3.com/dizi/thai-sweet-izle-dq",
+      "poster": "https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/thai-sweet-7362-180w-q70.webp?v=1786118478",
+      "rating": "N/A",
+      "year": "2026",
+      "category": "Tayland Dizileri",
+      "type": "series"
+    },
+    {
+      "title": "Beauty Reborn",
+      "url": "https://dizikorea3.com/dizi/beauty-reborn-izle-dq",
+      "poster": "https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/beauty-reborn-775-180w-q70.webp?v=1786118535",
+      "rating": "N/A",
+      "year": "2026",
+      "category": "Tayland Dizileri",
+      "type": "series"
+    },
+    {
+      "title": "Wrong Side of the Rainbow",
+      "url": "https://dizikorea3.com/dizi/wrong-side-of-the-rainbow-izle-dq",
+      "poster": "https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/wrong-side-of-the-rainbow-9280-180w-q70.webp?v=1786118478",
+      "rating": "N/A",
+      "year": "2026",
+      "category": "Tayland Dizileri",
+      "type": "series"
+    },
+    {
+      "title": "Start-Up",
+      "url": "https://dizikorea3.com/dizi/start-up-izle-dq",
+      "poster": "https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/start-up-4531-180w-q70.webp?v=1786118564",
+      "rating": "N/A",
+      "year": "2026",
+      "category": "Tayland Dizileri",
+      "type": "series"
+    },
+    {
+      "title": "Homeroom",
+      "url": "https://dizikorea3.com/dizi/homeroom-izle-dq",
+      "poster": "https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/homeroom-5725-180w-q70.webp?v=1786118692",
+      "rating": "N/A",
+      "year": "2026",
+      "category": "Tayland Dizileri",
+      "type": "series"
+    },
+    {
+      "title": "Whisper of Desire",
+      "url": "https://dizikorea3.com/dizi/whisper-of-desire-izle",
+      "poster": "https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/whisper-of-desire-7192-180w-q70.webp?v=1786118597",
+      "rating": "N/A",
+      "year": "2026",
+      "category": "Tayland Dizileri",
+      "type": "series"
+    },
+    {
+      "title": "Harmony Secret",
+      "url": "https://dizikorea3.com/dizi/harmony-secret-izle-dq",
+      "poster": "https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/harmony-secret-6902-180w-q70.webp?v=1786118691",
+      "rating": "N/A",
+      "year": "2026",
+      "category": "Tayland Dizileri",
+      "type": "series"
+    },
+    {
+      "title": "Thicha",
+      "url": "https://dizikorea3.com/dizi/thicha-izle-dq",
+      "poster": "https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/thicha-1597-180w-q70.webp?v=1786118691",
+      "rating": "N/A",
+      "year": "2026",
+      "category": "Tayland Dizileri",
+      "type": "series"
+    },
+    {
+      "title": "Happiness",
+      "url": "https://dizikorea3.com/dizi/happiness-izle-dq",
+      "poster": "https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/happiness-9968-180w-q70.webp?v=1786118656",
+      "rating": "N/A",
+      "year": "2026",
+      "category": "Tayland Dizileri",
+      "type": "series"
+    },
+    {
+      "title": "A Love So Beautiful",
+      "url": "https://dizikorea3.com/dizi/a-love-so-beautiful-izle-dq",
+      "poster": "https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/a-love-so-beautiful-4227-180w-q70.webp?v=1786118691",
+      "rating": "N/A",
+      "year": "2026",
+      "category": "Tayland Dizileri",
+      "type": "series"
+    },
+    {
+      "title": "Break Up Service",
+      "url": "https://dizikorea3.com/dizi/break-up-service-izle-dq",
+      "poster": "https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/break-up-service-9299-180w-q70.webp?v=1786118691",
+      "rating": "N/A",
+      "year": "2026",
+      "category": "Tayland Dizileri",
+      "type": "series"
+    },
+    {
+      "title": "High School Frenemy",
+      "url": "https://dizikorea3.com/dizi/high-school-frenemy-izle-dq",
+      "poster": "https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/high-school-frenemy-6183-180w-q70.webp?v=1786118691",
+      "rating": "N/A",
+      "year": "2026",
+      "category": "Tayland Dizileri",
+      "type": "series"
+    },
+    {
+      "title": "9 Years of You",
+      "url": "https://dizikorea3.com/dizi/9-years-of-you-izle-dq",
+      "poster": "https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/9-years-of-you-9830-180w-q70.webp?v=1786118691",
+      "rating": "N/A",
+      "year": "2026",
+      "category": "Tayland Dizileri",
+      "type": "series"
+    },
+    {
+      "title": "I Love ‘A Lot Of’ You",
+      "url": "https://dizikorea3.com/dizi/i-love-a-lot-of-you-izle-dq",
+      "poster": "https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/i-love-a-lot-of-you-9502-180w-q70.webp?v=1786118692",
+      "rating": "N/A",
+      "year": "2026",
+      "category": "Tayland Dizileri",
+      "type": "series"
+    },
+    {
+      "title": "Terror Tuesday: Extreme",
+      "url": "https://dizikorea3.com/dizi/terror-tuesday-extreme-izle-dq",
+      "poster": "https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/terror-tuesday-extreme-431-180w-q70.webp?v=1786118691",
+      "rating": "N/A",
+      "year": "2026",
+      "category": "Tayland Dizileri",
+      "type": "series"
+    },
+    {
+      "title": "The Dark Dice",
+      "url": "https://dizikorea3.com/dizi/the-dark-dice-izle-dq",
+      "poster": "https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/the-dark-dice-9365-180w-q70.webp?v=1786118692",
+      "rating": "N/A",
+      "year": "2026",
+      "category": "Tayland Dizileri",
+      "type": "series"
+    },
+    {
+      "title": "The Scent of Hers",
+      "url": "https://dizikorea3.com/dizi/the-scent-of-hers-izle-dq",
+      "poster": "https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/the-scent-of-hers-8820-180w-q70.webp?v=1786118691",
+      "rating": "N/A",
+      "year": "2026",
+      "category": "Tayland Dizileri",
+      "type": "series"
+    },
+    {
+      "title": "Dalah: Death and the Flowers",
+      "url": "https://dizikorea3.com/dizi/dalah-death-and-the-flowers-izle-dq",
+      "poster": "https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/dalah-death-and-the-flowers-2470-180w-q70.webp?v=1786118692",
+      "rating": "N/A",
+      "year": "2026",
+      "category": "Tayland Dizileri",
+      "type": "series"
+    },
+    {
+      "title": "Leap Day",
+      "url": "https://dizikorea3.com/dizi/leap-day-izle-dq",
+      "poster": "https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/leap-day-5197-180w-q70.webp?v=1786118692",
+      "rating": "N/A",
+      "year": "2026",
+      "category": "Tayland Dizileri",
+      "type": "series"
+    },
+    {
+      "title": "The Fixers",
+      "url": "https://dizikorea3.com/dizi/the-fixers-izle",
+      "poster": "https://dizikorea3.com/assets/uploads/series/.thumbs/the-fixers-180w-q70.webp?v=1790316807",
+      "rating": "N/A",
+      "year": "2026",
+      "category": "Tayvan Dizileri",
+      "type": "series"
+    },
+    {
+      "title": "Oops! I’m in Jail",
+      "url": "https://dizikorea3.com/dizi/oops-im-in-jail-izle-dq",
+      "poster": "https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/oops-i-m-in-jail-9299-180w-q70.webp?v=1786118478",
+      "rating": "N/A",
+      "year": "2026",
+      "category": "Tayvan Dizileri",
+      "type": "series"
+    },
+    {
+      "title": "Had I Not Seen the Sun",
+      "url": "https://dizikorea3.com/dizi/had-i-not-seen-the-sun-izle-dq",
+      "poster": "https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/had-i-not-seen-the-sun-1215-180w-q70.webp?v=1786118473",
+      "rating": "N/A",
+      "year": "2026",
+      "category": "Tayvan Dizileri",
+      "type": "series"
+    },
+    {
+      "title": "Adrift in Love",
+      "url": "https://dizikorea3.com/dizi/adrift-in-love-izle-dq",
+      "poster": "https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/adrift-in-love-6514-180w-q70.webp?v=1786118478",
+      "rating": "N/A",
+      "year": "2026",
+      "category": "Tayvan Dizileri",
+      "type": "series"
+    },
+    {
+      "title": "Million-Follower Detective",
+      "url": "https://dizikorea3.com/dizi/million-follower-detective-izle-dq",
+      "poster": "https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/million-follower-detective-1254-180w-q70.webp?v=1786118479",
+      "rating": "N/A",
+      "year": "2026",
+      "category": "Tayvan Dizileri",
+      "type": "series"
+    },
+    {
+      "title": "Forget You Not",
+      "url": "https://dizikorea3.com/dizi/forget-you-not-izle-dq",
+      "poster": "https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/forget-you-not-8373-180w-q70.webp?v=1786118479",
+      "rating": "N/A",
+      "year": "2026",
+      "category": "Tayvan Dizileri",
+      "type": "series"
+    },
+    {
+      "title": "Breeze by the Sea",
+      "url": "https://dizikorea3.com/dizi/breeze-by-the-sea-izle-dq4",
+      "poster": "https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/breeze-by-the-sea-2497-180w-q70.webp?v=1786118914",
+      "rating": "N/A",
+      "year": "2026",
+      "category": "Tayvan Dizileri",
+      "type": "series"
+    },
+    {
+      "title": "I Am Married...but!",
+      "url": "https://dizikorea3.com/dizi/i-am-married-but-izle-dq",
+      "poster": "https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/i-am-married-but-7690-180w-q70.webp?v=1786118914",
+      "rating": "N/A",
+      "year": "2026",
+      "category": "Tayvan Dizileri",
+      "type": "series"
+    },
+    {
+      "title": "Who’s the Boss",
+      "url": "https://dizikorea3.com/dizi/who-s-the-boss-izle-dq",
+      "poster": "https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/who-s-the-boss-2182-180w-q70.webp?v=1786118914",
+      "rating": "N/A",
+      "year": "2026",
+      "category": "Tayvan Dizileri",
+      "type": "series"
+    },
+    {
+      "title": "GG Precinct",
+      "url": "https://dizikorea3.com/dizi/gg-precinct-izle-dq",
+      "poster": "https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/gg-precinct-4501-180w-q70.webp?v=1786118914",
+      "rating": "N/A",
+      "year": "2026",
+      "category": "Tayvan Dizileri",
+      "type": "series"
+    },
+    {
+      "title": "Women in Taipei",
+      "url": "https://dizikorea3.com/dizi/women-in-taipei-izle-dq",
+      "poster": "https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/women-in-taipei-3503-180w-q70.webp?v=1786118914",
+      "rating": "N/A",
+      "year": "2026",
+      "category": "Tayvan Dizileri",
+      "type": "series"
+    },
+    {
+      "title": "More than Blue: The Series",
+      "url": "https://dizikorea3.com/dizi/more-than-blue-the-series-izle-dq",
+      "poster": "https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/more-than-blue-the-series-4295-180w-q70.webp?v=1786118915",
+      "rating": "N/A",
+      "year": "2026",
+      "category": "Tayvan Dizileri",
+      "type": "series"
+    },
+    {
+      "title": "Dirty Laundry",
+      "url": "https://dizikorea3.com/dizi/dirty-laundry-izle-dq",
+      "poster": "https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/dirty-laundry-6519-180w-q70.webp?v=1786118915",
+      "rating": "N/A",
+      "year": "2026",
+      "category": "Tayvan Dizileri",
+      "type": "series"
+    },
+    {
+      "title": "The Wave Makers",
+      "url": "https://dizikorea3.com/dizi/the-wave-makers-izle-dq",
+      "poster": "https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/the-wave-makers-1318-180w-q70.webp?v=1786118915",
+      "rating": "N/A",
+      "year": "2026",
+      "category": "Tayvan Dizileri",
+      "type": "series"
+    },
+    {
+      "title": "Copycat Killer",
+      "url": "https://dizikorea3.com/dizi/copycat-killer-izle-dq",
+      "poster": "https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/copycat-killer-7087-180w-q70.webp?v=1786118915",
+      "rating": "N/A",
+      "year": "2026",
+      "category": "Tayvan Dizileri",
+      "type": "series"
+    },
+    {
+      "title": "Nurse the Dead",
+      "url": "https://dizikorea3.com/dizi/nurse-the-dead-izle",
+      "poster": "https://dizikorea3.com/assets/uploads/series/.thumbs/nurse-the-dead-180w-q70.webp?v=1786118472",
+      "rating": "N/A",
+      "year": "2026",
+      "category": "Filipin Dizileri",
+      "type": "series"
+    },
+    {
+      "title": "Project Loki",
+      "url": "https://dizikorea3.com/dizi/project-loki-izle-dq",
+      "poster": "https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/project-loki-7710-180w-q70.webp?v=1786118479",
+      "rating": "N/A",
+      "year": "2026",
+      "category": "Filipin Dizileri",
+      "type": "series"
+    },
+    {
+      "title": "Dating Alys Perez",
+      "url": "https://dizikorea3.com/dizi/dating-alys-perez-izle-dq",
+      "poster": "https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/dating-alys-perez-2253-180w-q70.webp?v=1786118479",
+      "rating": "N/A",
+      "year": "2026",
+      "category": "Filipin Dizileri",
+      "type": "series"
+    },
+    {
+      "title": "Bad Genius",
+      "url": "https://dizikorea3.com/dizi/bad-genius-izle-dq",
+      "poster": "https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/bad-genius-3042-180w-q70.webp?v=1786118479",
+      "rating": "N/A",
+      "year": "2026",
+      "category": "Filipin Dizileri",
+      "type": "series"
+    },
+    {
+      "title": "My Husband Is a Mafia Boss",
+      "url": "https://dizikorea3.com/dizi/my-husband-is-a-mafia-boss-izle-dq",
+      "poster": "https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/my-husband-is-a-mafia-boss-7510-180w-q70.webp?v=1786118479",
+      "rating": "N/A",
+      "year": "2026",
+      "category": "Filipin Dizileri",
+      "type": "series"
+    },
+    {
+      "title": "Seducing Drake Palma",
+      "url": "https://dizikorea3.com/dizi/seducing-drake-palma-izle-dq",
+      "poster": "https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/seducing-drake-palma-2813-180w-q70.webp?v=1786118770",
+      "rating": "N/A",
+      "year": "2026",
+      "category": "Filipin Dizileri",
+      "type": "series"
+    },
+    {
+      "title": "Hell University",
+      "url": "https://dizikorea3.com/dizi/hell-university-izle-dq",
+      "poster": "https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/hell-university-5523-180w-q70.webp?v=1786118496",
+      "rating": "N/A",
+      "year": "2026",
+      "category": "Filipin Dizileri",
+      "type": "series"
+    },
+    {
+      "title": "Avenues of the Diamond",
+      "url": "https://dizikorea3.com/dizi/avenues-of-the-diamond-izle-dq",
+      "poster": "https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/avenues-of-the-diamond-5967-180w-q70.webp?v=1786118496",
+      "rating": "N/A",
+      "year": "2026",
+      "category": "Filipin Dizileri",
+      "type": "series"
+    },
+    {
+      "title": "Pyramid Game",
+      "url": "https://dizikorea3.com/dizi/pyramid-game-izle-dq1",
+      "poster": "https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/pyramid-game-2289-180w-q70.webp?v=1786118472",
+      "rating": "N/A",
+      "year": "2026",
+      "category": "Efsane Diziler",
+      "type": "series"
+    },
+    {
+      "title": "W: Two Worlds Apart",
+      "url": "https://dizikorea3.com/dizi/w-two-worlds-apart-izle-dq",
+      "poster": "https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/w-two-worlds-apart-82-180w-q70.webp?v=1786118473",
+      "rating": "N/A",
+      "year": "2026",
+      "category": "Efsane Diziler",
+      "type": "series"
+    },
+    {
+      "title": "Dear X",
+      "url": "https://dizikorea3.com/dizi/dear-x-izle-dq3",
+      "poster": "https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/dear-x-8805-180w-q70.webp?v=1786118541",
+      "rating": "N/A",
+      "year": "2026",
+      "category": "Efsane Diziler",
+      "type": "series"
+    },
+    {
+      "title": "Study Group",
+      "url": "https://dizikorea3.com/dizi/study-group-izle-dq2",
+      "poster": "https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/study-group-6665-180w-q70.webp?v=1786118536",
+      "rating": "N/A",
+      "year": "2026",
+      "category": "Efsane Diziler",
+      "type": "series"
+    },
+    {
+      "title": "Speed and Love",
+      "url": "https://dizikorea3.com/dizi/speed-and-love-izle-dq",
+      "poster": "https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/speed-and-love-9085-180w-q70.webp?v=1786118462",
+      "rating": "N/A",
+      "year": "2026",
+      "category": "Efsane Diziler",
+      "type": "series"
+    },
+    {
+      "title": "Friendly Rivalry",
+      "url": "https://dizikorea3.com/dizi/friendly-rivalry-izle-dq",
+      "poster": "https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/friendly-rivalry-146-180w-q70.webp?v=1786118538",
+      "rating": "N/A",
+      "year": "2026",
+      "category": "Efsane Diziler",
+      "type": "series"
+    },
+    {
+      "title": "Would You Marry Me?",
+      "url": "https://dizikorea3.com/dizi/would-you-marry-me-izle-dq1",
+      "poster": "https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/would-you-marry-me-1265-180w-q70.webp?v=1786118536",
+      "rating": "N/A",
+      "year": "2026",
+      "category": "Efsane Diziler",
+      "type": "series"
+    },
+    {
+      "title": "Spirit Fingers",
+      "url": "https://dizikorea3.com/dizi/spirit-fingers-izle-dq1",
+      "poster": "https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/spirit-fingers-1629-180w-q70.webp?v=1786118535",
+      "rating": "N/A",
+      "year": "2026",
+      "category": "Efsane Diziler",
+      "type": "series"
+    },
+    {
+      "title": "Teach You a Lesson",
+      "url": "https://dizikorea3.com/dizi/teach-you-a-lesson-izle-dq1",
+      "poster": "https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/teach-you-a-lesson-3664-180w-q70.webp?v=1786118540",
+      "rating": "N/A",
+      "year": "2026",
+      "category": "Efsane Diziler",
+      "type": "series"
+    },
+    {
+      "title": "Head over Heels",
+      "url": "https://dizikorea3.com/dizi/head-over-heels-izle-dq2",
+      "poster": "https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/head-over-heels-979-180w-q70.webp?v=1786118535",
+      "rating": "N/A",
+      "year": "2026",
+      "category": "Efsane Diziler",
+      "type": "series"
+    },
+    {
+      "title": "Weak Hero Class 2",
+      "url": "https://dizikorea3.com/dizi/weak-hero-class-2-izle-dq",
+      "poster": "https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/weak-hero-class-2-1290-180w-q70.webp?v=1786118571",
+      "rating": "N/A",
+      "year": "2026",
+      "category": "Efsane Diziler",
+      "type": "series"
+    },
+    {
+      "title": "Perfect Crown",
+      "url": "https://dizikorea3.com/dizi/perfect-crown-izle-dq1",
+      "poster": "https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/perfect-crown-558-180w-q70.webp?v=1786118541",
+      "rating": "N/A",
+      "year": "2026",
+      "category": "Efsane Diziler",
+      "type": "series"
+    },
+    {
+      "title": "Love Next Door",
+      "url": "https://dizikorea3.com/dizi/love-next-door-izleex",
+      "poster": "https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/love-next-door-5-180w-q70.webp?v=1786118572",
+      "rating": "N/A",
+      "year": "2026",
+      "category": "Efsane Diziler",
+      "type": "series"
+    },
+    {
+      "title": "When Life Gives You Tangerines",
+      "url": "https://dizikorea3.com/dizi/when-life-gives-you-tangerines-izle-dq1",
+      "poster": "https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/when-life-gives-you-tangerines-5847-180w-q70.webp?v=1786118537",
+      "rating": "N/A",
+      "year": "2026",
+      "category": "Efsane Diziler",
+      "type": "series"
+    },
+    {
+      "title": "Dynamite Kiss",
+      "url": "https://dizikorea3.com/dizi/dynamite-kiss-izle-dq2",
+      "poster": "https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/dynamite-kiss-1112-180w-q70.webp?v=1786118536",
+      "rating": "N/A",
+      "year": "2026",
+      "category": "Efsane Diziler",
+      "type": "series"
+    },
+    {
+      "title": "A Business Proposal",
+      "url": "https://dizikorea3.com/dizi/a-business-proposal-izle-dq1",
+      "poster": "https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/a-business-proposal-5629-180w-q70.webp?v=1786118775",
+      "rating": "N/A",
+      "year": "2026",
+      "category": "Efsane Diziler",
+      "type": "series"
+    },
+    {
+      "title": "F4 Thailand: Boys Over Flowers",
+      "url": "https://dizikorea3.com/dizi/f4-thailand-boys-over-flowers-izle-dq1",
+      "poster": "https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/f4-thailand-boys-over-flowers-3169-180w-q70.webp?v=1786118692",
+      "rating": "N/A",
+      "year": "2026",
+      "category": "Efsane Diziler",
+      "type": "series"
+    },
+    {
+      "title": "Goblin",
+      "url": "https://dizikorea3.com/dizi/goblin-izle-dq1",
+      "poster": "https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/goblin-1033-180w-q70.webp?v=1786118703",
+      "rating": "N/A",
+      "year": "2026",
+      "category": "Efsane Diziler",
+      "type": "series"
+    },
+    {
+      "title": "Doom at Your Service",
+      "url": "https://dizikorea3.com/dizi/doom-at-your-service-izle-dq",
+      "poster": "https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/doom-at-your-service-7561-180w-q70.webp?v=1786118828",
+      "rating": "N/A",
+      "year": "2026",
+      "category": "Efsane Diziler",
+      "type": "series"
+    },
+    {
+      "title": "Revenge of Others",
+      "url": "https://dizikorea3.com/dizi/revenge-of-others-izle-dq1",
+      "poster": "https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/revenge-of-others-5273-180w-q70.webp?v=1786118703",
+      "rating": "N/A",
+      "year": "2026",
+      "category": "Efsane Diziler",
+      "type": "series"
+    },
+    {
+      "title": "Lovely Runner",
+      "url": "https://dizikorea3.com/dizi/lovely-runner-izle-dq2",
+      "poster": "https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/lovely-runner-8294-180w-q70.webp?v=1786118697",
+      "rating": "N/A",
+      "year": "2026",
+      "category": "Efsane Diziler",
+      "type": "series"
+    },
+    {
+      "title": "Happiness",
+      "url": "https://dizikorea3.com/dizi/happiness-2021-izle-dq",
+      "poster": "https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/happiness-308-180w-q70.webp?v=1786119418",
+      "rating": "N/A",
+      "year": "2026",
+      "category": "Efsane Diziler",
+      "type": "series"
+    },
+    {
+      "title": "Extraordinary You",
+      "url": "https://dizikorea3.com/dizi/extraordinary-you-izle-dq",
+      "poster": "https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/extraordinary-you-89-180w-q70.webp?v=1786118697",
+      "rating": "N/A",
+      "year": "2026",
+      "category": "Efsane Diziler",
+      "type": "series"
+    },
+    {
+      "title": "Nevertheless,",
+      "url": "https://dizikorea3.com/dizi/nevertheless-izle-dq",
+      "poster": "https://dizikorea3.com/assets/uploads/legacy/series/original/.thumbs/nevertheless-54-180w-q70.webp?v=1786119703",
+      "rating": "N/A",
+      "year": "2026",
+      "category": "Efsane Diziler",
       "type": "series"
     }
   ]
