@@ -72,7 +72,6 @@ class DiziKoreaProvider : MainAPI() {
             .ifBlank { doc.selectFirst(".series-about-body, .series-about")?.text()?.trim() }
 
         val year = doc.selectFirst(".series-meta .meta-badge:matches(\\d{4})")?.text()?.trim()?.toIntOrNull()
-        val rating = doc.selectFirst(".meta-rating")?.text()?.replace("★", "")?.trim()?.toRatingInt()
 
         val isMovie = url.contains("/film/")
 
@@ -81,7 +80,6 @@ class DiziKoreaProvider : MainAPI() {
                 this.posterUrl = poster
                 this.plot = desc
                 this.year = year
-                this.rating = rating
             }
         }
 
@@ -104,7 +102,6 @@ class DiziKoreaProvider : MainAPI() {
             this.posterUrl = poster
             this.plot = desc
             this.year = year
-            this.rating = rating
         }
     }
 
@@ -116,14 +113,12 @@ class DiziKoreaProvider : MainAPI() {
     ): Boolean {
         val doc = app.get(data).document
         
-        // 1. Doğrudan sayfadaki iframe ve data-src'ler (playerdkorea vs.)
         val iframes = mutableSetOf<String>()
         doc.select("iframe").forEach { iframe ->
             val src = iframe.attr("src").ifBlank { iframe.attr("data-src") }
             if (src.isNotBlank()) iframes.add(fixUrl(src))
         }
 
-        // 2. Her bir iframe/player kaynağını çözümle
         for (ifr in iframes) {
             if (ifr.contains("playerdkorea") || ifr.contains("playerkorea") || ifr.contains("firevideoplayer")) {
                 extractFirePlayer(ifr, data, subtitleCallback, callback)
@@ -143,7 +138,6 @@ class DiziKoreaProvider : MainAPI() {
         try {
             val response = app.get(url, referer = referer).text
             
-            // JWPlayer / m3u8 veya direct mp4 linki tespiti
             val m3u8Regex = Regex("""(?:file|url)\s*:\s*["'](https?://[^"']+\.m3u8[^"']*)["']""")
             val mp4Regex = Regex("""(?:file|url)\s*:\s*["'](https?://[^"']+\.mp4[^"']*)["']""")
 
@@ -157,13 +151,11 @@ class DiziKoreaProvider : MainAPI() {
 
             mp4Regex.find(response)?.groupValues?.get(1)?.let { mp4Url ->
                 callback(
-                    ExtractorLink(
-                        source = name,
+                    newExtractorLink(
                         name = name,
+                        source = name,
                         url = mp4Url,
-                        referer = url,
-                        quality = Qualities.P1080.value,
-                        isM3u8 = false
+                        type = ExtractorLinkType.VIDEO
                     )
                 )
             }
