@@ -16,7 +16,6 @@ java {
 
 tasks.withType<KotlinCompile> {
     compilerOptions {
-        // Disables some unnecessary features
         freeCompilerArgs.addAll(
             listOf(
                 "-Xno-call-assertions",
@@ -25,7 +24,7 @@ tasks.withType<KotlinCompile> {
             )
         )
 
-        jvmTarget.set(JvmTarget.JVM_11)  // Required
+        jvmTarget.set(JvmTarget.JVM_11)
     }
 }
 
@@ -39,10 +38,10 @@ dependencies {
     implementation(kotlin("stdlib", kotlin.coreLibrariesVersion))
     compileOnly(gradleApi())
 
-    compileOnly("com.google.guava:guava:33.6.0-jre")
-    compileOnly("com.android.tools:sdk-common:32.1.1")
-    compileOnly("com.android.tools.build:gradle:9.1.1")
-    compileOnly("org.jetbrains.kotlin:kotlin-gradle-plugin:2.4.0")
+    implementation("com.google.guava:guava:33.6.0-jre")
+    implementation("com.android.tools:sdk-common:32.1.1")
+    implementation("com.android.tools.build:gradle:8.2.2")
+    implementation("org.jetbrains.kotlin:kotlin-gradle-plugin:1.9.22")
 
     implementation("org.ow2.asm:asm:9.9.1")
     implementation("org.ow2.asm:asm-tree:9.9.1")
@@ -54,24 +53,6 @@ gradlePlugin {
         create("com.lagradost.cloudstream3.gradle") {
             id = "com.lagradost.cloudstream3.gradle"
             implementationClass = "com.lagradost.cloudstream3.gradle.CloudstreamPlugin"
-        }
-    }
-}
-
-publishing {
-    repositories {
-        mavenLocal()
-
-        val token = project.findProperty("gpr.key") as String? ?: System.getenv("GITHUB_TOKEN")
-
-        if (token != null) {
-            maven {
-                credentials {
-                    username = "recloudstream"
-                    password = token
-                }
-                setUrl("https://maven.pkg.github.com/recloudstream/gradle")
-            }
         }
     }
 }
