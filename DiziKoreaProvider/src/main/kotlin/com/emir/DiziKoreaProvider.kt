@@ -53,10 +53,48 @@ class DiziKoreaProvider : MainAPI() {
         }
     }
 
+    data class SearchItem(
+        val title: String,
+        val url: String,
+        val poster: String? = null,
+        val type: String? = null
+    )
+
+    data class SearchApiResponse(
+        val success: Boolean = false,
+        val items: List<SearchItem>? = null
+    )
+
     override suspend fun search(query: String): List<SearchResponse> {
-        val url = "$mainUrl/?s=$query"
-        val doc = app.get(url).document
-        return doc.select("a.poster-card").mapNotNull { toSearchResponse(it) }
+        return try {
+            val apiUrl = "$mainUrl/ara?q=${query.trim().replace(" ", "+")}"
+            val res = app.get(
+                apiUrl,
+                headers = mapOf(
+                    "X-Requested-With" to "XMLHttpRequest",
+                    "Referer" to "$mainUrl/"
+                )
+            ).parsedSafe<SearchApiResponse>()
+
+            res?.items?.mapNotNull { item ->
+                val href = fixUrlNull(item.url) ?: return@mapNotNull null
+                val isMovie = item.type == "movie" || href.contains("/film/")
+                val type = if (isMovie) TvType.Movie else TvType.TvSeries
+                val posterUrl = fixUrlNull(item.poster)
+
+                if (isMovie) {
+                    newMovieSearchResponse(item.title, href, type) {
+                        this.posterUrl = posterUrl
+                    }
+                } else {
+                    newTvSeriesSearchResponse(item.title, href, type) {
+                        this.posterUrl = posterUrl
+                    }
+                }
+            } ?: emptyList()
+        } catch (_: Exception) {
+            emptyList()
+        }
     }
 
     override suspend fun load(url: String): LoadResponse {
@@ -136,7 +174,14 @@ class DiziKoreaProvider : MainAPI() {
         val iframes = mutableSetOf<String>()
         doc.select("iframe").forEach { iframe ->
             val src = iframe.attr("data-src").ifBlank { iframe.attr("src") }
-            if (src.isNotBlank()) iframes.add(fixUrl(src))
+            if (src.isNotBlank()) {
+                val fixed = fixUrl(src)
+                iframes.add(fixed)
+                if (fixed.contains("vidmoly.biz")) {
+                    iframes.add(fixed.replace("vidmoly.biz", "vidmoly.to"))
+                    iframes.add(fixed.replace("vidmoly.biz", "vidmoly.net"))
+                }
+            }
         }
 
         for (ifr in iframes) {
