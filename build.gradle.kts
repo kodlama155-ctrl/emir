@@ -36,6 +36,8 @@ subprojects {
     }
 
     android {
+        namespace = "com.emir.${project.name.lowercase()}"
+
         defaultConfig {
             minSdk = 21
             compileSdkVersion(34)
